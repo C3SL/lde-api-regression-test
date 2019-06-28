@@ -1,0 +1,28 @@
+﻿,id,region_id,name,abbreviation
+0,11,1,Rondônia,RO
+1,12,1,Acre,AC
+2,13,1,Amazonas,AM
+3,14,1,Roraima,RR
+4,15,1,Pará,PA
+5,16,1,Amapá,AP
+6,17,1,Tocantins,TO
+7,21,2,Maranhão,MA
+8,22,2,Piauí,PI
+9,23,2,Ceará,CE
+10,24,2,Rio Grande do Norte,RN
+11,25,2,Paraíba,PB
+12,26,2,Pernambuco,PE
+13,27,2,Alagoas,AL
+14,28,2,Sergipe,SE
+15,29,2,Bahia,BA
+16,31,3,Minas Gerais,MG
+17,32,3,Espírito Santo,ES
+18,33,3,Rio de Janeiro,RJ
+19,35,3,São Paulo,SP
+20,41,4,Paraná,PR
+21,42,4,Santa Catarina,SC
+22,43,4,Rio Grande do Sul,RS
+23,50,5,Mato Grosso do Sul,MS
+24,51,5,Mato Grosso,MT
+25,52,5,Goiás,GO
+26,53,5,Distrito Federal,DF

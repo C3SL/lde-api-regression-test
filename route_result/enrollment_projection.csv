@@ -1,0 +1,57 @@
+﻿,name,urban_day_total,urban_night_total,rural_day_total,rural_night_total,education_level_school_year_id,year,education_level_school_year_name
+0,Brasil,2201716,0,256233,0,1,2017,Creche
+1,Brasil,3278122,0,685279,0,2,2017,Pré-Escola
+2,Brasil,9914168,3470,2316890,2066,3,2017,Ensino Fundamental - anos iniciais
+3,Brasil,8762511,47077,1384730,32686,4,2017,Ensino Fundamental - anos finais
+4,Brasil,5106745,1507636,222008,123682,5,2017,Ensino Médio
+5,Brasil,619020,2336799,50278,373911,6,2017,EJA
+6,Brasil,121037,0,4500,0,11,2017,Creche - Menor de 1 ano
+7,Brasil,373828,0,18936,0,12,2017,Creche - 1 ano
+8,Brasil,679705,0,65812,0,13,2017,Creche - 2 anos
+9,Brasil,1027146,0,166985,0,14,2017,Creche - 3 anos
+10,Brasil,1578756,0,319602,0,21,2017,Pré-Escola - 4 anos
+11,Brasil,1699366,0,365677,0,22,2017,Pré-Escola - 5 anos
+12,Brasil,1621820,634,369654,361,31,2017,Ens. Fundamental - 1º Ano
+13,Brasil,1893091,539,417120,461,32,2017,Ens. Fundamental - 1ª série/2º ano
+14,Brasil,2188115,523,518642,418,33,2017,Ens. Fundamental - 2ª série/3º ano
+15,Brasil,2101155,652,507711,396,34,2017,Ens. Fundamental - 3ª série/4º ano
+16,Brasil,2109987,1122,503763,430,35,2017,Ens. Fundamental - 4ª série/5º Ano
+17,Brasil,2434875,5320,421944,5026,41,2017,Ens. Fundamental - 5ª série/6º ano
+18,Brasil,2299116,9315,368337,6355,42,2017,Ens. Fundamental - 6ª série/7º ano
+19,Brasil,2107708,8787,317587,9516,43,2017,Ens. Fundamental - 7ª série/8º ano
+20,Brasil,1920812,23655,276862,11789,44,2017,Ens. Fundamental - 8ª serie/9º ano
+21,Brasil,2200499,450337,97297,46971,51,2017,Ens. Médio - 1ª série
+22,Brasil,1601696,489627,68978,40814,52,2017,Ens. Médio - 2ª série
+23,Brasil,1271924,535063,54337,35288,53,2017,Ens. Médio - 3ª série
+24,Brasil,32626,32609,1396,609,54,2017,Ens. Médio - 4ª série
+25,Brasil,61576,443629,20149,215009,61,2017,EJA - anos iniciais do Ens. Fundamental
+26,Brasil,270169,923387,23061,127198,62,2017,EJA - anos finais do Ens. Fundamental
+27,Brasil,287275,969783,7068,31704,63,2017,EJA - Ensino Médio
+28,Brasil,2308383,0,274507,0,1,2018,Creche
+29,Brasil,3320584,0,671432,0,2,2018,Pré-Escola
+30,Brasil,9835027,2951,2226501,1767,3,2018,Ensino Fundamental - anos iniciais
+31,Brasil,8758022,36663,1370954,24017,4,2018,Ensino Fundamental - anos finais
+32,Brasil,5047561,1378610,231137,120584,5,2018,Ensino Médio
+33,Brasil,607830,2291758,53601,371166,6,2018,EJA
+34,Brasil,127565,0,4756,0,11,2018,Creche - Menor de 1 ano
+35,Brasil,375231,0,19290,0,12,2018,Creche - 1 ano
+36,Brasil,715153,0,70964,0,13,2018,Creche - 2 anos
+37,Brasil,1090434,0,179497,0,14,2018,Creche - 3 anos
+38,Brasil,1617447,0,320603,0,21,2018,Pré-Escola - 4 anos
+39,Brasil,1703137,0,350829,0,22,2018,Pré-Escola - 5 anos
+40,Brasil,1646167,664,363605,302,31,2018,Ens. Fundamental - 1º Ano
+41,Brasil,1886760,336,407366,317,32,2018,Ens. Fundamental - 1ª série/2º ano
+42,Brasil,2116677,489,481596,354,33,2018,Ens. Fundamental - 2ª série/3º ano
+43,Brasil,2089312,408,488436,302,34,2018,Ens. Fundamental - 3ª série/4º ano
+44,Brasil,2096111,1054,485498,492,35,2018,Ens. Fundamental - 4ª série/5º Ano
+45,Brasil,2419610,4132,412769,3424,41,2018,Ens. Fundamental - 5ª série/6º ano
+46,Brasil,2264042,7678,364382,4713,42,2018,Ens. Fundamental - 6ª série/7º ano
+47,Brasil,2098597,7658,315186,6976,43,2018,Ens. Fundamental - 7ª série/8º ano
+48,Brasil,1975773,17195,278617,8904,44,2018,Ens. Fundamental - 8ª serie/9º ano
+49,Brasil,2085112,417902,98032,44994,51,2018,Ens. Médio - 1ª série
+50,Brasil,1631621,439593,72037,38381,52,2018,Ens. Médio - 2ª série
+51,Brasil,1297618,501098,59586,36695,53,2018,Ens. Médio - 3ª série
+52,Brasil,33210,20017,1482,514,54,2018,Ens. Médio - 4ª série
+53,Brasil,56689,437901,21679,214219,61,2018,EJA - anos iniciais do Ens. Fundamental
+54,Brasil,265317,875778,24386,124339,62,2018,EJA - anos finais do Ens. Fundamental
+55,Brasil,285824,978079,7536,32608,63,2018,EJA - Ensino Médio
