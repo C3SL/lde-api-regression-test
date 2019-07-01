@@ -3,8 +3,8 @@
 '''URL API to test'''
 BASE_URL = 'https://simcaq.c3sl.ufpr.br/api/v1/'
 
-'''List of all routes available to test'''
-ROUTE_LIST = [
+'''List of all base routes available to test'''
+BASE_ROUTE_LIST = [
 		['class'],
 		['enrollment'],
 		['state'],
@@ -41,3 +41,9 @@ ROUTE_LIST = [
 		['university_teacher'],
 		['course_count']
 ]
+
+'''SIMCAQ ROUTE LIST'''
+SIMCAQ_ROUTE_LIST = []
+
+'''LDE ROUTE LIST'''
+LDE_ROUTE_LIST = []
