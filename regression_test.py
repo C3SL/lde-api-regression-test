@@ -28,6 +28,7 @@ class RegressionTest:
 				cprint(str(ex)+" Not saved, a problem ocurred at "+name+" "+url,'red')
 	
 	def comparison(self):
+		fail = 0
 		for route in self.route_list:
 			name = route[0]
 			arguments = ''
@@ -42,15 +43,18 @@ class RegressionTest:
 				if(csv_route.equals(api_csv)): #compare csv
 					cprint(name+' OK!','green')
 				else:
+					fail+=1
 					cprint(name+' FAIL!','red')
 					print(api_csv)
 					print(csv_route)
 					#api_csv.to_csv(name+'2.csv',encoding="utf-8-sig") 
 					#csv_route.to_csv(name+'.csv',encoding="utf-8-sig") 
-					ne = pd.concat([api_csv, csv_route]).drop_duplicates(keep=False)					
-					print(ne)
+					#ne = pd.concat([api_csv, csv_route]).drop_duplicates(keep=False)					
+					#print(ne)
 			except Exception as ex:
 					cprint(str(ex)+"\n"+name+' FAIL!','red')
+					fail+=1
+		cprint('TOTAL FAIL: '+str(fail),'red')
 
 
 def main(argv):
