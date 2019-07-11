@@ -8,9 +8,11 @@ from termcolor import colored,cprint
 
 class RegressionTest:
 
-	def __init__(self):
+	def __init__(self, route):
 		self.base_url = settings.BASE_URL
-		self.route_list = settings.BASE_ROUTE_LIST
+		self.route_list = settings.BASE_ROUTE_LIST+settings.SIMCAQ_ROUTE_LIST
+		if len(route) > 0:
+			self.route_list = filter(lambda k: route[0] in k, self.route_list)
 
 	def save(self):
 		for route in self.route_list:
@@ -60,23 +62,25 @@ class RegressionTest:
 def main(argv):
 	try:
 		if(argv[0] == '--save'):
-			rt = RegressionTest()
+			rt = RegressionTest(argv[1:])
 			rt.save()
 		elif(argv[0] == '--compare'):
-			rt = RegressionTest()
+			rt = RegressionTest(argv[1:])
 			rt.comparison()
 		else:
 			print('usage: regression_test.py <command>')
 			print('commands:')
 			print('--save	   #save in file the current csv response of api')
 			print('--compare  #compare the current csv response of api with last saved file of response')
+			print('[route_name]  #optional to test or save specific routes')
 #	except:	
 	except Exception as ex:
-		cprint(str(ex)+"\n"+name+' FAIL!','red')
+		cprint(str(ex)+"\n FAIL!",'red')
 		print('usage: regression_test.py <command>')
 		print('commands:')
 		print('--save	   #save in file the current csv response of api')
 		print('--compare  #compare the current csv response of api with last saved file of response')
+		print('[route_name]  #optional to test or save specific routes')
 
 if __name__ == "__main__":
 	main(sys.argv[1:])

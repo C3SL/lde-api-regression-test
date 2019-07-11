@@ -43,7 +43,10 @@ BASE_ROUTE_LIST = [
 ]
 
 '''SIMCAQ ROUTE LIST'''
-SIMCAQ_ROUTE_LIST = []
+SIMCAQ_ROUTE_LIST = [
+	['enrollment','&dims=adm_dependency_detailed,location'],
+	['enrollment','&dims=region']
+]
 
 '''LDE ROUTE LIST'''
 LDE_ROUTE_LIST = []
