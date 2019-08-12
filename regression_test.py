@@ -74,3 +74,5 @@ class RegressionTest:
 					cprint(str(ex)+"\n"+name+' FAIL!','red')
 					fail+=1
 		cprint('TOTAL FAIL: '+str(fail),'red')
+		if (fail > 0):
+			exit(-1)
