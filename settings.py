@@ -1,7 +1,7 @@
 '''Settings used by LDE regression test'''
 
 '''URL API to test'''
-BASE_URL = 'https://simcaq.c3sl.ufpr.br/api/v1/'
+BASE_URL = 'localhost:3000/api/v1/'
 
 '''List of all base routes available to test'''
 BASE_ROUTE_LIST = [
