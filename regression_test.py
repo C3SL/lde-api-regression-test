@@ -25,8 +25,6 @@ import numpy as np
 import settings
 from termcolor import colored,cprint
 
-
-
 class RegressionTest:
 
 	def __init__(self, route):
