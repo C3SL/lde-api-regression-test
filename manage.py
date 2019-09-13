@@ -31,10 +31,10 @@ def save(route=''):
     rt.save()
 
 @manager.command
-def comparison(route=''):
+def compare(route=''):
     '''Compare multiple or one CSV route'''
     rt = RegressionTest(route)
-    rt.comparison()
+    rt.compare()
 
 
 if __name__ == "__main__":
