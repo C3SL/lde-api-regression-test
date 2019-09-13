@@ -25,8 +25,6 @@ import numpy as np
 import settings
 from termcolor import colored,cprint
 
-
-
 class RegressionTest:
 
 	def __init__(self, route):
@@ -51,7 +49,7 @@ class RegressionTest:
 			except Exception as ex:
 				cprint(str(ex)+" Not saved, a problem ocurred at "+name+" "+url,'red')
 	
-	def comparison(self):
+	def compare(self):
 		fail = 0
 		for route in self.route_list:
 			name = route[0]
