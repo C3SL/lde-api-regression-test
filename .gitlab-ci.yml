@@ -1,0 +1,16 @@
+stages:
+  - test
+
+regression_tests:
+  stage: test
+  before_script:
+    - curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+    - python get-pip.py
+    - sleep 60
+  script:
+    - cd lde-api-regression-test
+    - git checkout development
+    - pip install -r requirements.txt
+    - python manage.py compare
+  tags:
+    - ubuntu
