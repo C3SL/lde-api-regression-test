@@ -9,8 +9,6 @@ regression_tests:
     - curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
     - python get-pip.py
   script:
-    - cd lde-api-regression-test
-    - git checkout development
     - pip install -r requirements.txt
     - python manage.py compare
   tags:
