@@ -1,7 +1,16 @@
 # LDE API Regression Test #
 
-
 Regression test is a tool for validate existent functionality with each new release of code.
+
+## Table of content ##
+
+ [LDE API Regression Test](#lde-api-regression-test)
+ - [Getting Started](#getting-started)
+    - [Requirements](#requirements)
+    - [Installation](#installation)
+ - [Usage](#usage)
+    - [Set settings.py](set-settings.py)
+
 
 ## Getting Started
 
@@ -44,4 +53,3 @@ Set base url to the running API (local ex.: localhost:PORT):
 ```
 BASE_URL="https://simcaq.c3sl.ufpr.br/api/v1/"
 ```
-Set 
