@@ -46,10 +46,35 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Set settings.py
+### Configuring settings.py
 
-Set base url to the running API (local ex.: localhost:PORT):
-
+Set base url to the running API.
+Default route of LDE:
 ```
 BASE_URL="https://simcaq.c3sl.ufpr.br/api/v1/"
 ```
+Local environment route:
+```
+BASE_URL="localhost:PORT"
+```
+### Command Instructions
+
+```
+usage: manage.py <command> [<args>]
+
+positional arguments:
+  command     the command to run
+
+optional arguments:
+  -h, --help  show this help message and exit
+
+available commands:
+  compare                  Compare multiple or one CSV route
+  save                     Save multiple or one CSV route
+  -h, --help     show this help message and exit
+  --route ROUTE  no description
+```
+
+### Saving route
+
+### Compare routes
