@@ -1,7 +1,7 @@
 # LDE API Regression Test #
 
 Regression test is a tool for validate existent functionality with each new release of code.
-
+Supports only CSV responses of API.
 ## Table of content ##
 
  [LDE API Regression Test](#lde-api-regression-test)
@@ -93,6 +93,7 @@ python manage.py save --route enrollment
 ### Compare routes
 
 The command compare will compare all requisitions of routes in the list at settings file with the saved files at route_result path.
+If it has some difference between the saved file and actual response of API then the command will return fail with the number of failures.
 ```
 python manage.py compare 
 ```
