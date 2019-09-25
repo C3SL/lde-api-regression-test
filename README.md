@@ -10,6 +10,9 @@ Regression test is a tool for validate existent functionality with each new rele
     - [Installation](#installation)
  - [Usage](#usage)
     - [Set settings.py](set-settings.py)
+    - [Command Instructions](command-instructions)
+    - [Saving routes](saving-routes)
+    - [Compare routes](compare-routes)
 
 
 ## Getting Started
@@ -75,7 +78,7 @@ available commands:
   --route ROUTE  no description
 ```
 
-### Saving route
+### Saving routes
 
 The command save will save files of all routes in the list at settings file.
 ```
