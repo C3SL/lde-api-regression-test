@@ -9,10 +9,10 @@ Regression test is a tool for validate existent functionality with each new rele
     - [Requirements](#requirements)
     - [Installation](#installation)
  - [Usage](#usage)
-    - [Set settings.py](set-settings.py)
-    - [Command Instructions](command-instructions)
-    - [Saving routes](saving-routes)
-    - [Compare routes](compare-routes)
+    - [Configuring settings.py](#configuring-settingspy)
+    - [Command Instructions](#command-instructions)
+    - [Saving routes](#saving-routes)
+    - [Compare routes](#compare-routes)
 
 
 ## Getting Started
