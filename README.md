@@ -77,4 +77,24 @@ available commands:
 
 ### Saving route
 
+The command save will save files of all routes in the list at settings file.
+```
+python manage.py save 
+```
+
+To save specific base route
+```
+python manage.py save --route enrollment 
+```
+
 ### Compare routes
+
+The command compare will compare all requisitions of routes in the list at settings file with the saved files at route_result path.
+```
+python manage.py compare 
+```
+
+To compare specific base route with files of this specific route at route_result path.
+```
+python manage.py compare --route enrollment 
+```
