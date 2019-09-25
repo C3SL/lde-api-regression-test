@@ -1,6 +1,7 @@
 # LDE API Regression Test #
 
 [![build status](https://gitlab.c3sl.ufpr.br/simcaq/lde-api-regression-test/badges/master/build.svg)](https://gitlab.c3sl.ufpr.br/simcaq/lde-api-regression-test/commits/master)
+
 Regression test is a tool for validate existent functionality with each new release of code.
 
 Supports only CSV responses of API.
