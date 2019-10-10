@@ -7,6 +7,12 @@ BASE_URL = 'https://simcaq.c3sl.ufpr.br/api/v1/'
 BASE_ROUTE_LIST = [
 		['class'],
 		['enrollment'],
+		['enrollment', '&dims=location'],
+		['enrollment', '&dims=rural_location'],
+		['enrollment', '&dims=school_year'],
+		['enrollment', '&dims=educational_level'],
+		['enrollment', '&dims=adm_dependency'],
+		['enrollment', '&dims=gender'],
 		['state'],
 		['region'],
 		['city'],
