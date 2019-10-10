@@ -1,0 +1,15 @@
+image: node:9.2.1
+
+stages:
+  - test
+
+regression_tests:
+  stage: test
+  before_script:
+    - curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+    - python get-pip.py
+  script:
+    - pip install -r requirements.txt
+    - python manage.py compare
+  tags:
+    - node
