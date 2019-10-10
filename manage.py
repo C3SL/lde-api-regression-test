@@ -24,17 +24,20 @@ from regression_test import RegressionTest
 
 manager = Manager()
 
+@manager.arg('route', help='specify a base route to save')
 @manager.command
 def save(route=''):
-    '''Save multiple or one CSV route'''
+    '''Save multiple or one route'''
     rt = RegressionTest(route)
     rt.save()
 
+@manager.arg('route', help='specify a base route to compare')
+@manager.arg('verbose', help='show differences between routes')
 @manager.command
-def compare(route=''):
-    '''Compare multiple or one CSV route'''
+def compare(route='', verbose=False):
+    '''Compare multiple or one route'''
     rt = RegressionTest(route)
-    rt.compare()
+    rt.compare(verbose)
 
 
 if __name__ == "__main__":
