@@ -62,14 +62,14 @@ class RegressionTest:
 				api_csv = pd.read_csv(url,float_precision='round_trip', encoding="utf-8-sig") #get from api
 				csv_route = pd.read_csv('route_result/'+file_name+'.csv', index_col=0, float_precision='round_trip', encoding="utf-8-sig") #get file
 				if csv_route.equals(api_csv): #comparing csv
-					cprint(name+' OK!','green')
+					cprint(file_name+' OK!','green')
 				else:
 					fail+=1
-					cprint(name+' FAIL!','red')
+					cprint(file_name+' FAIL!','red')
 					if verbose:
 						print(pd.concat([csv_route, api_csv]).drop_duplicates(keep=False))
 			except Exception as ex:
-					cprint(str(ex)+"\n"+name+' FAIL!','red')
+					cprint(str(ex)+"\n"+file_name+' FAIL!','red')
 					fail+=1
 		cprint('TOTAL FAIL: '+str(fail),'red')
 		if (fail > 0):
