@@ -29,7 +29,7 @@ BASE_ROUTE_LIST = [
 		['gloss_enrollment_ratio','&dims=education_level_basic'],
 		['liquid_enrollment_ratio','&dims=education_level_basic'],
 		['education_years'],
-		['infrastructure'],
+		#['infrastructure'],
 		#['school_infrastructure'],
 		#['siope'],
 		['out_of_school'],
