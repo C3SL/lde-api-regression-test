@@ -1,73 +1,163 @@
 ﻿,total,year,adm_dependency_detailed_id,location_id,adm_dependency_detailed_name,location_name
-0,254294,2013,1,1,Federal,Urbana
-1,36502,2013,1,2,Federal,Rural
-2,17063325,2013,2,1,Estadual,Urbana
-3,863243,2013,2,2,Estadual,Rural
-4,18214898,2013,3,1,Municipal,Urbana
-5,5000154,2013,3,2,Municipal,Rural
-6,1717667,2013,4,1,Privada conveniada,Urbana
-7,32840,2013,4,2,Privada conveniada,Rural
-8,588307,2013,5,1,Privada não conveniada sem fins lucrativos,Urbana
-9,6439,2013,5,2,Privada não conveniada sem fins lucrativos,Rural
-10,6233416,2013,6,1,Privada não conveniada com fins lucrativos,Urbana
-11,31363,2013,6,2,Privada não conveniada com fins lucrativos,Rural
-12,259874,2014,1,1,Federal,Urbana
-13,36871,2014,1,2,Federal,Rural
-14,16462385,2014,2,1,Estadual,Urbana
-15,831972,2014,2,2,Estadual,Rural
-16,18189163,2014,3,1,Municipal,Urbana
-17,4900325,2014,3,2,Municipal,Rural
-18,1729615,2014,4,1,Privada conveniada,Urbana
-19,36400,2014,4,2,Privada conveniada,Rural
-20,635370,2014,5,1,Privada não conveniada sem fins lucrativos,Urbana
-21,7934,2014,5,2,Privada não conveniada sem fins lucrativos,Rural
-22,6648524,2014,6,1,Privada não conveniada com fins lucrativos,Urbana
-23,32938,2014,6,2,Privada não conveniada com fins lucrativos,Rural
-24,316765,2015,1,1,Federal,Urbana
-25,59465,2015,1,2,Federal,Rural
-26,15709059,2015,2,1,Estadual,Urbana
-27,839649,2015,2,2,Estadual,Rural
-28,18073058,2015,3,1,Municipal,Urbana
-29,4740784,2015,3,2,Municipal,Rural
-30,1516665,2015,4,1,Privada conveniada,Urbana
-31,36584,2015,4,2,Privada conveniada,Rural
-32,751833,2015,5,1,Privada não conveniada sem fins lucrativos,Urbana
-33,9511,2015,5,2,Privada não conveniada sem fins lucrativos,Rural
-34,6710660,2015,6,1,Privada não conveniada com fins lucrativos,Urbana
-35,32479,2015,6,2,Privada não conveniada com fins lucrativos,Rural
-36,332234,2016,1,1,Federal,Urbana
-37,60331,2016,1,2,Federal,Rural
-38,15748444,2016,2,1,Estadual,Urbana
-39,847187,2016,2,2,Estadual,Rural
-40,18253422,2016,3,1,Municipal,Urbana
-41,4592760,2016,3,2,Municipal,Rural
-42,1472692,2016,4,1,Privada conveniada,Urbana
-43,37063,2016,4,2,Privada conveniada,Rural
-44,695225,2016,5,1,Privada não conveniada sem fins lucrativos,Urbana
-45,9804,2016,5,2,Privada não conveniada sem fins lucrativos,Rural
-46,6734441,2016,6,1,Privada não conveniada com fins lucrativos,Urbana
-47,33876,2016,6,2,Privada não conveniada com fins lucrativos,Rural
-48,338636,2017,1,1,Federal,Urbana
-49,57846,2017,1,2,Federal,Rural
-50,15387864,2017,2,1,Estadual,Urbana
-51,834950,2017,2,2,Estadual,Rural
-52,18502837,2017,3,1,Municipal,Urbana
-53,4598899,2017,3,2,Municipal,Rural
-54,1383373,2017,4,1,Privada conveniada,Urbana
-55,39341,2017,4,2,Privada conveniada,Rural
-56,686229,2017,5,1,Privada não conveniada sem fins lucrativos,Urbana
-57,11052,2017,5,2,Privada não conveniada sem fins lucrativos,Rural
-58,6735769,2017,6,1,Privada não conveniada com fins lucrativos,Urbana
-59,31297,2017,6,2,Privada não conveniada com fins lucrativos,Rural
-60,355937,2018,1,1,Federal,Urbana
-61,55141,2018,1,2,Federal,Rural
-62,15116036,2018,2,1,Estadual,Urbana
-63,830380,2018,2,2,Estadual,Rural
-64,18603701,2018,3,1,Municipal,Urbana
-65,4499423,2018,3,2,Municipal,Rural
-66,1232740,2018,4,1,Privada conveniada,Urbana
-67,37186,2018,4,2,Privada conveniada,Rural
-68,763938,2018,5,1,Privada não conveniada sem fins lucrativos,Urbana
-69,18760,2018,5,2,Privada não conveniada sem fins lucrativos,Rural
-70,6909927,2018,6,1,Privada não conveniada com fins lucrativos,Urbana
-71,32698,2018,6,2,Privada não conveniada com fins lucrativos,Rural
+0,155894,2007,1,1,Federal,Urbana
+1,29201,2007,1,2,Federal,Rural
+2,21021716,2007,2,1,Estadual,Urbana
+3,905584,2007,2,2,Estadual,Rural
+4,18538399,2007,3,1,Municipal,Urbana
+5,5992612,2007,3,2,Municipal,Rural
+6,6315600,2007,8,1,Privada sem detalhamento,Urbana
+7,69922,2007,8,2,Privada sem detalhamento,Rural
+8,166908,2008,1,1,Federal,Urbana
+9,30624,2008,1,2,Federal,Rural
+10,20558041,2008,2,1,Estadual,Urbana
+11,875400,2008,2,2,Estadual,Rural
+12,18656061,2008,3,1,Municipal,Urbana
+13,5844791,2008,3,2,Municipal,Rural
+14,960947,2008,4,1,Privada conveniada sem fins lucrativos,Urbana
+15,21797,2008,4,2,Privada conveniada sem fins lucrativos,Rural
+16,260439,2008,5,1,Privada conveniada com fins lucrativos,Urbana
+17,4395,2008,5,2,Privada conveniada com fins lucrativos,Rural
+18,842587,2008,6,1,Privada não conveniada sem fins lucrativos,Urbana
+19,15769,2008,6,2,Privada não conveniada sem fins lucrativos,Rural
+20,4967841,2008,7,1,Privada não conveniada com fins lucrativos,Urbana
+21,27268,2008,7,2,Privada não conveniada com fins lucrativos,Rural
+22,186399,2009,1,1,Federal,Urbana
+23,31339,2009,1,2,Federal,Rural
+24,19857627,2009,2,1,Estadual,Urbana
+25,880036,2009,2,2,Estadual,Rural
+26,18609645,2009,3,1,Municipal,Urbana
+27,5705664,2009,3,2,Municipal,Rural
+28,1103134,2009,4,1,Privada conveniada sem fins lucrativos,Urbana
+29,27146,2009,4,2,Privada conveniada sem fins lucrativos,Rural
+30,390446,2009,5,1,Privada conveniada com fins lucrativos,Urbana
+31,4016,2009,5,2,Privada conveniada com fins lucrativos,Rural
+32,607160,2009,6,1,Privada não conveniada sem fins lucrativos,Urbana
+33,7351,2009,6,2,Privada não conveniada sem fins lucrativos,Rural
+34,5145666,2009,7,1,Privada não conveniada com fins lucrativos,Urbana
+35,24823,2009,7,2,Privada não conveniada com fins lucrativos,Rural
+36,201451,2010,1,1,Federal,Urbana
+37,33657,2010,1,2,Federal,Rural
+38,19157302,2010,2,1,Estadual,Urbana
+39,874686,2010,2,2,Estadual,Rural
+40,18255446,2010,3,1,Municipal,Urbana
+41,5466965,2010,3,2,Municipal,Rural
+42,1143317,2010,4,1,Privada conveniada sem fins lucrativos,Urbana
+43,26425,2010,4,2,Privada conveniada sem fins lucrativos,Rural
+44,446317,2010,5,1,Privada conveniada com fins lucrativos,Urbana
+45,3796,2010,5,2,Privada conveniada com fins lucrativos,Rural
+46,532552,2010,6,1,Privada não conveniada sem fins lucrativos,Urbana
+47,6810,2010,6,2,Privada não conveniada sem fins lucrativos,Rural
+48,5375546,2010,7,1,Privada não conveniada com fins lucrativos,Urbana
+49,25619,2010,7,2,Privada não conveniada com fins lucrativos,Rural
+50,222186,2011,1,1,Federal,Urbana
+51,34866,2011,1,2,Federal,Rural
+52,18572080,2011,2,1,Estadual,Urbana
+53,911830,2011,2,2,Estadual,Rural
+54,18029254,2011,3,1,Municipal,Urbana
+55,5283726,2011,3,2,Municipal,Rural
+56,1194836,2011,4,1,Privada conveniada sem fins lucrativos,Urbana
+57,27804,2011,4,2,Privada conveniada sem fins lucrativos,Rural
+58,558144,2011,5,1,Privada conveniada com fins lucrativos,Urbana
+59,3582,2011,5,2,Privada conveniada com fins lucrativos,Rural
+60,536081,2011,6,1,Privada não conveniada sem fins lucrativos,Urbana
+61,5415,2011,6,2,Privada não conveniada sem fins lucrativos,Rural
+62,5566153,2011,7,1,Privada não conveniada com fins lucrativos,Urbana
+63,26662,2011,7,2,Privada não conveniada com fins lucrativos,Rural
+64,239556,2012,1,1,Federal,Urbana
+65,36880,2012,1,2,Federal,Rural
+66,17837870,2012,2,1,Estadual,Urbana
+67,884046,2012,2,2,Estadual,Rural
+68,18132674,2012,3,1,Municipal,Urbana
+69,5091805,2012,3,2,Municipal,Rural
+70,1189228,2012,4,1,Privada conveniada sem fins lucrativos,Urbana
+71,27922,2012,4,2,Privada conveniada sem fins lucrativos,Rural
+72,597320,2012,5,1,Privada conveniada com fins lucrativos,Urbana
+73,3285,2012,5,2,Privada conveniada com fins lucrativos,Rural
+74,576041,2012,6,1,Privada não conveniada sem fins lucrativos,Urbana
+75,5488,2012,6,2,Privada não conveniada sem fins lucrativos,Rural
+76,5893532,2012,7,1,Privada não conveniada com fins lucrativos,Urbana
+77,29403,2012,7,2,Privada não conveniada com fins lucrativos,Rural
+78,254294,2013,1,1,Federal,Urbana
+79,36502,2013,1,2,Federal,Rural
+80,17063325,2013,2,1,Estadual,Urbana
+81,863243,2013,2,2,Estadual,Rural
+82,18214898,2013,3,1,Municipal,Urbana
+83,5000154,2013,3,2,Municipal,Rural
+84,1185645,2013,4,1,Privada conveniada sem fins lucrativos,Urbana
+85,30919,2013,4,2,Privada conveniada sem fins lucrativos,Rural
+86,532022,2013,5,1,Privada conveniada com fins lucrativos,Urbana
+87,1921,2013,5,2,Privada conveniada com fins lucrativos,Rural
+88,588307,2013,6,1,Privada não conveniada sem fins lucrativos,Urbana
+89,6439,2013,6,2,Privada não conveniada sem fins lucrativos,Rural
+90,6233416,2013,7,1,Privada não conveniada com fins lucrativos,Urbana
+91,31363,2013,7,2,Privada não conveniada com fins lucrativos,Rural
+92,259874,2014,1,1,Federal,Urbana
+93,36871,2014,1,2,Federal,Rural
+94,16462385,2014,2,1,Estadual,Urbana
+95,831972,2014,2,2,Estadual,Rural
+96,18189163,2014,3,1,Municipal,Urbana
+97,4900325,2014,3,2,Municipal,Rural
+98,1147742,2014,4,1,Privada conveniada sem fins lucrativos,Urbana
+99,34225,2014,4,2,Privada conveniada sem fins lucrativos,Rural
+100,581873,2014,5,1,Privada conveniada com fins lucrativos,Urbana
+101,2175,2014,5,2,Privada conveniada com fins lucrativos,Rural
+102,635370,2014,6,1,Privada não conveniada sem fins lucrativos,Urbana
+103,7934,2014,6,2,Privada não conveniada sem fins lucrativos,Rural
+104,6648524,2014,7,1,Privada não conveniada com fins lucrativos,Urbana
+105,32938,2014,7,2,Privada não conveniada com fins lucrativos,Rural
+106,316765,2015,1,1,Federal,Urbana
+107,59465,2015,1,2,Federal,Rural
+108,15709059,2015,2,1,Estadual,Urbana
+109,839649,2015,2,2,Estadual,Rural
+110,18073058,2015,3,1,Municipal,Urbana
+111,4740784,2015,3,2,Municipal,Rural
+112,1078620,2015,4,1,Privada conveniada sem fins lucrativos,Urbana
+113,34728,2015,4,2,Privada conveniada sem fins lucrativos,Rural
+114,438045,2015,5,1,Privada conveniada com fins lucrativos,Urbana
+115,1856,2015,5,2,Privada conveniada com fins lucrativos,Rural
+116,751833,2015,6,1,Privada não conveniada sem fins lucrativos,Urbana
+117,9511,2015,6,2,Privada não conveniada sem fins lucrativos,Rural
+118,6710660,2015,7,1,Privada não conveniada com fins lucrativos,Urbana
+119,32479,2015,7,2,Privada não conveniada com fins lucrativos,Rural
+120,332234,2016,1,1,Federal,Urbana
+121,60331,2016,1,2,Federal,Rural
+122,15748444,2016,2,1,Estadual,Urbana
+123,847187,2016,2,2,Estadual,Rural
+124,18253422,2016,3,1,Municipal,Urbana
+125,4592760,2016,3,2,Municipal,Rural
+126,1080137,2016,4,1,Privada conveniada sem fins lucrativos,Urbana
+127,35683,2016,4,2,Privada conveniada sem fins lucrativos,Rural
+128,392555,2016,5,1,Privada conveniada com fins lucrativos,Urbana
+129,1380,2016,5,2,Privada conveniada com fins lucrativos,Rural
+130,695225,2016,6,1,Privada não conveniada sem fins lucrativos,Urbana
+131,9804,2016,6,2,Privada não conveniada sem fins lucrativos,Rural
+132,6734441,2016,7,1,Privada não conveniada com fins lucrativos,Urbana
+133,33876,2016,7,2,Privada não conveniada com fins lucrativos,Rural
+134,338636,2017,1,1,Federal,Urbana
+135,57846,2017,1,2,Federal,Rural
+136,15387864,2017,2,1,Estadual,Urbana
+137,834950,2017,2,2,Estadual,Rural
+138,18502837,2017,3,1,Municipal,Urbana
+139,4598899,2017,3,2,Municipal,Rural
+140,1072196,2017,4,1,Privada conveniada sem fins lucrativos,Urbana
+141,38026,2017,4,2,Privada conveniada sem fins lucrativos,Rural
+142,311177,2017,5,1,Privada conveniada com fins lucrativos,Urbana
+143,1315,2017,5,2,Privada conveniada com fins lucrativos,Rural
+144,686229,2017,6,1,Privada não conveniada sem fins lucrativos,Urbana
+145,11052,2017,6,2,Privada não conveniada sem fins lucrativos,Rural
+146,6735769,2017,7,1,Privada não conveniada com fins lucrativos,Urbana
+147,31297,2017,7,2,Privada não conveniada com fins lucrativos,Rural
+148,355937,2018,1,1,Federal,Urbana
+149,55141,2018,1,2,Federal,Rural
+150,15116036,2018,2,1,Estadual,Urbana
+151,830380,2018,2,2,Estadual,Rural
+152,18603701,2018,3,1,Municipal,Urbana
+153,4499423,2018,3,2,Municipal,Rural
+154,1008407,2018,4,1,Privada conveniada sem fins lucrativos,Urbana
+155,36526,2018,4,2,Privada conveniada sem fins lucrativos,Rural
+156,224333,2018,5,1,Privada conveniada com fins lucrativos,Urbana
+157,660,2018,5,2,Privada conveniada com fins lucrativos,Rural
+158,763938,2018,6,1,Privada não conveniada sem fins lucrativos,Urbana
+159,18760,2018,6,2,Privada não conveniada sem fins lucrativos,Rural
+160,6909927,2018,7,1,Privada não conveniada com fins lucrativos,Urbana
+161,32698,2018,7,2,Privada não conveniada com fins lucrativos,Rural

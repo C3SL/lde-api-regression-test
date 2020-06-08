@@ -1,84 +1,82 @@
 ﻿,total,year,state_id,state_name
-0,0.0,1991,12,Acre
-1,0.0,2000,12,Acre
-2,0.777,2010,12,Acre
-3,0.694,2000,12,Acre
-4,0.645,1991,12,Acre
-5,0.647,2000,27,Alagoas
-6,0.755,2010,27,Alagoas
-7,0.552,1991,27,Alagoas
-8,0.668,1991,16,Amapá
-9,0.711,2000,16,Amapá
-10,0.813,2010,16,Amapá
-11,0.645,1991,13,Amazonas
-12,0.692,2000,13,Amazonas
-13,0.805,2010,13,Amazonas
-14,0.783,2010,29,Bahia
-15,0.68,2000,29,Bahia
-16,0.582,1991,29,Bahia
-17,0.713,2000,23,Ceará
-18,0.613,1991,23,Ceará
-19,0.793,2010,23,Ceará
-20,0.731,1991,53,Distrito Federal
-21,0.873,2010,53,Distrito Federal
-22,0.814,2000,53,Distrito Federal
-23,0.686,1991,32,Espírito Santo
-24,0.835,2010,32,Espírito Santo
-25,0.777,2000,32,Espírito Santo
-26,0.773,2000,52,Goiás
-27,0.668,1991,52,Goiás
-28,0.827,2010,52,Goiás
-29,0.551,1991,21,Maranhão
-30,0.757,2010,21,Maranhão
-31,0.649,2000,21,Maranhão
-32,0.654,1991,51,Mato Grosso
-33,0.821,2010,51,Mato Grosso
-34,0.74,2000,51,Mato Grosso
-35,0.699,1991,50,Mato Grosso do Sul
-36,0.833,2010,50,Mato Grosso do Sul
-37,0.752,2000,50,Mato Grosso do Sul
-38,0.838,2010,31,Minas Gerais
-39,0.689,1991,31,Minas Gerais
-40,0.759,2000,31,Minas Gerais
-41,0.83,2010,41,Paraná
-42,0.679,1991,41,Paraná
-43,0.747,2000,41,Paraná
-44,0.565,1991,25,Paraíba
-45,0.783,2010,25,Paraíba
-46,0.672,2000,25,Paraíba
-47,0.64,1991,15,Pará
-48,0.789,2010,15,Pará
-49,0.725,2000,15,Pará
-50,0.617,1991,26,Pernambuco
-51,0.789,2010,26,Pernambuco
-52,0.705,2000,26,Pernambuco
-53,0.777,2010,22,Piauí
-54,0.676,2000,22,Piauí
-55,0.595,1991,22,Piauí
-56,0.792,2010,24,Rio Grande do Norte
-57,0.591,1991,24,Rio Grande do Norte
-58,0.7,2000,24,Rio Grande do Norte
-59,0.804,2000,43,Rio Grande do Sul
-60,0.729,1991,43,Rio Grande do Sul
-61,0.84,2010,43,Rio Grande do Sul
-62,0.74,2000,33,Rio de Janeiro 
-63,0.69,1991,33,Rio de Janeiro 
-64,0.835,2010,33,Rio de Janeiro 
-65,0.635,1991,11,Rondônia
-66,0.688,2000,11,Rondônia
-67,0.8,2010,11,Rondônia
-68,0.717,2000,14,Roraima
-69,0.628,1991,14,Roraima
-70,0.809,2010,14,Roraima
-71,0.812,2000,42,Santa Catarina
-72,0.86,2010,42,Santa Catarina
-73,0.753,1991,42,Santa Catarina
-74,0.581,1991,28,Sergipe
-75,0.781,2010,28,Sergipe
-76,0.678,2000,28,Sergipe
-77,0.73,1991,35,São Paulo
-78,0.786,2000,35,São Paulo
+0,0.645,1991,12,Acre
+1,0.552,1991,27,Alagoas
+2,0.668,1991,16,Amapá
+3,0.645,1991,13,Amazonas
+4,0.582,1991,29,Bahia
+5,0.613,1991,23,Ceará
+6,0.731,1991,53,Distrito Federal
+7,0.686,1991,32,Espírito Santo
+8,0.668,1991,52,Goiás
+9,0.551,1991,21,Maranhão
+10,0.654,1991,51,Mato Grosso
+11,0.699,1991,50,Mato Grosso do Sul
+12,0.689,1991,31,Minas Gerais
+13,0.679,1991,41,Paraná
+14,0.565,1991,25,Paraíba
+15,0.64,1991,15,Pará
+16,0.617,1991,26,Pernambuco
+17,0.595,1991,22,Piauí
+18,0.591,1991,24,Rio Grande do Norte
+19,0.729,1991,43,Rio Grande do Sul
+20,0.69,1991,33,Rio de Janeiro 
+21,0.635,1991,11,Rondônia
+22,0.628,1991,14,Roraima
+23,0.753,1991,42,Santa Catarina
+24,0.581,1991,28,Sergipe
+25,0.73,1991,35,São Paulo
+26,0.589,1991,17,Tocantins
+27,0.694,2000,12,Acre
+28,0.647,2000,27,Alagoas
+29,0.711,2000,16,Amapá
+30,0.692,2000,13,Amazonas
+31,0.68,2000,29,Bahia
+32,0.713,2000,23,Ceará
+33,0.814,2000,53,Distrito Federal
+34,0.777,2000,32,Espírito Santo
+35,0.773,2000,52,Goiás
+36,0.649,2000,21,Maranhão
+37,0.74,2000,51,Mato Grosso
+38,0.752,2000,50,Mato Grosso do Sul
+39,0.759,2000,31,Minas Gerais
+40,0.747,2000,41,Paraná
+41,0.672,2000,25,Paraíba
+42,0.725,2000,15,Pará
+43,0.705,2000,26,Pernambuco
+44,0.676,2000,22,Piauí
+45,0.7,2000,24,Rio Grande do Norte
+46,0.804,2000,43,Rio Grande do Sul
+47,0.74,2000,33,Rio de Janeiro 
+48,0.688,2000,11,Rondônia
+49,0.717,2000,14,Roraima
+50,0.812,2000,42,Santa Catarina
+51,0.678,2000,28,Sergipe
+52,0.786,2000,35,São Paulo
+53,0.688,2000,17,Tocantins
+54,0.777,2010,12,Acre
+55,0.755,2010,27,Alagoas
+56,0.813,2010,16,Amapá
+57,0.805,2010,13,Amazonas
+58,0.783,2010,29,Bahia
+59,0.793,2010,23,Ceará
+60,0.873,2010,53,Distrito Federal
+61,0.835,2010,32,Espírito Santo
+62,0.827,2010,52,Goiás
+63,0.757,2010,21,Maranhão
+64,0.821,2010,51,Mato Grosso
+65,0.833,2010,50,Mato Grosso do Sul
+66,0.838,2010,31,Minas Gerais
+67,0.83,2010,41,Paraná
+68,0.783,2010,25,Paraíba
+69,0.789,2010,15,Pará
+70,0.789,2010,26,Pernambuco
+71,0.777,2010,22,Piauí
+72,0.792,2010,24,Rio Grande do Norte
+73,0.84,2010,43,Rio Grande do Sul
+74,0.835,2010,33,Rio de Janeiro 
+75,0.8,2010,11,Rondônia
+76,0.809,2010,14,Roraima
+77,0.86,2010,42,Santa Catarina
+78,0.781,2010,28,Sergipe
 79,0.845,2010,35,São Paulo
-80,0.688,2000,17,Tocantins
-81,0.589,1991,17,Tocantins
-82,0.793,2010,17,Tocantins
+80,0.793,2010,17,Tocantins

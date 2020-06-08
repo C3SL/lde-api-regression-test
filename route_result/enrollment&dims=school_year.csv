@@ -1,137 +1,277 @@
 ﻿,total,year,school_year_id,school_year_name
-0,3786795,2013,,Não classificada
-1,152767,2013,11.0,Creche - Menor de 1 ano
-2,464153,2013,12.0,Creche - 1 ano
-3,932448,2013,13.0,Creche - 2 anos
-4,1551710,2013,14.0,Creche - 3 anos
-5,2302122,2013,21.0,Pré-escola - 4 anos
-6,2530115,2013,22.0,Pré-escola - 5 anos
-7,2642643,2013,31.0,Ens. Fundamental - 1º Ano
-8,3057282,2013,32.0,Ens. Fundamental - 1ª série/2º ano
-9,3391282,2013,33.0,Ens. Fundamental - 2ª série/3º ano
-10,3287416,2013,34.0,Ens. Fundamental - 3ª série/4º ano
-11,3173173,2013,35.0,Ens. Fundamental - 4ª série/5º Ano
-12,3650435,2013,41.0,Ens. Fundamental - 5ª série/6º ano
-13,3407502,2013,42.0,Ens. Fundamental - 6ª série/7º ano
-14,3164956,2013,43.0,Ens. Fundamental - 7ª série/8º ano
-15,3087189,2013,44.0,Ens. Fundamental - 8ª serie/9º ano
-16,3417508,2013,51.0,Ens. Médio - 1ª série
-17,2618080,2013,52.0,Ens. Médio - 2ª série
-18,2213154,2013,53.0,Ens. Médio - 3ª série
-19,65303,2013,54.0,Ens. Médio - 4ª série
-20,43406,2013,61.0,EJA - anos iniciais do Ens. Fundamental
-21,1103009,2013,71.0,Educação Profissional
-22,3604535,2014,,Não classificada
-23,165991,2014,11.0,Creche - Menor de 1 ano
-24,505891,2014,12.0,Creche - 1 ano
-25,1010206,2014,13.0,Creche - 2 anos
-26,1630908,2014,14.0,Creche - 3 anos
-27,2321562,2014,21.0,Pré-escola - 4 anos
-28,2626112,2014,22.0,Pré-escola - 5 anos
-29,2576280,2014,31.0,Ens. Fundamental - 1º Ano
-30,3032457,2014,32.0,Ens. Fundamental - 1ª série/2º ano
-31,3309710,2014,33.0,Ens. Fundamental - 2ª série/3º ano
-32,3249852,2014,34.0,Ens. Fundamental - 3ª série/4º ano
-33,3246079,2014,35.0,Ens. Fundamental - 4ª série/5º Ano
-34,3409892,2014,41.0,Ens. Fundamental - 5ª série/6º ano
-35,3338688,2014,42.0,Ens. Fundamental - 6ª série/7º ano
-36,3064767,2014,43.0,Ens. Fundamental - 7ª série/8º ano
-37,2952998,2014,44.0,Ens. Fundamental - 8ª serie/9º ano
-38,3406932,2014,51.0,Ens. Médio - 1ª série
-39,2607835,2014,52.0,Ens. Médio - 2ª série
-40,2225474,2014,53.0,Ens. Médio - 3ª série
-41,61134,2014,54.0,Ens. Médio - 4ª série
-42,48990,2014,61.0,EJA - anos iniciais do Ens. Fundamental
-43,1375078,2014,71.0,Educação Profissional
-44,178609,2015,11.0,Creche - Menor de 1 ano
-45,550382,2015,12.0,Creche - 1 ano
-46,1043512,2015,13.0,Creche - 2 anos
-47,1696062,2015,14.0,Creche - 3 anos
-48,2331761,2015,21.0,Pré-escola - 4 anos
-49,2559664,2015,22.0,Pré-escola - 5 anos
-50,2557828,2015,31.0,Ens. Fundamental - 1º Ano
-51,2983519,2015,32.0,Ens. Fundamental - 1ª série/2º ano
-52,3309981,2015,33.0,Ens. Fundamental - 2ª série/3º ano
-53,3146298,2015,34.0,Ens. Fundamental - 3ª série/4º ano
-54,3177127,2015,35.0,Ens. Fundamental - 4ª série/5º Ano
-55,3454993,2015,41.0,Ens. Fundamental - 5ª série/6º ano
-56,3104615,2015,42.0,Ens. Fundamental - 6ª série/7º ano
-57,2997685,2015,43.0,Ens. Fundamental - 7ª série/8º ano
-58,2811506,2015,44.0,Ens. Fundamental - 8ª serie/9º ano
-59,3234005,2015,51.0,Ens. Médio - 1ª série
-60,2611531,2015,52.0,Ens. Médio - 2ª série
-61,2173188,2015,53.0,Ens. Médio - 3ª série
-62,57424,2015,54.0,Ens. Médio - 4ª série
-63,804123,2015,61.0,EJA - anos iniciais do Ens. Fundamental
-64,1378420,2015,62.0,EJA - anos finais do Ens. Fundamental
-65,1309226,2015,63.0,EJA - Ensino Médio
-66,1325053,2015,71.0,Educação Profissional
-67,195042,2016,11.0,Creche - Menor de 1 ano
-68,576443,2016,12.0,Creche - 1 ano
-69,1100884,2016,13.0,Creche - 2 anos
-70,1733677,2016,14.0,Creche - 3 anos
-71,2456332,2016,21.0,Pré-escola - 4 anos
-72,2593018,2016,22.0,Pré-escola - 5 anos
-73,2494885,2016,31.0,Ens. Fundamental - 1º Ano
-74,2983844,2016,32.0,Ens. Fundamental - 1ª série/2º ano
-75,3292564,2016,33.0,Ens. Fundamental - 2ª série/3º ano
-76,3179468,2016,34.0,Ens. Fundamental - 3ª série/4º ano
-77,3114994,2016,35.0,Ens. Fundamental - 4ª série/5º Ano
-78,3421168,2016,41.0,Ens. Fundamental - 5ª série/6º ano
-79,3182328,2016,42.0,Ens. Fundamental - 6ª série/7º ano
-80,2831086,2016,43.0,Ens. Fundamental - 7ª série/8º ano
-81,2814851,2016,44.0,Ens. Fundamental - 8ª serie/9º ano
-82,3216795,2016,51.0,Ens. Médio - 1ª série
-83,2572938,2016,52.0,Ens. Médio - 2ª série
-84,2271173,2016,53.0,Ens. Médio - 3ª série
-85,72132,2016,54.0,Ens. Médio - 4ª série
-86,738438,2016,61.0,EJA - anos iniciais do Ens. Fundamental
-87,1367097,2016,62.0,EJA - anos finais do Ens. Fundamental
-88,1376639,2016,63.0,EJA - Ensino Médio
-89,1231683,2016,71.0,Educação Profissional
-90,192858,2017,11.0,Creche - Menor de 1 ano
-91,604406,2017,12.0,Creche - 1 ano
-92,1181651,2017,13.0,Creche - 2 anos
-93,1801921,2017,14.0,Creche - 3 anos
-94,2463195,2017,21.0,Pré-escola - 4 anos
-95,2649025,2017,22.0,Pré-escola - 5 anos
-96,2493649,2017,31.0,Ens. Fundamental - 1º Ano
-97,2898202,2017,32.0,Ens. Fundamental - 1ª série/2º ano
-98,3275712,2017,33.0,Ens. Fundamental - 2ª série/3º ano
-99,3146994,2017,34.0,Ens. Fundamental - 3ª série/4º ano
-100,3129662,2017,35.0,Ens. Fundamental - 4ª série/5º Ano
-101,3339837,2017,41.0,Ens. Fundamental - 5ª série/6º ano
-102,3146146,2017,42.0,Ens. Fundamental - 6ª série/7º ano
-103,2884862,2017,43.0,Ens. Fundamental - 7ª série/8º ano
-104,2648692,2017,44.0,Ens. Fundamental - 8ª serie/9º ano
-105,3145540,2017,51.0,Ens. Médio - 1ª série
-106,2509720,2017,52.0,Ens. Médio - 2ª série
-107,2205674,2017,53.0,Ens. Médio - 3ª série
-108,69449,2017,54.0,Ens. Médio - 4ª série
-109,790008,2017,61.0,EJA - anos iniciais do Ens. Fundamental
-110,1382896,2017,62.0,EJA - anos finais do Ens. Fundamental
-111,1425812,2017,63.0,EJA - Ensino Médio
-112,1222182,2017,71.0,Educação Profissional
-113,204730,2018,11.0,Creche - Menor de 1 ano
-114,610562,2018,12.0,Creche - 1 ano
-115,1241363,2018,13.0,Creche - 2 anos
-116,1902950,2018,14.0,Creche - 3 anos
-117,2505163,2018,21.0,Pré-escola - 4 anos
-118,2635189,2018,22.0,Pré-escola - 5 anos
-119,2521608,2018,31.0,Ens. Fundamental - 1º Ano
-120,2887391,2018,32.0,Ens. Fundamental - 1ª série/2º ano
-121,3171512,2018,33.0,Ens. Fundamental - 2ª série/3º ano
-122,3132304,2018,34.0,Ens. Fundamental - 3ª série/4º ano
-123,3108835,2018,35.0,Ens. Fundamental - 4ª série/5º Ano
-124,3333727,2018,41.0,Ens. Fundamental - 5ª série/6º ano
-125,3095373,2018,42.0,Ens. Fundamental - 6ª série/7º ano
-126,2870495,2018,43.0,Ens. Fundamental - 7ª série/8º ano
-127,2707954,2018,44.0,Ens. Fundamental - 8ª serie/9º ano
-128,2985926,2018,51.0,Ens. Médio - 1ª série
-129,2489497,2018,52.0,Ens. Médio - 2ª série
-130,2177245,2018,53.0,Ens. Médio - 3ª série
-131,57261,2018,54.0,Ens. Médio - 4ª série
-132,781188,2018,61.0,EJA - anos iniciais do Ens. Fundamental
-133,1326967,2018,62.0,EJA - anos finais do Ens. Fundamental
-134,1437831,2018,63.0,EJA - Ensino Médio
-135,1270796,2018,71.0,Educação Profissional
+0,4984834,2007,,Não classificada
+1,99822,2007,11.0,Creche - Menor de 1 ano
+2,277852,2007,12.0,Creche - 1 ano
+3,596040,2007,13.0,Creche - 2 anos
+4,1169406,2007,14.0,Creche - 3 anos
+5,1921044,2007,21.0,Pré-escola - 4 anos
+6,2512225,2007,22.0,Pré-escola - 5 anos
+7,2070252,2007,31.0,Ens. Fundamental - 1º Ano
+8,4074987,2007,32.0,Ens. Fundamental - 1ª série/2º ano
+9,4136137,2007,33.0,Ens. Fundamental - 2ª série/3º ano
+10,3869011,2007,34.0,Ens. Fundamental - 3ª série/4º ano
+11,3846108,2007,35.0,Ens. Fundamental - 4ª série/5º Ano
+12,4280577,2007,41.0,Ens. Fundamental - 5ª série/6º ano
+13,3771899,2007,42.0,Ens. Fundamental - 6ª série/7º ano
+14,3280087,2007,43.0,Ens. Fundamental - 7ª série/8º ano
+15,3016671,2007,44.0,Ens. Fundamental - 8ª serie/9º ano
+16,3481292,2007,51.0,Ens. Médio - 1ª série
+17,2629568,2007,52.0,Ens. Médio - 2ª série
+18,2212268,2007,53.0,Ens. Médio - 3ª série
+19,48781,2007,54.0,Ens. Médio - 4ª série
+20,46602,2007,61.0,EJA - anos iniciais do Ens. Fundamental
+21,1474,2007,62.0,EJA - anos finais do Ens. Fundamental
+22,878,2007,63.0,EJA - Ensino Médio
+23,701113,2007,71.0,Educação Profissional
+24,4945813,2008,,Não classificada
+25,106622,2008,11.0,Creche - Menor de 1 ano
+26,313361,2008,12.0,Creche - 1 ano
+27,684334,2008,13.0,Creche - 2 anos
+28,1284425,2008,14.0,Creche - 3 anos
+29,2038547,2008,21.0,Pré-escola - 4 anos
+30,2538890,2008,22.0,Pré-escola - 5 anos
+31,2189678,2008,31.0,Ens. Fundamental - 1º Ano
+32,3796984,2008,32.0,Ens. Fundamental - 1ª série/2º ano
+33,3921021,2008,33.0,Ens. Fundamental - 2ª série/3º ano
+34,3895588,2008,34.0,Ens. Fundamental - 3ª série/4º ano
+35,3831150,2008,35.0,Ens. Fundamental - 4ª série/5º Ano
+36,4234142,2008,41.0,Ens. Fundamental - 5ª série/6º ano
+37,3762614,2008,42.0,Ens. Fundamental - 6ª série/7º ano
+38,3367398,2008,43.0,Ens. Fundamental - 7ª série/8º ano
+39,3110504,2008,44.0,Ens. Fundamental - 8ª serie/9º ano
+40,3453799,2008,51.0,Ens. Médio - 1ª série
+41,2616168,2008,52.0,Ens. Médio - 2ª série
+42,2244639,2008,53.0,Ens. Médio - 3ª série
+43,53902,2008,54.0,Ens. Médio - 4ª série
+44,39716,2008,61.0,EJA - anos iniciais do Ens. Fundamental
+45,2144,2008,62.0,EJA - anos finais do Ens. Fundamental
+46,1043,2008,63.0,EJA - Ensino Médio
+47,800386,2008,71.0,Educação Profissional
+48,109981,2009,11.0,Creche - Menor de 1 ano
+49,327916,2009,12.0,Creche - 1 ano
+50,734778,2009,13.0,Creche - 2 anos
+51,1372459,2009,14.0,Creche - 3 anos
+52,2111863,2009,21.0,Pré-escola - 4 anos
+53,2555787,2009,22.0,Pré-escola - 5 anos
+54,2211491,2009,31.0,Ens. Fundamental - 1º Ano
+55,3623403,2009,32.0,Ens. Fundamental - 1ª série/2º ano
+56,3722691,2009,33.0,Ens. Fundamental - 2ª série/3º ano
+57,3669531,2009,34.0,Ens. Fundamental - 3ª série/4º ano
+58,3824425,2009,35.0,Ens. Fundamental - 4ª série/5º Ano
+59,4200673,2009,41.0,Ens. Fundamental - 5ª série/6º ano
+60,3705051,2009,42.0,Ens. Fundamental - 6ª série/7º ano
+61,3355124,2009,43.0,Ens. Fundamental - 7ª série/8º ano
+62,3153461,2009,44.0,Ens. Fundamental - 8ª serie/9º ano
+63,3489091,2009,51.0,Ens. Médio - 1ª série
+64,2574471,2009,52.0,Ens. Médio - 2ª série
+65,2219115,2009,53.0,Ens. Médio - 3ª série
+66,55723,2009,54.0,Ens. Médio - 4ª série
+67,1076774,2009,61.0,EJA - anos iniciais do Ens. Fundamental
+68,2057130,2009,62.0,EJA - anos finais do Ens. Fundamental
+69,1567284,2009,63.0,EJA - Ensino Médio
+70,862230,2009,71.0,Educação Profissional
+71,119107,2010,11.0,Creche - Menor de 1 ano
+72,360285,2010,12.0,Creche - 1 ano
+73,752458,2010,13.0,Creche - 2 anos
+74,1390469,2010,14.0,Creche - 3 anos
+75,2165991,2010,21.0,Pré-escola - 4 anos
+76,2548292,2010,22.0,Pré-escola - 5 anos
+77,2404822,2010,31.0,Ens. Fundamental - 1º Ano
+78,3259926,2010,32.0,Ens. Fundamental - 1ª série/2º ano
+79,3604831,2010,33.0,Ens. Fundamental - 2ª série/3º ano
+80,3497282,2010,34.0,Ens. Fundamental - 3ª série/4º ano
+81,3584846,2010,35.0,Ens. Fundamental - 4ª série/5º Ano
+82,4151474,2010,41.0,Ens. Fundamental - 5ª série/6º ano
+83,3676048,2010,42.0,Ens. Fundamental - 6ª série/7º ano
+84,3333808,2010,43.0,Ens. Fundamental - 7ª série/8º ano
+85,3091675,2010,44.0,Ens. Fundamental - 8ª serie/9º ano
+86,3522825,2010,51.0,Ens. Médio - 1ª série
+87,2579034,2010,52.0,Ens. Médio - 2ª série
+88,2197822,2010,53.0,Ens. Médio - 3ª série
+89,58396,2010,54.0,Ens. Médio - 4ª série
+90,973277,2010,61.0,EJA - anos iniciais do Ens. Fundamental
+91,1924604,2010,62.0,EJA - anos finais do Ens. Fundamental
+92,1427297,2010,63.0,EJA - Ensino Médio
+93,925320,2010,71.0,Educação Profissional
+94,123197,2011,11.0,Creche - Menor de 1 ano
+95,379597,2011,12.0,Creche - 1 ano
+96,811511,2011,13.0,Creche - 2 anos
+97,1394204,2011,14.0,Creche - 3 anos
+98,2197118,2011,21.0,Pré-escola - 4 anos
+99,2587951,2011,22.0,Pré-escola - 5 anos
+100,2462989,2011,31.0,Ens. Fundamental - 1º Ano
+101,3289115,2011,32.0,Ens. Fundamental - 1ª série/2º ano
+102,3366329,2011,33.0,Ens. Fundamental - 2ª série/3º ano
+103,3419183,2011,34.0,Ens. Fundamental - 3ª série/4º ano
+104,3459528,2011,35.0,Ens. Fundamental - 4ª série/5º Ano
+105,3912637,2011,41.0,Ens. Fundamental - 5ª série/6º ano
+106,3717354,2011,42.0,Ens. Fundamental - 6ª série/7º ano
+107,3306838,2011,43.0,Ens. Fundamental - 7ª série/8º ano
+108,3066727,2011,44.0,Ens. Fundamental - 8ª serie/9º ano
+109,3481076,2011,51.0,Ens. Médio - 1ª série
+110,2634905,2011,52.0,Ens. Médio - 2ª série
+111,2213788,2011,53.0,Ens. Médio - 3ª série
+112,72060,2011,54.0,Ens. Médio - 4ª série
+113,993465,2011,61.0,EJA - anos iniciais do Ens. Fundamental
+114,1724495,2011,62.0,EJA - anos finais do Ens. Fundamental
+115,1364568,2011,63.0,EJA - Ensino Médio
+116,993984,2011,71.0,Educação Profissional
+117,140248,2012,11.0,Creche - Menor de 1 ano
+118,418050,2012,12.0,Creche - 1 ano
+119,858446,2012,13.0,Creche - 2 anos
+120,1491059,2012,14.0,Creche - 3 anos
+121,2187383,2012,21.0,Pré-escola - 4 anos
+122,2577705,2012,22.0,Pré-escola - 5 anos
+123,2564121,2012,31.0,Ens. Fundamental - 1º Ano
+124,3159872,2012,32.0,Ens. Fundamental - 1ª série/2º ano
+125,3453154,2012,33.0,Ens. Fundamental - 2ª série/3º ano
+126,3210667,2012,34.0,Ens. Fundamental - 3ª série/4º ano
+127,3388493,2012,35.0,Ens. Fundamental - 4ª série/5º Ano
+128,3771585,2012,41.0,Ens. Fundamental - 5ª série/6º ano
+129,3517075,2012,42.0,Ens. Fundamental - 6ª série/7º ano
+130,3335143,2012,43.0,Ens. Fundamental - 7ª série/8º ano
+131,3067905,2012,44.0,Ens. Fundamental - 8ª serie/9º ano
+132,3473994,2012,51.0,Ens. Médio - 1ª série
+133,2611416,2012,52.0,Ens. Médio - 2ª série
+134,2225931,2012,53.0,Ens. Médio - 3ª série
+135,66487,2012,54.0,Ens. Médio - 4ª série
+136,994153,2012,61.0,EJA - anos iniciais do Ens. Fundamental
+137,1621556,2012,62.0,EJA - anos finais do Ens. Fundamental
+138,1346215,2012,63.0,EJA - Ensino Médio
+139,1064392,2012,71.0,Educação Profissional
+140,3786795,2013,,Não classificada
+141,152767,2013,11.0,Creche - Menor de 1 ano
+142,464153,2013,12.0,Creche - 1 ano
+143,932448,2013,13.0,Creche - 2 anos
+144,1551710,2013,14.0,Creche - 3 anos
+145,2302122,2013,21.0,Pré-escola - 4 anos
+146,2530115,2013,22.0,Pré-escola - 5 anos
+147,2642643,2013,31.0,Ens. Fundamental - 1º Ano
+148,3057282,2013,32.0,Ens. Fundamental - 1ª série/2º ano
+149,3391282,2013,33.0,Ens. Fundamental - 2ª série/3º ano
+150,3287416,2013,34.0,Ens. Fundamental - 3ª série/4º ano
+151,3173173,2013,35.0,Ens. Fundamental - 4ª série/5º Ano
+152,3650435,2013,41.0,Ens. Fundamental - 5ª série/6º ano
+153,3407502,2013,42.0,Ens. Fundamental - 6ª série/7º ano
+154,3164956,2013,43.0,Ens. Fundamental - 7ª série/8º ano
+155,3087189,2013,44.0,Ens. Fundamental - 8ª serie/9º ano
+156,3417508,2013,51.0,Ens. Médio - 1ª série
+157,2618080,2013,52.0,Ens. Médio - 2ª série
+158,2213154,2013,53.0,Ens. Médio - 3ª série
+159,65303,2013,54.0,Ens. Médio - 4ª série
+160,43406,2013,61.0,EJA - anos iniciais do Ens. Fundamental
+161,1103009,2013,71.0,Educação Profissional
+162,3604535,2014,,Não classificada
+163,165991,2014,11.0,Creche - Menor de 1 ano
+164,505891,2014,12.0,Creche - 1 ano
+165,1010206,2014,13.0,Creche - 2 anos
+166,1630908,2014,14.0,Creche - 3 anos
+167,2321562,2014,21.0,Pré-escola - 4 anos
+168,2626112,2014,22.0,Pré-escola - 5 anos
+169,2576280,2014,31.0,Ens. Fundamental - 1º Ano
+170,3032457,2014,32.0,Ens. Fundamental - 1ª série/2º ano
+171,3309710,2014,33.0,Ens. Fundamental - 2ª série/3º ano
+172,3249852,2014,34.0,Ens. Fundamental - 3ª série/4º ano
+173,3246079,2014,35.0,Ens. Fundamental - 4ª série/5º Ano
+174,3409892,2014,41.0,Ens. Fundamental - 5ª série/6º ano
+175,3338688,2014,42.0,Ens. Fundamental - 6ª série/7º ano
+176,3064767,2014,43.0,Ens. Fundamental - 7ª série/8º ano
+177,2952998,2014,44.0,Ens. Fundamental - 8ª serie/9º ano
+178,3406932,2014,51.0,Ens. Médio - 1ª série
+179,2607835,2014,52.0,Ens. Médio - 2ª série
+180,2225474,2014,53.0,Ens. Médio - 3ª série
+181,61134,2014,54.0,Ens. Médio - 4ª série
+182,48990,2014,61.0,EJA - anos iniciais do Ens. Fundamental
+183,1375078,2014,71.0,Educação Profissional
+184,178609,2015,11.0,Creche - Menor de 1 ano
+185,550382,2015,12.0,Creche - 1 ano
+186,1043512,2015,13.0,Creche - 2 anos
+187,1696062,2015,14.0,Creche - 3 anos
+188,2331761,2015,21.0,Pré-escola - 4 anos
+189,2559664,2015,22.0,Pré-escola - 5 anos
+190,2557828,2015,31.0,Ens. Fundamental - 1º Ano
+191,2983519,2015,32.0,Ens. Fundamental - 1ª série/2º ano
+192,3309981,2015,33.0,Ens. Fundamental - 2ª série/3º ano
+193,3146298,2015,34.0,Ens. Fundamental - 3ª série/4º ano
+194,3177127,2015,35.0,Ens. Fundamental - 4ª série/5º Ano
+195,3454993,2015,41.0,Ens. Fundamental - 5ª série/6º ano
+196,3104615,2015,42.0,Ens. Fundamental - 6ª série/7º ano
+197,2997685,2015,43.0,Ens. Fundamental - 7ª série/8º ano
+198,2811506,2015,44.0,Ens. Fundamental - 8ª serie/9º ano
+199,3234005,2015,51.0,Ens. Médio - 1ª série
+200,2611531,2015,52.0,Ens. Médio - 2ª série
+201,2173188,2015,53.0,Ens. Médio - 3ª série
+202,57424,2015,54.0,Ens. Médio - 4ª série
+203,804123,2015,61.0,EJA - anos iniciais do Ens. Fundamental
+204,1378420,2015,62.0,EJA - anos finais do Ens. Fundamental
+205,1309226,2015,63.0,EJA - Ensino Médio
+206,1325053,2015,71.0,Educação Profissional
+207,195042,2016,11.0,Creche - Menor de 1 ano
+208,576443,2016,12.0,Creche - 1 ano
+209,1100884,2016,13.0,Creche - 2 anos
+210,1733677,2016,14.0,Creche - 3 anos
+211,2456332,2016,21.0,Pré-escola - 4 anos
+212,2593018,2016,22.0,Pré-escola - 5 anos
+213,2494885,2016,31.0,Ens. Fundamental - 1º Ano
+214,2983844,2016,32.0,Ens. Fundamental - 1ª série/2º ano
+215,3292564,2016,33.0,Ens. Fundamental - 2ª série/3º ano
+216,3179468,2016,34.0,Ens. Fundamental - 3ª série/4º ano
+217,3114994,2016,35.0,Ens. Fundamental - 4ª série/5º Ano
+218,3421168,2016,41.0,Ens. Fundamental - 5ª série/6º ano
+219,3182328,2016,42.0,Ens. Fundamental - 6ª série/7º ano
+220,2831086,2016,43.0,Ens. Fundamental - 7ª série/8º ano
+221,2814851,2016,44.0,Ens. Fundamental - 8ª serie/9º ano
+222,3216795,2016,51.0,Ens. Médio - 1ª série
+223,2572938,2016,52.0,Ens. Médio - 2ª série
+224,2271173,2016,53.0,Ens. Médio - 3ª série
+225,72132,2016,54.0,Ens. Médio - 4ª série
+226,738438,2016,61.0,EJA - anos iniciais do Ens. Fundamental
+227,1367097,2016,62.0,EJA - anos finais do Ens. Fundamental
+228,1376639,2016,63.0,EJA - Ensino Médio
+229,1231683,2016,71.0,Educação Profissional
+230,192858,2017,11.0,Creche - Menor de 1 ano
+231,604406,2017,12.0,Creche - 1 ano
+232,1181651,2017,13.0,Creche - 2 anos
+233,1801921,2017,14.0,Creche - 3 anos
+234,2463195,2017,21.0,Pré-escola - 4 anos
+235,2649025,2017,22.0,Pré-escola - 5 anos
+236,2493649,2017,31.0,Ens. Fundamental - 1º Ano
+237,2898202,2017,32.0,Ens. Fundamental - 1ª série/2º ano
+238,3275712,2017,33.0,Ens. Fundamental - 2ª série/3º ano
+239,3146994,2017,34.0,Ens. Fundamental - 3ª série/4º ano
+240,3129662,2017,35.0,Ens. Fundamental - 4ª série/5º Ano
+241,3339837,2017,41.0,Ens. Fundamental - 5ª série/6º ano
+242,3146146,2017,42.0,Ens. Fundamental - 6ª série/7º ano
+243,2884862,2017,43.0,Ens. Fundamental - 7ª série/8º ano
+244,2648692,2017,44.0,Ens. Fundamental - 8ª serie/9º ano
+245,3145540,2017,51.0,Ens. Médio - 1ª série
+246,2509720,2017,52.0,Ens. Médio - 2ª série
+247,2205674,2017,53.0,Ens. Médio - 3ª série
+248,69449,2017,54.0,Ens. Médio - 4ª série
+249,790008,2017,61.0,EJA - anos iniciais do Ens. Fundamental
+250,1382896,2017,62.0,EJA - anos finais do Ens. Fundamental
+251,1425812,2017,63.0,EJA - Ensino Médio
+252,1222182,2017,71.0,Educação Profissional
+253,204730,2018,11.0,Creche - Menor de 1 ano
+254,610562,2018,12.0,Creche - 1 ano
+255,1241363,2018,13.0,Creche - 2 anos
+256,1902950,2018,14.0,Creche - 3 anos
+257,2505163,2018,21.0,Pré-escola - 4 anos
+258,2635189,2018,22.0,Pré-escola - 5 anos
+259,2521608,2018,31.0,Ens. Fundamental - 1º Ano
+260,2887391,2018,32.0,Ens. Fundamental - 1ª série/2º ano
+261,3171512,2018,33.0,Ens. Fundamental - 2ª série/3º ano
+262,3132304,2018,34.0,Ens. Fundamental - 3ª série/4º ano
+263,3108835,2018,35.0,Ens. Fundamental - 4ª série/5º Ano
+264,3333727,2018,41.0,Ens. Fundamental - 5ª série/6º ano
+265,3095373,2018,42.0,Ens. Fundamental - 6ª série/7º ano
+266,2870495,2018,43.0,Ens. Fundamental - 7ª série/8º ano
+267,2707954,2018,44.0,Ens. Fundamental - 8ª serie/9º ano
+268,2985926,2018,51.0,Ens. Médio - 1ª série
+269,2489497,2018,52.0,Ens. Médio - 2ª série
+270,2177245,2018,53.0,Ens. Médio - 3ª série
+271,57261,2018,54.0,Ens. Médio - 4ª série
+272,781188,2018,61.0,EJA - anos iniciais do Ens. Fundamental
+273,1326967,2018,62.0,EJA - anos finais do Ens. Fundamental
+274,1437831,2018,63.0,EJA - Ensino Médio
+275,1270796,2018,71.0,Educação Profissional
