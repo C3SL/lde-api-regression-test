@@ -25,6 +25,8 @@ import numpy as np
 import settings
 from termcolor import colored,cprint
 
+maxYear = 2019
+
 class RegressionTest:
 
 	def __init__(self, route):
@@ -41,7 +43,8 @@ class RegressionTest:
 			if len(route) > 1:
 				arguments = arguments.join(route[1:])
 			file_name = name+arguments
-			url = self.base_url+name+'?filter=min_year:1991,max_year:2018,'+arguments+'&format=csv'
+			url = self.base_url+name+'?filter=min_year:1991,max_year:' + str(maxYear) + ','+arguments+'&format=csv'
+			url = url.replace(",&format","&format")
 			try:
 				api_csv = pd.read_csv(url,float_precision='round_trip', encoding="utf-8-sig") #get from api
 				api_csv.to_csv('route_result/'+file_name+'.csv', encoding="utf-8-sig") #save
@@ -57,7 +60,7 @@ class RegressionTest:
 			if len(route) > 1:
 				arguments = arguments.join(route[1:])
 			file_name = name+arguments
-			url = self.base_url+name+'?filter=min_year:1991,max_year:2018,'+arguments+'&format=csv'
+			url = self.base_url+name+'?filter=min_year:1991,max_year:'+str(maxYear)+','+arguments+'&format=csv'
 			try:
 				api_csv = pd.read_csv(url,float_precision='round_trip', encoding="utf-8-sig") #get from api
 				csv_route = pd.read_csv('route_result/'+file_name+'.csv', index_col=0, float_precision='round_trip', encoding="utf-8-sig") #get file
