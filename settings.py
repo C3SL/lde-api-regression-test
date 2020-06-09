@@ -50,8 +50,31 @@ BASE_ROUTE_LIST = [
 
 '''SIMCAQ ROUTE LIST'''
 SIMCAQ_ROUTE_LIST = [
-	['enrollment','&dims=adm_dependency_detailed,location'],
-	['enrollment','&dims=region']
+	['enrollment','&dims=school_year'],
+	['enrollment','&dims=school_year,adm_dependency_detailed'],
+	['enrollment','&dims=school_year,location'],
+	['enrollment_projection'] ,
+	['teacher', 'adm_dependency:[\"1\",\"2\",\"3\"],education_type:[\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]&dims=education_type'],
+	#['classroom_count','adm_dependency:[\"1\",\"2\",\"3\"]'],
+	#['enrollment','adm_dependency:[\"1\",\"2\",\"3\"]&dims=school,location'],
+	['daily_charge_amount','adm_dependency[\"1\",\"2\",\"3\"],education_level_mod:[\"1\",\"2\",\"4\",\"5\",\"6\",\"8\",\"9\"],integral_time:[\"0\"],period[\"1\",\"2\"]&dims=education_level_short'],
+	['daily_charge_amount','adm_dependency[\"1\",\"2\",\"3\"],education_level_mod:[\"1\",\"2\",\"4\",\"5\",\"6\",\"8\",\"9\"],integral_time:[\"0\"],period[\"3\"]&dims=education_level_short'],
+	['daily_charge_amount','adm_dependency[\"1\",\"2\",\"3\"],education_level_mod:[\"1\",\"2\",\"4\",\"5\",\"6\",\"8\",\"9\"],integral_time:[\"1\"]&dims=education_level_short'],
+	['enrollment','adm_dependency[\"1\",\"2\",\"3\"],education_level_mod:[\"1\",\"2\",\"4\",\"5\",\"6\",\"8\",\"9\"],integral_time:[\"1\"]&dims=education_level_short'],
+	['enrollment','adm_dependency:[\"1\",\"2\",\"3\"]&dims=education_level_short'],
+	['enrollment','integral_time:\"true\",education_level_short:[\"1\",\"2\",\"3\",\"4\",\"5\"],adm_dependency:[\"1\",\"2\",\"3\"]&education_level_short,integral_time'],
+	['class_count/count','adm_dependency:[\"1\",\"2\",\"3\"],education_level_short:[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\"]&dims=education_level_short,location'],
+	['teacher','adm_dependency:[\"1\",\"2\",\"3\"]'],
+	['auxiliar','adm_dependency:[\"1\",\"2\",\"3\"],education_level_mod:[\"1\",\"2\",\"4\",\"5\",\"6\",\"8\",\"9\"]'],
+	['teacher','adm_dependency:[\"1\",\"2\",\"3\"],education_type:[\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]&dims=education_type'],
+	['teacher','adm_dependency:[\"1\",\"2\",\"3\"],education_type:[\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]&dims=education_type'],
+	['employees','adm_dependency:[\"1\",\"2\",\"3\"]'],
+	['count','adm_dependency:[\"1\",\"2\",\"3\"],school_building:\"true\"'],
+	['count','adm_dependency:[\"1\",\"2\",\"3\"],school_building:\"true\"&dims=location'],
+	['count','adm_dependency:[\"1\",\"2\",\"3\"],school_building:\"false\"'],
+	['school_infrastructure','adm_dependency:[\"1\",\"2\",\"3\"]&dims=location'],
+	['cub','min_month:\"10\",max_month\"10\"']
+
 ]
 
 '''LDE ROUTE LIST'''

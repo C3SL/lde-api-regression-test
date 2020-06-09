@@ -1,0 +1,2004 @@
+﻿,total,year,adm_dependency_detailed_id,school_year_id,adm_dependency_detailed_name,school_year_name
+0,6273,2007,1,,Federal,Não classificada
+1,180,2007,1,11.0,Federal,Creche - Menor de 1 ano
+2,243,2007,1,12.0,Federal,Creche - 1 ano
+3,343,2007,1,13.0,Federal,Creche - 2 anos
+4,334,2007,1,14.0,Federal,Creche - 3 anos
+5,425,2007,1,21.0,Federal,Pré-escola - 4 anos
+6,638,2007,1,22.0,Federal,Pré-escola - 5 anos
+7,1014,2007,1,31.0,Federal,Ens. Fundamental - 1º Ano
+8,1499,2007,1,32.0,Federal,Ens. Fundamental - 1ª série/2º ano
+9,1526,2007,1,33.0,Federal,Ens. Fundamental - 2ª série/3º ano
+10,1769,2007,1,34.0,Federal,Ens. Fundamental - 3ª série/4º ano
+11,1793,2007,1,35.0,Federal,Ens. Fundamental - 4ª série/5º Ano
+12,3747,2007,1,41.0,Federal,Ens. Fundamental - 5ª série/6º ano
+13,4351,2007,1,42.0,Federal,Ens. Fundamental - 6ª série/7º ano
+14,4716,2007,1,43.0,Federal,Ens. Fundamental - 7ª série/8º ano
+15,4505,2007,1,44.0,Federal,Ens. Fundamental - 8ª serie/9º ano
+16,29854,2007,1,51.0,Federal,Ens. Médio - 1ª série
+17,20933,2007,1,52.0,Federal,Ens. Médio - 2ª série
+18,18309,2007,1,53.0,Federal,Ens. Médio - 3ª série
+19,56,2007,1,54.0,Federal,Ens. Médio - 4ª série
+20,17,2007,1,62.0,Federal,EJA - anos finais do Ens. Fundamental
+21,82570,2007,1,71.0,Federal,Educação Profissional
+22,2906589,2007,2,,Estadual,Não classificada
+23,1040,2007,2,11.0,Estadual,Creche - Menor de 1 ano
+24,2005,2007,2,12.0,Estadual,Creche - 1 ano
+25,4171,2007,2,13.0,Estadual,Creche - 2 anos
+26,13984,2007,2,14.0,Estadual,Creche - 3 anos
+27,50160,2007,2,21.0,Estadual,Pré-escola - 4 anos
+28,140036,2007,2,22.0,Estadual,Pré-escola - 5 anos
+29,292106,2007,2,31.0,Estadual,Ens. Fundamental - 1º Ano
+30,806870,2007,2,32.0,Estadual,Ens. Fundamental - 1ª série/2º ano
+31,919744,2007,2,33.0,Estadual,Ens. Fundamental - 2ª série/3º ano
+32,871726,2007,2,34.0,Estadual,Ens. Fundamental - 3ª série/4º ano
+33,963420,2007,2,35.0,Estadual,Ens. Fundamental - 4ª série/5º Ano
+34,2087413,2007,2,41.0,Estadual,Ens. Fundamental - 5ª série/6º ano
+35,1930408,2007,2,42.0,Estadual,Ens. Fundamental - 6ª série/7º ano
+36,1759487,2007,2,43.0,Estadual,Ens. Fundamental - 7ª série/8º ano
+37,1718127,2007,2,44.0,Estadual,Ens. Fundamental - 8ª serie/9º ano
+38,3054982,2007,2,51.0,Estadual,Ens. Médio - 1ª série
+39,2267101,2007,2,52.0,Estadual,Ens. Médio - 2ª série
+40,1878892,2007,2,53.0,Estadual,Ens. Médio - 3ª série
+41,39005,2007,2,54.0,Estadual,Ens. Médio - 4ª série
+42,3557,2007,2,61.0,Estadual,EJA - anos iniciais do Ens. Fundamental
+43,331,2007,2,62.0,Estadual,EJA - anos finais do Ens. Fundamental
+44,221,2007,2,63.0,Estadual,EJA - Ensino Médio
+45,215925,2007,2,71.0,Estadual,Educação Profissional
+46,1934572,2007,3,,Municipal,Não classificada
+47,64920,2007,3,11.0,Municipal,Creche - Menor de 1 ano
+48,174361,2007,3,12.0,Municipal,Creche - 1 ano
+49,354375,2007,3,13.0,Municipal,Creche - 2 anos
+50,773345,2007,3,14.0,Municipal,Creche - 3 anos
+51,1446639,2007,3,21.0,Municipal,Pré-escola - 4 anos
+52,1943080,2007,3,22.0,Municipal,Pré-escola - 5 anos
+53,1506554,2007,3,31.0,Municipal,Ens. Fundamental - 1º Ano
+54,2804404,2007,3,32.0,Municipal,Ens. Fundamental - 1ª série/2º ano
+55,2796336,2007,3,33.0,Municipal,Ens. Fundamental - 2ª série/3º ano
+56,2607719,2007,3,34.0,Municipal,Ens. Fundamental - 3ª série/4º ano
+57,2497933,2007,3,35.0,Municipal,Ens. Fundamental - 4ª série/5º Ano
+58,1815150,2007,3,41.0,Municipal,Ens. Fundamental - 5ª série/6º ano
+59,1480631,2007,3,42.0,Municipal,Ens. Fundamental - 6ª série/7º ano
+60,1176727,2007,3,43.0,Municipal,Ens. Fundamental - 7ª série/8º ano
+61,963234,2007,3,44.0,Municipal,Ens. Fundamental - 8ª serie/9º ano
+62,71248,2007,3,51.0,Municipal,Ens. Médio - 1ª série
+63,48985,2007,3,52.0,Municipal,Ens. Médio - 2ª série
+64,37215,2007,3,53.0,Municipal,Ens. Médio - 3ª série
+65,6391,2007,3,54.0,Municipal,Ens. Médio - 4ª série
+66,3040,2007,3,61.0,Municipal,EJA - anos iniciais do Ens. Fundamental
+67,280,2007,3,62.0,Municipal,EJA - anos finais do Ens. Fundamental
+68,13,2007,3,63.0,Municipal,EJA - Ensino Médio
+69,23859,2007,3,71.0,Municipal,Educação Profissional
+70,137400,2007,8,,Privada sem detalhamento,Não classificada
+71,33682,2007,8,11.0,Privada sem detalhamento,Creche - Menor de 1 ano
+72,101243,2007,8,12.0,Privada sem detalhamento,Creche - 1 ano
+73,237151,2007,8,13.0,Privada sem detalhamento,Creche - 2 anos
+74,381743,2007,8,14.0,Privada sem detalhamento,Creche - 3 anos
+75,423820,2007,8,21.0,Privada sem detalhamento,Pré-escola - 4 anos
+76,428471,2007,8,22.0,Privada sem detalhamento,Pré-escola - 5 anos
+77,270578,2007,8,31.0,Privada sem detalhamento,Ens. Fundamental - 1º Ano
+78,462214,2007,8,32.0,Privada sem detalhamento,Ens. Fundamental - 1ª série/2º ano
+79,418531,2007,8,33.0,Privada sem detalhamento,Ens. Fundamental - 2ª série/3º ano
+80,387797,2007,8,34.0,Privada sem detalhamento,Ens. Fundamental - 3ª série/4º ano
+81,382962,2007,8,35.0,Privada sem detalhamento,Ens. Fundamental - 4ª série/5º Ano
+82,374267,2007,8,41.0,Privada sem detalhamento,Ens. Fundamental - 5ª série/6º ano
+83,356509,2007,8,42.0,Privada sem detalhamento,Ens. Fundamental - 6ª série/7º ano
+84,339157,2007,8,43.0,Privada sem detalhamento,Ens. Fundamental - 7ª série/8º ano
+85,330805,2007,8,44.0,Privada sem detalhamento,Ens. Fundamental - 8ª serie/9º ano
+86,325208,2007,8,51.0,Privada sem detalhamento,Ens. Médio - 1ª série
+87,292549,2007,8,52.0,Privada sem detalhamento,Ens. Médio - 2ª série
+88,277852,2007,8,53.0,Privada sem detalhamento,Ens. Médio - 3ª série
+89,3329,2007,8,54.0,Privada sem detalhamento,Ens. Médio - 4ª série
+90,40005,2007,8,61.0,Privada sem detalhamento,EJA - anos iniciais do Ens. Fundamental
+91,846,2007,8,62.0,Privada sem detalhamento,EJA - anos finais do Ens. Fundamental
+92,644,2007,8,63.0,Privada sem detalhamento,EJA - Ensino Médio
+93,378759,2007,8,71.0,Privada sem detalhamento,Educação Profissional
+94,9745,2008,1,,Federal,Não classificada
+95,179,2008,1,11.0,Federal,Creche - Menor de 1 ano
+96,262,2008,1,12.0,Federal,Creche - 1 ano
+97,418,2008,1,13.0,Federal,Creche - 2 anos
+98,500,2008,1,14.0,Federal,Creche - 3 anos
+99,462,2008,1,21.0,Federal,Pré-escola - 4 anos
+100,555,2008,1,22.0,Federal,Pré-escola - 5 anos
+101,1183,2008,1,31.0,Federal,Ens. Fundamental - 1º Ano
+102,1452,2008,1,32.0,Federal,Ens. Fundamental - 1ª série/2º ano
+103,1563,2008,1,33.0,Federal,Ens. Fundamental - 2ª série/3º ano
+104,1573,2008,1,34.0,Federal,Ens. Fundamental - 3ª série/4º ano
+105,1829,2008,1,35.0,Federal,Ens. Fundamental - 4ª série/5º Ano
+106,4091,2008,1,41.0,Federal,Ens. Fundamental - 5ª série/6º ano
+107,4637,2008,1,42.0,Federal,Ens. Fundamental - 6ª série/7º ano
+108,4881,2008,1,43.0,Federal,Ens. Fundamental - 7ª série/8º ano
+109,4936,2008,1,44.0,Federal,Ens. Fundamental - 8ª serie/9º ano
+110,35821,2008,1,51.0,Federal,Ens. Médio - 1ª série
+111,23570,2008,1,52.0,Federal,Ens. Médio - 2ª série
+112,20420,2008,1,53.0,Federal,Ens. Médio - 3ª série
+113,2384,2008,1,54.0,Federal,Ens. Médio - 4ª série
+114,77071,2008,1,71.0,Federal,Educação Profissional
+115,2838049,2008,2,,Estadual,Não classificada
+116,858,2008,2,11.0,Estadual,Creche - Menor de 1 ano
+117,1838,2008,2,12.0,Estadual,Creche - 1 ano
+118,3559,2008,2,13.0,Estadual,Creche - 2 anos
+119,10350,2008,2,14.0,Estadual,Creche - 3 anos
+120,35596,2008,2,21.0,Estadual,Pré-escola - 4 anos
+121,123016,2008,2,22.0,Estadual,Pré-escola - 5 anos
+122,293412,2008,2,31.0,Estadual,Ens. Fundamental - 1º Ano
+123,732056,2008,2,32.0,Estadual,Ens. Fundamental - 1ª série/2º ano
+124,803553,2008,2,33.0,Estadual,Ens. Fundamental - 2ª série/3º ano
+125,867005,2008,2,34.0,Estadual,Ens. Fundamental - 3ª série/4º ano
+126,906146,2008,2,35.0,Estadual,Ens. Fundamental - 4ª série/5º Ano
+127,2008461,2008,2,41.0,Estadual,Ens. Fundamental - 5ª série/6º ano
+128,1877022,2008,2,42.0,Estadual,Ens. Fundamental - 6ª série/7º ano
+129,1770807,2008,2,43.0,Estadual,Ens. Fundamental - 7ª série/8º ano
+130,1723060,2008,2,44.0,Estadual,Ens. Fundamental - 8ª serie/9º ano
+131,3010799,2008,2,51.0,Estadual,Ens. Médio - 1ª série
+132,2235967,2008,2,52.0,Estadual,Ens. Médio - 2ª série
+133,1888852,2008,2,53.0,Estadual,Ens. Médio - 3ª série
+134,42070,2008,2,54.0,Estadual,Ens. Médio - 4ª série
+135,2928,2008,2,61.0,Estadual,EJA - anos iniciais do Ens. Fundamental
+136,173,2008,2,62.0,Estadual,EJA - anos finais do Ens. Fundamental
+137,107,2008,2,63.0,Estadual,EJA - Ensino Médio
+138,257757,2008,2,71.0,Estadual,Educação Profissional
+139,1947282,2008,3,,Municipal,Não classificada
+140,68479,2008,3,11.0,Municipal,Creche - Menor de 1 ano
+141,192780,2008,3,12.0,Municipal,Creche - 1 ano
+142,401768,2008,3,13.0,Municipal,Creche - 2 anos
+143,840950,2008,3,14.0,Municipal,Creche - 3 anos
+144,1519180,2008,3,21.0,Municipal,Pré-escola - 4 anos
+145,1941544,2008,3,22.0,Municipal,Pré-escola - 5 anos
+146,1584281,2008,3,31.0,Municipal,Ens. Fundamental - 1º Ano
+147,2594467,2008,3,32.0,Municipal,Ens. Fundamental - 1ª série/2º ano
+148,2663540,2008,3,33.0,Municipal,Ens. Fundamental - 2ª série/3º ano
+149,2585674,2008,3,34.0,Municipal,Ens. Fundamental - 3ª série/4º ano
+150,2494459,2008,3,35.0,Municipal,Ens. Fundamental - 4ª série/5º Ano
+151,1800360,2008,3,41.0,Municipal,Ens. Fundamental - 5ª série/6º ano
+152,1478185,2008,3,42.0,Municipal,Ens. Fundamental - 6ª série/7º ano
+153,1207134,2008,3,43.0,Municipal,Ens. Fundamental - 7ª série/8º ano
+154,1011708,2008,3,44.0,Municipal,Ens. Fundamental - 8ª serie/9º ano
+155,54296,2008,3,51.0,Municipal,Ens. Médio - 1ª série
+156,42428,2008,3,52.0,Municipal,Ens. Médio - 2ª série
+157,33895,2008,3,53.0,Municipal,Ens. Médio - 3ª série
+158,5652,2008,3,54.0,Municipal,Ens. Médio - 4ª série
+159,3270,2008,3,61.0,Municipal,EJA - anos iniciais do Ens. Fundamental
+160,277,2008,3,62.0,Municipal,EJA - anos finais do Ens. Fundamental
+161,15,2008,3,63.0,Municipal,EJA - Ensino Médio
+162,29228,2008,3,71.0,Municipal,Educação Profissional
+163,9039,2008,4,,Privada conveniada sem fins lucrativos,Não classificada
+164,17740,2008,4,11.0,Privada conveniada sem fins lucrativos,Creche - Menor de 1 ano
+165,51791,2008,4,12.0,Privada conveniada sem fins lucrativos,Creche - 1 ano
+166,98636,2008,4,13.0,Privada conveniada sem fins lucrativos,Creche - 2 anos
+167,122461,2008,4,14.0,Privada conveniada sem fins lucrativos,Creche - 3 anos
+168,107635,2008,4,21.0,Privada conveniada sem fins lucrativos,Pré-escola - 4 anos
+169,82065,2008,4,22.0,Privada conveniada sem fins lucrativos,Pré-escola - 5 anos
+170,63336,2008,4,31.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+171,79206,2008,4,32.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+172,41771,2008,4,33.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+173,34592,2008,4,34.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+174,33287,2008,4,35.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+175,29266,2008,4,41.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+176,29026,2008,4,42.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+177,27903,2008,4,43.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+178,27620,2008,4,44.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+179,26898,2008,4,51.0,Privada conveniada sem fins lucrativos,Ens. Médio - 1ª série
+180,20548,2008,4,52.0,Privada conveniada sem fins lucrativos,Ens. Médio - 2ª série
+181,18345,2008,4,53.0,Privada conveniada sem fins lucrativos,Ens. Médio - 3ª série
+182,789,2008,4,54.0,Privada conveniada sem fins lucrativos,Ens. Médio - 4ª série
+183,30422,2008,4,61.0,Privada conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+184,1579,2008,4,62.0,Privada conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+185,878,2008,4,63.0,Privada conveniada sem fins lucrativos,EJA - Ensino Médio
+186,27911,2008,4,71.0,Privada conveniada sem fins lucrativos,Educação Profissional
+187,6927,2008,5,,Privada conveniada com fins lucrativos,Não classificada
+188,2672,2008,5,11.0,Privada conveniada com fins lucrativos,Creche - Menor de 1 ano
+189,7979,2008,5,12.0,Privada conveniada com fins lucrativos,Creche - 1 ano
+190,16995,2008,5,13.0,Privada conveniada com fins lucrativos,Creche - 2 anos
+191,22514,2008,5,14.0,Privada conveniada com fins lucrativos,Creche - 3 anos
+192,20934,2008,5,21.0,Privada conveniada com fins lucrativos,Pré-escola - 4 anos
+193,18609,2008,5,22.0,Privada conveniada com fins lucrativos,Pré-escola - 5 anos
+194,10462,2008,5,31.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+195,13397,2008,5,32.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+196,13669,2008,5,33.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+197,13145,2008,5,34.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+198,12992,2008,5,35.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+199,13189,2008,5,41.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+200,12344,2008,5,42.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+201,11507,2008,5,43.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+202,11045,2008,5,44.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+203,10865,2008,5,51.0,Privada conveniada com fins lucrativos,Ens. Médio - 1ª série
+204,7867,2008,5,52.0,Privada conveniada com fins lucrativos,Ens. Médio - 2ª série
+205,9085,2008,5,53.0,Privada conveniada com fins lucrativos,Ens. Médio - 3ª série
+206,289,2008,5,54.0,Privada conveniada com fins lucrativos,Ens. Médio - 4ª série
+207,144,2008,5,61.0,Privada conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+208,28204,2008,5,71.0,Privada conveniada com fins lucrativos,Educação Profissional
+209,15456,2008,6,,Privada não conveniada sem fins lucrativos,Não classificada
+210,2465,2008,6,11.0,Privada não conveniada sem fins lucrativos,Creche - Menor de 1 ano
+211,8764,2008,6,12.0,Privada não conveniada sem fins lucrativos,Creche - 1 ano
+212,22948,2008,6,13.0,Privada não conveniada sem fins lucrativos,Creche - 2 anos
+213,40897,2008,6,14.0,Privada não conveniada sem fins lucrativos,Creche - 3 anos
+214,50167,2008,6,21.0,Privada não conveniada sem fins lucrativos,Pré-escola - 4 anos
+215,52480,2008,6,22.0,Privada não conveniada sem fins lucrativos,Pré-escola - 5 anos
+216,38296,2008,6,31.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+217,49565,2008,6,32.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+218,55226,2008,6,33.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+219,55526,2008,6,34.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+220,55622,2008,6,35.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+221,59655,2008,6,41.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+222,58341,2008,6,42.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+223,57761,2008,6,43.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+224,55991,2008,6,44.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+225,54834,2008,6,51.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 1ª série
+226,48743,2008,6,52.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 2ª série
+227,45334,2008,6,53.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 3ª série
+228,751,2008,6,54.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 4ª série
+229,2468,2008,6,61.0,Privada não conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+230,75,2008,6,62.0,Privada não conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+231,43,2008,6,63.0,Privada não conveniada sem fins lucrativos,EJA - Ensino Médio
+232,26948,2008,6,71.0,Privada não conveniada sem fins lucrativos,Educação Profissional
+233,119315,2008,7,,Privada não conveniada com fins lucrativos,Não classificada
+234,14229,2008,7,11.0,Privada não conveniada com fins lucrativos,Creche - Menor de 1 ano
+235,49947,2008,7,12.0,Privada não conveniada com fins lucrativos,Creche - 1 ano
+236,140010,2008,7,13.0,Privada não conveniada com fins lucrativos,Creche - 2 anos
+237,246753,2008,7,14.0,Privada não conveniada com fins lucrativos,Creche - 3 anos
+238,304573,2008,7,21.0,Privada não conveniada com fins lucrativos,Pré-escola - 4 anos
+239,320621,2008,7,22.0,Privada não conveniada com fins lucrativos,Pré-escola - 5 anos
+240,198708,2008,7,31.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+241,326841,2008,7,32.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+242,341699,2008,7,33.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+243,338073,2008,7,34.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+244,326815,2008,7,35.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+245,319120,2008,7,41.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+246,303059,2008,7,42.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+247,287405,2008,7,43.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+248,276144,2008,7,44.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+249,260286,2008,7,51.0,Privada não conveniada com fins lucrativos,Ens. Médio - 1ª série
+250,237045,2008,7,52.0,Privada não conveniada com fins lucrativos,Ens. Médio - 2ª série
+251,228708,2008,7,53.0,Privada não conveniada com fins lucrativos,Ens. Médio - 3ª série
+252,1967,2008,7,54.0,Privada não conveniada com fins lucrativos,Ens. Médio - 4ª série
+253,484,2008,7,61.0,Privada não conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+254,40,2008,7,62.0,Privada não conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+255,353267,2008,7,71.0,Privada não conveniada com fins lucrativos,Educação Profissional
+256,159,2009,1,11.0,Federal,Creche - Menor de 1 ano
+257,280,2009,1,12.0,Federal,Creche - 1 ano
+258,422,2009,1,13.0,Federal,Creche - 2 anos
+259,536,2009,1,14.0,Federal,Creche - 3 anos
+260,602,2009,1,21.0,Federal,Pré-escola - 4 anos
+261,575,2009,1,22.0,Federal,Pré-escola - 5 anos
+262,1171,2009,1,31.0,Federal,Ens. Fundamental - 1º Ano
+263,1401,2009,1,32.0,Federal,Ens. Fundamental - 1ª série/2º ano
+264,1477,2009,1,33.0,Federal,Ens. Fundamental - 2ª série/3º ano
+265,1585,2009,1,34.0,Federal,Ens. Fundamental - 3ª série/4º ano
+266,1658,2009,1,35.0,Federal,Ens. Fundamental - 4ª série/5º Ano
+267,3995,2009,1,41.0,Federal,Ens. Fundamental - 5ª série/6º ano
+268,4478,2009,1,42.0,Federal,Ens. Fundamental - 6ª série/7º ano
+269,4905,2009,1,43.0,Federal,Ens. Fundamental - 7ª série/8º ano
+270,4842,2009,1,44.0,Federal,Ens. Fundamental - 8ª serie/9º ano
+271,40810,2009,1,51.0,Federal,Ens. Médio - 1ª série
+272,26340,2009,1,52.0,Federal,Ens. Médio - 2ª série
+273,20243,2009,1,53.0,Federal,Ens. Médio - 3ª série
+274,3137,2009,1,54.0,Federal,Ens. Médio - 4ª série
+275,185,2009,1,61.0,Federal,EJA - anos iniciais do Ens. Fundamental
+276,613,2009,1,62.0,Federal,EJA - anos finais do Ens. Fundamental
+277,11690,2009,1,63.0,Federal,EJA - Ensino Médio
+278,86634,2009,1,71.0,Federal,Educação Profissional
+279,726,2009,2,11.0,Estadual,Creche - Menor de 1 ano
+280,1360,2009,2,12.0,Estadual,Creche - 1 ano
+281,2937,2009,2,13.0,Estadual,Creche - 2 anos
+282,8759,2009,2,14.0,Estadual,Creche - 3 anos
+283,27545,2009,2,21.0,Estadual,Pré-escola - 4 anos
+284,99922,2009,2,22.0,Estadual,Pré-escola - 5 anos
+285,279420,2009,2,31.0,Estadual,Ens. Fundamental - 1º Ano
+286,653992,2009,2,32.0,Estadual,Ens. Fundamental - 1ª série/2º ano
+287,736142,2009,2,33.0,Estadual,Ens. Fundamental - 2ª série/3º ano
+288,757811,2009,2,34.0,Estadual,Ens. Fundamental - 3ª série/4º ano
+289,884159,2009,2,35.0,Estadual,Ens. Fundamental - 4ª série/5º Ano
+290,1958979,2009,2,41.0,Estadual,Ens. Fundamental - 5ª série/6º ano
+291,1806564,2009,2,42.0,Estadual,Ens. Fundamental - 6ª série/7º ano
+292,1751198,2009,2,43.0,Estadual,Ens. Fundamental - 7ª série/8º ano
+293,1711266,2009,2,44.0,Estadual,Ens. Fundamental - 8ª serie/9º ano
+294,3046692,2009,2,51.0,Estadual,Ens. Médio - 1ª série
+295,2202426,2009,2,52.0,Estadual,Ens. Médio - 2ª série
+296,1870639,2009,2,53.0,Estadual,Ens. Médio - 3ª série
+297,43618,2009,2,54.0,Estadual,Ens. Médio - 4ª série
+298,164476,2009,2,61.0,Estadual,EJA - anos iniciais do Ens. Fundamental
+299,1056526,2009,2,62.0,Estadual,EJA - anos finais do Ens. Fundamental
+300,1401378,2009,2,63.0,Estadual,EJA - Ensino Médio
+301,271128,2009,2,71.0,Estadual,Educação Profissional
+302,73301,2009,3,11.0,Municipal,Creche - Menor de 1 ano
+303,205392,2009,3,12.0,Municipal,Creche - 1 ano
+304,436054,2009,3,13.0,Municipal,Creche - 2 anos
+305,910062,2009,3,14.0,Municipal,Creche - 3 anos
+306,1590637,2009,3,21.0,Municipal,Pré-escola - 4 anos
+307,1953917,2009,3,22.0,Municipal,Pré-escola - 5 anos
+308,1606802,2009,3,31.0,Municipal,Ens. Fundamental - 1º Ano
+309,2481262,2009,3,32.0,Municipal,Ens. Fundamental - 1ª série/2º ano
+310,2550341,2009,3,33.0,Municipal,Ens. Fundamental - 2ª série/3º ano
+311,2458959,2009,3,34.0,Municipal,Ens. Fundamental - 3ª série/4º ano
+312,2488885,2009,3,35.0,Municipal,Ens. Fundamental - 4ª série/5º Ano
+313,1806338,2009,3,41.0,Municipal,Ens. Fundamental - 5ª série/6º ano
+314,1474323,2009,3,42.0,Municipal,Ens. Fundamental - 6ª série/7º ano
+315,1200876,2009,3,43.0,Municipal,Ens. Fundamental - 7ª série/8º ano
+316,1051265,2009,3,44.0,Municipal,Ens. Fundamental - 8ª serie/9º ano
+317,43697,2009,3,51.0,Municipal,Ens. Médio - 1ª série
+318,31401,2009,3,52.0,Municipal,Ens. Médio - 2ª série
+319,30295,2009,3,53.0,Municipal,Ens. Médio - 3ª série
+320,5478,2009,3,54.0,Municipal,Ens. Médio - 4ª série
+321,868761,2009,3,61.0,Municipal,EJA - anos iniciais do Ens. Fundamental
+322,967860,2009,3,62.0,Municipal,EJA - anos finais do Ens. Fundamental
+323,53709,2009,3,63.0,Municipal,EJA - Ensino Médio
+324,25694,2009,3,71.0,Municipal,Educação Profissional
+325,19096,2009,4,11.0,Privada conveniada sem fins lucrativos,Creche - Menor de 1 ano
+326,58262,2009,4,12.0,Privada conveniada sem fins lucrativos,Creche - 1 ano
+327,114481,2009,4,13.0,Privada conveniada sem fins lucrativos,Creche - 2 anos
+328,144090,2009,4,14.0,Privada conveniada sem fins lucrativos,Creche - 3 anos
+329,122259,2009,4,21.0,Privada conveniada sem fins lucrativos,Pré-escola - 4 anos
+330,95586,2009,4,22.0,Privada conveniada sem fins lucrativos,Pré-escola - 5 anos
+331,66936,2009,4,31.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+332,84352,2009,4,32.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+333,42295,2009,4,33.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+334,42295,2009,4,34.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+335,41970,2009,4,35.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+336,38179,2009,4,41.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+337,37427,2009,4,42.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+338,36411,2009,4,43.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+339,35309,2009,4,44.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+340,31376,2009,4,51.0,Privada conveniada sem fins lucrativos,Ens. Médio - 1ª série
+341,27394,2009,4,52.0,Privada conveniada sem fins lucrativos,Ens. Médio - 2ª série
+342,24143,2009,4,53.0,Privada conveniada sem fins lucrativos,Ens. Médio - 3ª série
+343,1163,2009,4,54.0,Privada conveniada sem fins lucrativos,Ens. Médio - 4ª série
+344,32880,2009,4,61.0,Privada conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+345,3609,2009,4,62.0,Privada conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+346,4084,2009,4,63.0,Privada conveniada sem fins lucrativos,EJA - Ensino Médio
+347,26683,2009,4,71.0,Privada conveniada sem fins lucrativos,Educação Profissional
+348,3203,2009,5,11.0,Privada conveniada com fins lucrativos,Creche - Menor de 1 ano
+349,10749,2009,5,12.0,Privada conveniada com fins lucrativos,Creche - 1 ano
+350,22386,2009,5,13.0,Privada conveniada com fins lucrativos,Creche - 2 anos
+351,29331,2009,5,14.0,Privada conveniada com fins lucrativos,Creche - 3 anos
+352,26479,2009,5,21.0,Privada conveniada com fins lucrativos,Pré-escola - 4 anos
+353,24967,2009,5,22.0,Privada conveniada com fins lucrativos,Pré-escola - 5 anos
+354,15236,2009,5,31.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+355,20302,2009,5,32.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+356,19570,2009,5,33.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+357,20406,2009,5,34.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+358,20234,2009,5,35.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+359,20234,2009,5,41.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+360,19581,2009,5,42.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+361,18428,2009,5,43.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+362,17346,2009,5,44.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+363,17988,2009,5,51.0,Privada conveniada com fins lucrativos,Ens. Médio - 1ª série
+364,15605,2009,5,52.0,Privada conveniada com fins lucrativos,Ens. Médio - 2ª série
+365,16381,2009,5,53.0,Privada conveniada com fins lucrativos,Ens. Médio - 3ª série
+366,338,2009,5,54.0,Privada conveniada com fins lucrativos,Ens. Médio - 4ª série
+367,1064,2009,5,61.0,Privada conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+368,2669,2009,5,62.0,Privada conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+369,7597,2009,5,63.0,Privada conveniada com fins lucrativos,EJA - Ensino Médio
+370,44368,2009,5,71.0,Privada conveniada com fins lucrativos,Educação Profissional
+371,771,2009,6,11.0,Privada não conveniada sem fins lucrativos,Creche - Menor de 1 ano
+372,3262,2009,6,12.0,Privada não conveniada sem fins lucrativos,Creche - 1 ano
+373,11278,2009,6,13.0,Privada não conveniada sem fins lucrativos,Creche - 2 anos
+374,20961,2009,6,14.0,Privada não conveniada sem fins lucrativos,Creche - 3 anos
+375,28228,2009,6,21.0,Privada não conveniada sem fins lucrativos,Pré-escola - 4 anos
+376,34929,2009,6,22.0,Privada não conveniada sem fins lucrativos,Pré-escola - 5 anos
+377,25945,2009,6,31.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+378,39539,2009,6,32.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+379,35655,2009,6,33.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+380,41619,2009,6,34.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+381,43056,2009,6,35.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+382,45817,2009,6,41.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+383,46431,2009,6,42.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+384,45554,2009,6,43.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+385,44130,2009,6,44.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+386,43439,2009,6,51.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 1ª série
+387,37656,2009,6,52.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 2ª série
+388,33732,2009,6,53.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 3ª série
+389,341,2009,6,54.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 4ª série
+390,2417,2009,6,61.0,Privada não conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+391,3397,2009,6,62.0,Privada não conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+392,4438,2009,6,63.0,Privada não conveniada sem fins lucrativos,EJA - Ensino Médio
+393,21916,2009,6,71.0,Privada não conveniada sem fins lucrativos,Educação Profissional
+394,12725,2009,7,11.0,Privada não conveniada com fins lucrativos,Creche - Menor de 1 ano
+395,48611,2009,7,12.0,Privada não conveniada com fins lucrativos,Creche - 1 ano
+396,147220,2009,7,13.0,Privada não conveniada com fins lucrativos,Creche - 2 anos
+397,258720,2009,7,14.0,Privada não conveniada com fins lucrativos,Creche - 3 anos
+398,316113,2009,7,21.0,Privada não conveniada com fins lucrativos,Pré-escola - 4 anos
+399,345891,2009,7,22.0,Privada não conveniada com fins lucrativos,Pré-escola - 5 anos
+400,215981,2009,7,31.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+401,342555,2009,7,32.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+402,337211,2009,7,33.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+403,346856,2009,7,34.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+404,344463,2009,7,35.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+405,327131,2009,7,41.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+406,316247,2009,7,42.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+407,297752,2009,7,43.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+408,289303,2009,7,44.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+409,265089,2009,7,51.0,Privada não conveniada com fins lucrativos,Ens. Médio - 1ª série
+410,233649,2009,7,52.0,Privada não conveniada com fins lucrativos,Ens. Médio - 2ª série
+411,223682,2009,7,53.0,Privada não conveniada com fins lucrativos,Ens. Médio - 3ª série
+412,1648,2009,7,54.0,Privada não conveniada com fins lucrativos,Ens. Médio - 4ª série
+413,6991,2009,7,61.0,Privada não conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+414,22456,2009,7,62.0,Privada não conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+415,84388,2009,7,63.0,Privada não conveniada com fins lucrativos,EJA - Ensino Médio
+416,385807,2009,7,71.0,Privada não conveniada com fins lucrativos,Educação Profissional
+417,192,2010,1,11.0,Federal,Creche - Menor de 1 ano
+418,306,2010,1,12.0,Federal,Creche - 1 ano
+419,407,2010,1,13.0,Federal,Creche - 2 anos
+420,536,2010,1,14.0,Federal,Creche - 3 anos
+421,593,2010,1,21.0,Federal,Pré-escola - 4 anos
+422,607,2010,1,22.0,Federal,Pré-escola - 5 anos
+423,1244,2010,1,31.0,Federal,Ens. Fundamental - 1º Ano
+424,1508,2010,1,32.0,Federal,Ens. Fundamental - 1ª série/2º ano
+425,1509,2010,1,33.0,Federal,Ens. Fundamental - 2ª série/3º ano
+426,1544,2010,1,34.0,Federal,Ens. Fundamental - 3ª série/4º ano
+427,1701,2010,1,35.0,Federal,Ens. Fundamental - 4ª série/5º Ano
+428,4186,2010,1,41.0,Federal,Ens. Fundamental - 5ª série/6º ano
+429,4667,2010,1,42.0,Federal,Ens. Fundamental - 6ª série/7º ano
+430,4621,2010,1,43.0,Federal,Ens. Fundamental - 7ª série/8º ano
+431,4871,2010,1,44.0,Federal,Ens. Fundamental - 8ª serie/9º ano
+432,46356,2010,1,51.0,Federal,Ens. Médio - 1ª série
+433,28383,2010,1,52.0,Federal,Ens. Médio - 2ª série
+434,21961,2010,1,53.0,Federal,Ens. Médio - 3ª série
+435,5154,2010,1,54.0,Federal,Ens. Médio - 4ª série
+436,456,2010,1,61.0,Federal,EJA - anos iniciais do Ens. Fundamental
+437,562,2010,1,62.0,Federal,EJA - anos finais do Ens. Fundamental
+438,14530,2010,1,63.0,Federal,EJA - Ensino Médio
+439,89214,2010,1,71.0,Federal,Educação Profissional
+440,1201,2010,2,11.0,Estadual,Creche - Menor de 1 ano
+441,1766,2010,2,12.0,Estadual,Creche - 1 ano
+442,3021,2010,2,13.0,Estadual,Creche - 2 anos
+443,8159,2010,2,14.0,Estadual,Creche - 3 anos
+444,27340,2010,2,21.0,Estadual,Pré-escola - 4 anos
+445,95520,2010,2,22.0,Estadual,Pré-escola - 5 anos
+446,340696,2010,2,31.0,Estadual,Ens. Fundamental - 1º Ano
+447,523252,2010,2,32.0,Estadual,Ens. Fundamental - 1ª série/2º ano
+448,674643,2010,2,33.0,Estadual,Ens. Fundamental - 2ª série/3º ano
+449,705269,2010,2,34.0,Estadual,Ens. Fundamental - 3ª série/4º ano
+450,759784,2010,2,35.0,Estadual,Ens. Fundamental - 4ª série/5º Ano
+451,1923207,2010,2,41.0,Estadual,Ens. Fundamental - 5ª série/6º ano
+452,1771755,2010,2,42.0,Estadual,Ens. Fundamental - 6ª série/7º ano
+453,1711232,2010,2,43.0,Estadual,Ens. Fundamental - 7ª série/8º ano
+454,1666927,2010,2,44.0,Estadual,Ens. Fundamental - 8ª serie/9º ano
+455,3069869,2010,2,51.0,Estadual,Ens. Médio - 1ª série
+456,2206135,2010,2,52.0,Estadual,Ens. Médio - 2ª série
+457,1856045,2010,2,53.0,Estadual,Ens. Médio - 3ª série
+458,44860,2010,2,54.0,Estadual,Ens. Médio - 4ª série
+459,139806,2010,2,61.0,Estadual,EJA - anos iniciais do Ens. Fundamental
+460,938165,2010,2,62.0,Estadual,EJA - anos finais do Ens. Fundamental
+461,1273698,2010,2,63.0,Estadual,EJA - Ensino Médio
+462,289638,2010,2,71.0,Estadual,Educação Profissional
+463,77257,2010,3,11.0,Municipal,Creche - Menor de 1 ano
+464,222823,2010,3,12.0,Municipal,Creche - 1 ano
+465,439111,2010,3,13.0,Municipal,Creche - 2 anos
+466,904966,2010,3,14.0,Municipal,Creche - 3 anos
+467,1627911,2010,3,21.0,Municipal,Pré-escola - 4 anos
+468,1937693,2010,3,22.0,Municipal,Pré-escola - 5 anos
+469,1710296,2010,3,31.0,Municipal,Ens. Fundamental - 1º Ano
+470,2242003,2010,3,32.0,Municipal,Ens. Fundamental - 1ª série/2º ano
+471,2472173,2010,3,33.0,Municipal,Ens. Fundamental - 2ª série/3º ano
+472,2355213,2010,3,34.0,Municipal,Ens. Fundamental - 3ª série/4º ano
+473,2364952,2010,3,35.0,Municipal,Ens. Fundamental - 4ª série/5º Ano
+474,1770623,2010,3,41.0,Municipal,Ens. Fundamental - 5ª série/6º ano
+475,1468924,2010,3,42.0,Municipal,Ens. Fundamental - 6ª série/7º ano
+476,1203124,2010,3,43.0,Municipal,Ens. Fundamental - 7ª série/8º ano
+477,1020728,2010,3,44.0,Municipal,Ens. Fundamental - 8ª serie/9º ano
+478,34240,2010,3,51.0,Municipal,Ens. Médio - 1ª série
+479,27824,2010,3,52.0,Municipal,Ens. Médio - 2ª série
+480,24216,2010,3,53.0,Municipal,Ens. Médio - 3ª série
+481,4840,2010,3,54.0,Municipal,Ens. Médio - 4ª série
+482,789814,2010,3,61.0,Municipal,EJA - anos iniciais do Ens. Fundamental
+483,954524,2010,3,62.0,Municipal,EJA - anos finais do Ens. Fundamental
+484,45778,2010,3,63.0,Municipal,EJA - Ensino Médio
+485,23378,2010,3,71.0,Municipal,Educação Profissional
+486,20599,2010,4,11.0,Privada conveniada sem fins lucrativos,Creche - Menor de 1 ano
+487,62450,2010,4,12.0,Privada conveniada sem fins lucrativos,Creche - 1 ano
+488,116941,2010,4,13.0,Privada conveniada sem fins lucrativos,Creche - 2 anos
+489,148915,2010,4,14.0,Privada conveniada sem fins lucrativos,Creche - 3 anos
+490,121012,2010,4,21.0,Privada conveniada sem fins lucrativos,Pré-escola - 4 anos
+491,92882,2010,4,22.0,Privada conveniada sem fins lucrativos,Pré-escola - 5 anos
+492,64231,2010,4,31.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+493,79252,2010,4,32.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+494,49280,2010,4,33.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+495,39230,2010,4,34.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+496,45332,2010,4,35.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+497,42819,2010,4,41.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+498,42029,2010,4,42.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+499,40407,2010,4,43.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+500,40198,2010,4,44.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+501,37591,2010,4,51.0,Privada conveniada sem fins lucrativos,Ens. Médio - 1ª série
+502,30097,2010,4,52.0,Privada conveniada sem fins lucrativos,Ens. Médio - 2ª série
+503,26749,2010,4,53.0,Privada conveniada sem fins lucrativos,Ens. Médio - 3ª série
+504,760,2010,4,54.0,Privada conveniada sem fins lucrativos,Ens. Médio - 4ª série
+505,31250,2010,4,61.0,Privada conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+506,3226,2010,4,62.0,Privada conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+507,4364,2010,4,63.0,Privada conveniada sem fins lucrativos,EJA - Ensino Médio
+508,30128,2010,4,71.0,Privada conveniada sem fins lucrativos,Educação Profissional
+509,4397,2010,5,11.0,Privada conveniada com fins lucrativos,Creche - Menor de 1 ano
+510,13690,2010,5,12.0,Privada conveniada com fins lucrativos,Creche - 1 ano
+511,25806,2010,5,13.0,Privada conveniada com fins lucrativos,Creche - 2 anos
+512,33862,2010,5,14.0,Privada conveniada com fins lucrativos,Creche - 3 anos
+513,29659,2010,5,21.0,Privada conveniada com fins lucrativos,Pré-escola - 4 anos
+514,27790,2010,5,22.0,Privada conveniada com fins lucrativos,Pré-escola - 5 anos
+515,17902,2010,5,31.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+516,22318,2010,5,32.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+517,21547,2010,5,33.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+518,21242,2010,5,34.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+519,22863,2010,5,35.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+520,21736,2010,5,41.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+521,20922,2010,5,42.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+522,19817,2010,5,43.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+523,18706,2010,5,44.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+524,19036,2010,5,51.0,Privada conveniada com fins lucrativos,Ens. Médio - 1ª série
+525,15568,2010,5,52.0,Privada conveniada com fins lucrativos,Ens. Médio - 2ª série
+526,15890,2010,5,53.0,Privada conveniada com fins lucrativos,Ens. Médio - 3ª série
+527,377,2010,5,54.0,Privada conveniada com fins lucrativos,Ens. Médio - 4ª série
+528,796,2010,5,61.0,Privada conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+529,2153,2010,5,62.0,Privada conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+530,7659,2010,5,63.0,Privada conveniada com fins lucrativos,EJA - Ensino Médio
+531,66377,2010,5,71.0,Privada conveniada com fins lucrativos,Educação Profissional
+532,647,2010,6,11.0,Privada não conveniada sem fins lucrativos,Creche - Menor de 1 ano
+533,3076,2010,6,12.0,Privada não conveniada sem fins lucrativos,Creche - 1 ano
+534,9881,2010,6,13.0,Privada não conveniada sem fins lucrativos,Creche - 2 anos
+535,18436,2010,6,14.0,Privada não conveniada sem fins lucrativos,Creche - 3 anos
+536,24488,2010,6,21.0,Privada não conveniada sem fins lucrativos,Pré-escola - 4 anos
+537,30849,2010,6,22.0,Privada não conveniada sem fins lucrativos,Pré-escola - 5 anos
+538,25064,2010,6,31.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+539,35182,2010,6,32.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+540,35618,2010,6,33.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+541,32401,2010,6,34.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+542,37854,2010,6,35.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+543,42026,2010,6,41.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+544,41429,2010,6,42.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+545,41359,2010,6,43.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+546,40147,2010,6,44.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+547,38052,2010,6,51.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 1ª série
+548,32819,2010,6,52.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 2ª série
+549,30011,2010,6,53.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 3ª série
+550,119,2010,6,54.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 4ª série
+551,1769,2010,6,61.0,Privada não conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+552,2656,2010,6,62.0,Privada não conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+553,3271,2010,6,63.0,Privada não conveniada sem fins lucrativos,EJA - Ensino Médio
+554,12208,2010,6,71.0,Privada não conveniada sem fins lucrativos,Educação Profissional
+555,14814,2010,7,11.0,Privada não conveniada com fins lucrativos,Creche - Menor de 1 ano
+556,56174,2010,7,12.0,Privada não conveniada com fins lucrativos,Creche - 1 ano
+557,157291,2010,7,13.0,Privada não conveniada com fins lucrativos,Creche - 2 anos
+558,275595,2010,7,14.0,Privada não conveniada com fins lucrativos,Creche - 3 anos
+559,334988,2010,7,21.0,Privada não conveniada com fins lucrativos,Pré-escola - 4 anos
+560,362951,2010,7,22.0,Privada não conveniada com fins lucrativos,Pré-escola - 5 anos
+561,245389,2010,7,31.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+562,356411,2010,7,32.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+563,350061,2010,7,33.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+564,342383,2010,7,34.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+565,352360,2010,7,35.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+566,346877,2010,7,41.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+567,326322,2010,7,42.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+568,313248,2010,7,43.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+569,300098,2010,7,44.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+570,277681,2010,7,51.0,Privada não conveniada com fins lucrativos,Ens. Médio - 1ª série
+571,238208,2010,7,52.0,Privada não conveniada com fins lucrativos,Ens. Médio - 2ª série
+572,222950,2010,7,53.0,Privada não conveniada com fins lucrativos,Ens. Médio - 3ª série
+573,2286,2010,7,54.0,Privada não conveniada com fins lucrativos,Ens. Médio - 4ª série
+574,9386,2010,7,61.0,Privada não conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+575,23318,2010,7,62.0,Privada não conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+576,77997,2010,7,63.0,Privada não conveniada com fins lucrativos,EJA - Ensino Médio
+577,414377,2010,7,71.0,Privada não conveniada com fins lucrativos,Educação Profissional
+578,208,2011,1,11.0,Federal,Creche - Menor de 1 ano
+579,325,2011,1,12.0,Federal,Creche - 1 ano
+580,434,2011,1,13.0,Federal,Creche - 2 anos
+581,504,2011,1,14.0,Federal,Creche - 3 anos
+582,646,2011,1,21.0,Federal,Pré-escola - 4 anos
+583,562,2011,1,22.0,Federal,Pré-escola - 5 anos
+584,1258,2011,1,31.0,Federal,Ens. Fundamental - 1º Ano
+585,1468,2011,1,32.0,Federal,Ens. Fundamental - 1ª série/2º ano
+586,1505,2011,1,33.0,Federal,Ens. Fundamental - 2ª série/3º ano
+587,1482,2011,1,34.0,Federal,Ens. Fundamental - 3ª série/4º ano
+588,1614,2011,1,35.0,Federal,Ens. Fundamental - 4ª série/5º Ano
+589,3949,2011,1,41.0,Federal,Ens. Fundamental - 5ª série/6º ano
+590,4686,2011,1,42.0,Federal,Ens. Fundamental - 6ª série/7º ano
+591,4826,2011,1,43.0,Federal,Ens. Fundamental - 7ª série/8º ano
+592,4775,2011,1,44.0,Federal,Ens. Fundamental - 8ª serie/9º ano
+593,54372,2011,1,51.0,Federal,Ens. Médio - 1ª série
+594,30243,2011,1,52.0,Federal,Ens. Médio - 2ª série
+595,23229,2011,1,53.0,Federal,Ens. Médio - 3ª série
+596,7225,2011,1,54.0,Federal,Ens. Médio - 4ª série
+597,826,2011,1,61.0,Federal,EJA - anos iniciais do Ens. Fundamental
+598,370,2011,1,62.0,Federal,EJA - anos finais do Ens. Fundamental
+599,14935,2011,1,63.0,Federal,EJA - Ensino Médio
+600,97610,2011,1,71.0,Federal,Educação Profissional
+601,739,2011,2,11.0,Estadual,Creche - Menor de 1 ano
+602,1502,2011,2,12.0,Estadual,Creche - 1 ano
+603,2997,2011,2,13.0,Estadual,Creche - 2 anos
+604,5284,2011,2,14.0,Estadual,Creche - 3 anos
+605,23904,2011,2,21.0,Estadual,Pré-escola - 4 anos
+606,86459,2011,2,22.0,Estadual,Pré-escola - 5 anos
+607,371448,2011,2,31.0,Estadual,Ens. Fundamental - 1º Ano
+608,520819,2011,2,32.0,Estadual,Ens. Fundamental - 1ª série/2º ano
+609,555662,2011,2,33.0,Estadual,Ens. Fundamental - 2ª série/3º ano
+610,659772,2011,2,34.0,Estadual,Ens. Fundamental - 3ª série/4º ano
+611,728183,2011,2,35.0,Estadual,Ens. Fundamental - 4ª série/5º Ano
+612,1750815,2011,2,41.0,Estadual,Ens. Fundamental - 5ª série/6º ano
+613,1784159,2011,2,42.0,Estadual,Ens. Fundamental - 6ª série/7º ano
+614,1668774,2011,2,43.0,Estadual,Ens. Fundamental - 7ª série/8º ano
+615,1630129,2011,2,44.0,Estadual,Ens. Fundamental - 8ª serie/9º ano
+616,3008331,2011,2,51.0,Estadual,Ens. Médio - 1ª série
+617,2247659,2011,2,52.0,Estadual,Ens. Médio - 2ª série
+618,1868720,2011,2,53.0,Estadual,Ens. Médio - 3ª série
+619,58635,2011,2,54.0,Estadual,Ens. Médio - 4ª série
+620,167094,2011,2,61.0,Estadual,EJA - anos iniciais do Ens. Fundamental
+621,822195,2011,2,62.0,Estadual,EJA - anos finais do Ens. Fundamental
+622,1206758,2011,2,63.0,Estadual,EJA - Ensino Médio
+623,313872,2011,2,71.0,Estadual,Educação Profissional
+624,79863,2011,3,11.0,Municipal,Creche - Menor de 1 ano
+625,234553,2011,3,12.0,Municipal,Creche - 1 ano
+626,467541,2011,3,13.0,Municipal,Creche - 2 anos
+627,869672,2011,3,14.0,Municipal,Creche - 3 anos
+628,1639561,2011,3,21.0,Municipal,Pré-escola - 4 anos
+629,1964119,2011,3,22.0,Municipal,Pré-escola - 5 anos
+630,1702069,2011,3,31.0,Municipal,Ens. Fundamental - 1º Ano
+631,2248424,2011,3,32.0,Municipal,Ens. Fundamental - 1ª série/2º ano
+632,2335195,2011,3,33.0,Municipal,Ens. Fundamental - 2ª série/3º ano
+633,2297556,2011,3,34.0,Municipal,Ens. Fundamental - 3ª série/4º ano
+634,2286338,2011,3,35.0,Municipal,Ens. Fundamental - 4ª série/5º Ano
+635,1691790,2011,3,41.0,Municipal,Ens. Fundamental - 5ª série/6º ano
+636,1475824,2011,3,42.0,Municipal,Ens. Fundamental - 6ª série/7º ano
+637,1206216,2011,3,43.0,Municipal,Ens. Fundamental - 7ª série/8º ano
+638,1015541,2011,3,44.0,Municipal,Ens. Fundamental - 8ª serie/9º ano
+639,31725,2011,3,51.0,Municipal,Ens. Médio - 1ª série
+640,23526,2011,3,52.0,Municipal,Ens. Médio - 2ª série
+641,22074,2011,3,53.0,Municipal,Ens. Médio - 3ª série
+642,3581,2011,3,54.0,Municipal,Ens. Médio - 4ª série
+643,780402,2011,3,61.0,Municipal,EJA - anos iniciais do Ens. Fundamental
+644,871194,2011,3,62.0,Municipal,EJA - anos finais do Ens. Fundamental
+645,43792,2011,3,63.0,Municipal,EJA - Ensino Médio
+646,22424,2011,3,71.0,Municipal,Educação Profissional
+647,19874,2011,4,11.0,Privada conveniada sem fins lucrativos,Creche - Menor de 1 ano
+648,64712,2011,4,12.0,Privada conveniada sem fins lucrativos,Creche - 1 ano
+649,126745,2011,4,13.0,Privada conveniada sem fins lucrativos,Creche - 2 anos
+650,166758,2011,4,14.0,Privada conveniada sem fins lucrativos,Creche - 3 anos
+651,120712,2011,4,21.0,Privada conveniada sem fins lucrativos,Pré-escola - 4 anos
+652,93968,2011,4,22.0,Privada conveniada sem fins lucrativos,Pré-escola - 5 anos
+653,67729,2011,4,31.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+654,75001,2011,4,32.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+655,51601,2011,4,33.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+656,47990,2011,4,34.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+657,41483,2011,4,35.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+658,46411,2011,4,41.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+659,46344,2011,4,42.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+660,44508,2011,4,43.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+661,43443,2011,4,44.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+662,38786,2011,4,51.0,Privada conveniada sem fins lucrativos,Ens. Médio - 1ª série
+663,32831,2011,4,52.0,Privada conveniada sem fins lucrativos,Ens. Médio - 2ª série
+664,28386,2011,4,53.0,Privada conveniada sem fins lucrativos,Ens. Médio - 3ª série
+665,696,2011,4,54.0,Privada conveniada sem fins lucrativos,Ens. Médio - 4ª série
+666,30043,2011,4,61.0,Privada conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+667,3283,2011,4,62.0,Privada conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+668,4201,2011,4,63.0,Privada conveniada sem fins lucrativos,EJA - Ensino Médio
+669,27135,2011,4,71.0,Privada conveniada sem fins lucrativos,Educação Profissional
+670,4896,2011,5,11.0,Privada conveniada com fins lucrativos,Creche - Menor de 1 ano
+671,14755,2011,5,12.0,Privada conveniada com fins lucrativos,Creche - 1 ano
+672,28741,2011,5,13.0,Privada conveniada com fins lucrativos,Creche - 2 anos
+673,40962,2011,5,14.0,Privada conveniada com fins lucrativos,Creche - 3 anos
+674,36233,2011,5,21.0,Privada conveniada com fins lucrativos,Pré-escola - 4 anos
+675,32858,2011,5,22.0,Privada conveniada com fins lucrativos,Pré-escola - 5 anos
+676,22497,2011,5,31.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+677,30080,2011,5,32.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+678,28149,2011,5,33.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+679,27253,2011,5,34.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+680,26664,2011,5,35.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+681,27783,2011,5,41.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+682,26340,2011,5,42.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+683,24978,2011,5,43.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+684,24807,2011,5,44.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+685,25160,2011,5,51.0,Privada conveniada com fins lucrativos,Ens. Médio - 1ª série
+686,21197,2011,5,52.0,Privada conveniada com fins lucrativos,Ens. Médio - 2ª série
+687,20591,2011,5,53.0,Privada conveniada com fins lucrativos,Ens. Médio - 3ª série
+688,499,2011,5,54.0,Privada conveniada com fins lucrativos,Ens. Médio - 4ª série
+689,792,2011,5,61.0,Privada conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+690,2452,2011,5,62.0,Privada conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+691,10131,2011,5,63.0,Privada conveniada com fins lucrativos,EJA - Ensino Médio
+692,83908,2011,5,71.0,Privada conveniada com fins lucrativos,Educação Profissional
+693,682,2011,6,11.0,Privada não conveniada sem fins lucrativos,Creche - Menor de 1 ano
+694,3055,2011,6,12.0,Privada não conveniada sem fins lucrativos,Creche - 1 ano
+695,9991,2011,6,13.0,Privada não conveniada sem fins lucrativos,Creche - 2 anos
+696,17712,2011,6,14.0,Privada não conveniada sem fins lucrativos,Creche - 3 anos
+697,23012,2011,6,21.0,Privada não conveniada sem fins lucrativos,Pré-escola - 4 anos
+698,29669,2011,6,22.0,Privada não conveniada sem fins lucrativos,Pré-escola - 5 anos
+699,25324,2011,6,31.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+700,35291,2011,6,32.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+701,34670,2011,6,33.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+702,35656,2011,6,34.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+703,33192,2011,6,35.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+704,41632,2011,6,41.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+705,41637,2011,6,42.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+706,40937,2011,6,43.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+707,40639,2011,6,44.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+708,40213,2011,6,51.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 1ª série
+709,34047,2011,6,52.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 2ª série
+710,30470,2011,6,53.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 3ª série
+711,70,2011,6,54.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 4ª série
+712,2464,2011,6,61.0,Privada não conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+713,2900,2011,6,62.0,Privada não conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+714,3469,2011,6,63.0,Privada não conveniada sem fins lucrativos,EJA - Ensino Médio
+715,14764,2011,6,71.0,Privada não conveniada sem fins lucrativos,Educação Profissional
+716,16935,2011,7,11.0,Privada não conveniada com fins lucrativos,Creche - Menor de 1 ano
+717,60695,2011,7,12.0,Privada não conveniada com fins lucrativos,Creche - 1 ano
+718,175062,2011,7,13.0,Privada não conveniada com fins lucrativos,Creche - 2 anos
+719,293312,2011,7,14.0,Privada não conveniada com fins lucrativos,Creche - 3 anos
+720,353050,2011,7,21.0,Privada não conveniada com fins lucrativos,Pré-escola - 4 anos
+721,380316,2011,7,22.0,Privada não conveniada com fins lucrativos,Pré-escola - 5 anos
+722,272664,2011,7,31.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+723,378032,2011,7,32.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+724,359547,2011,7,33.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+725,349474,2011,7,34.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+726,342054,2011,7,35.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+727,350257,2011,7,41.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+728,338364,2011,7,42.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+729,316599,2011,7,43.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+730,307393,2011,7,44.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+731,282489,2011,7,51.0,Privada não conveniada com fins lucrativos,Ens. Médio - 1ª série
+732,245402,2011,7,52.0,Privada não conveniada com fins lucrativos,Ens. Médio - 2ª série
+733,220318,2011,7,53.0,Privada não conveniada com fins lucrativos,Ens. Médio - 3ª série
+734,1354,2011,7,54.0,Privada não conveniada com fins lucrativos,Ens. Médio - 4ª série
+735,11844,2011,7,61.0,Privada não conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+736,22101,2011,7,62.0,Privada não conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+737,81282,2011,7,63.0,Privada não conveniada com fins lucrativos,EJA - Ensino Médio
+738,434271,2011,7,71.0,Privada não conveniada com fins lucrativos,Educação Profissional
+739,189,2012,1,11.0,Federal,Creche - Menor de 1 ano
+740,324,2012,1,12.0,Federal,Creche - 1 ano
+741,428,2012,1,13.0,Federal,Creche - 2 anos
+742,463,2012,1,14.0,Federal,Creche - 3 anos
+743,643,2012,1,21.0,Federal,Pré-escola - 4 anos
+744,622,2012,1,22.0,Federal,Pré-escola - 5 anos
+745,1395,2012,1,31.0,Federal,Ens. Fundamental - 1º Ano
+746,1411,2012,1,32.0,Federal,Ens. Fundamental - 1ª série/2º ano
+747,1518,2012,1,33.0,Federal,Ens. Fundamental - 2ª série/3º ano
+748,1529,2012,1,34.0,Federal,Ens. Fundamental - 3ª série/4º ano
+749,1584,2012,1,35.0,Federal,Ens. Fundamental - 4ª série/5º Ano
+750,3687,2012,1,41.0,Federal,Ens. Fundamental - 5ª série/6º ano
+751,4456,2012,1,42.0,Federal,Ens. Fundamental - 6ª série/7º ano
+752,4656,2012,1,43.0,Federal,Ens. Fundamental - 7ª série/8º ano
+753,4975,2012,1,44.0,Federal,Ens. Fundamental - 8ª serie/9º ano
+754,57690,2012,1,51.0,Federal,Ens. Médio - 1ª série
+755,35571,2012,1,52.0,Federal,Ens. Médio - 2ª série
+756,26439,2012,1,53.0,Federal,Ens. Médio - 3ª série
+757,7150,2012,1,54.0,Federal,Ens. Médio - 4ª série
+758,839,2012,1,61.0,Federal,EJA - anos iniciais do Ens. Fundamental
+759,460,2012,1,62.0,Federal,EJA - anos finais do Ens. Fundamental
+760,14579,2012,1,63.0,Federal,EJA - Ensino Médio
+761,105828,2012,1,71.0,Federal,Educação Profissional
+762,454,2012,2,11.0,Estadual,Creche - Menor de 1 ano
+763,882,2012,2,12.0,Estadual,Creche - 1 ano
+764,2100,2012,2,13.0,Estadual,Creche - 2 anos
+765,4667,2012,2,14.0,Estadual,Creche - 3 anos
+766,20260,2012,2,21.0,Estadual,Pré-escola - 4 anos
+767,61221,2012,2,22.0,Estadual,Pré-escola - 5 anos
+768,364374,2012,2,31.0,Estadual,Ens. Fundamental - 1º Ano
+769,487164,2012,2,32.0,Estadual,Ens. Fundamental - 1ª série/2º ano
+770,543854,2012,2,33.0,Estadual,Ens. Fundamental - 2ª série/3º ano
+771,536076,2012,2,34.0,Estadual,Ens. Fundamental - 3ª série/4º ano
+772,663366,2012,2,35.0,Estadual,Ens. Fundamental - 4ª série/5º Ano
+773,1611269,2012,2,41.0,Estadual,Ens. Fundamental - 5ª série/6º ano
+774,1613491,2012,2,42.0,Estadual,Ens. Fundamental - 6ª série/7º ano
+775,1653334,2012,2,43.0,Estadual,Ens. Fundamental - 7ª série/8º ano
+776,1596492,2012,2,44.0,Estadual,Ens. Fundamental - 8ª serie/9º ano
+777,2985366,2012,2,51.0,Estadual,Ens. Médio - 1ª série
+778,2206705,2012,2,52.0,Estadual,Ens. Médio - 2ª série
+779,1866334,2012,2,53.0,Estadual,Ens. Médio - 3ª série
+780,53738,2012,2,54.0,Estadual,Ens. Médio - 4ª série
+781,178225,2012,2,61.0,Estadual,EJA - anos iniciais do Ens. Fundamental
+782,742078,2012,2,62.0,Estadual,EJA - anos finais do Ens. Fundamental
+783,1200096,2012,2,63.0,Estadual,EJA - Ensino Médio
+784,330370,2012,2,71.0,Estadual,Educação Profissional
+785,92137,2012,3,11.0,Municipal,Creche - Menor de 1 ano
+786,259117,2012,3,12.0,Municipal,Creche - 1 ano
+787,495825,2012,3,13.0,Municipal,Creche - 2 anos
+788,922776,2012,3,14.0,Municipal,Creche - 3 anos
+789,1616684,2012,3,21.0,Municipal,Pré-escola - 4 anos
+790,1954201,2012,3,22.0,Municipal,Pré-escola - 5 anos
+791,1763428,2012,3,31.0,Municipal,Ens. Fundamental - 1º Ano
+792,2134457,2012,3,32.0,Municipal,Ens. Fundamental - 1ª série/2º ano
+793,2394441,2012,3,33.0,Municipal,Ens. Fundamental - 2ª série/3º ano
+794,2190355,2012,3,34.0,Municipal,Ens. Fundamental - 3ª série/4º ano
+795,2252126,2012,3,35.0,Municipal,Ens. Fundamental - 4ª série/5º Ano
+796,1703831,2012,3,41.0,Municipal,Ens. Fundamental - 5ª série/6º ano
+797,1434029,2012,3,42.0,Municipal,Ens. Fundamental - 6ª série/7º ano
+798,1230251,2012,3,43.0,Municipal,Ens. Fundamental - 7ª série/8º ano
+799,1039945,2012,3,44.0,Municipal,Ens. Fundamental - 8ª serie/9º ano
+800,28733,2012,3,51.0,Municipal,Ens. Médio - 1ª série
+801,21802,2012,3,52.0,Municipal,Ens. Médio - 2ª série
+802,18697,2012,3,53.0,Municipal,Ens. Médio - 3ª série
+803,3122,2012,3,54.0,Municipal,Ens. Médio - 4ª série
+804,753715,2012,3,61.0,Municipal,EJA - anos iniciais do Ens. Fundamental
+805,851313,2012,3,62.0,Municipal,EJA - anos finais do Ens. Fundamental
+806,43111,2012,3,63.0,Municipal,EJA - Ensino Médio
+807,20383,2012,3,71.0,Municipal,Educação Profissional
+808,24430,2012,4,11.0,Privada conveniada sem fins lucrativos,Creche - Menor de 1 ano
+809,76571,2012,4,12.0,Privada conveniada sem fins lucrativos,Creche - 1 ano
+810,143361,2012,4,13.0,Privada conveniada sem fins lucrativos,Creche - 2 anos
+811,187435,2012,4,14.0,Privada conveniada sem fins lucrativos,Creche - 3 anos
+812,112463,2012,4,21.0,Privada conveniada sem fins lucrativos,Pré-escola - 4 anos
+813,86301,2012,4,22.0,Privada conveniada sem fins lucrativos,Pré-escola - 5 anos
+814,68699,2012,4,31.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+815,58851,2012,4,32.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+816,50599,2012,4,33.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+817,43830,2012,4,34.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+818,42645,2012,4,35.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+819,34991,2012,4,41.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+820,40136,2012,4,42.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+821,39414,2012,4,43.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+822,38295,2012,4,44.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+823,35092,2012,4,51.0,Privada conveniada sem fins lucrativos,Ens. Médio - 1ª série
+824,29673,2012,4,52.0,Privada conveniada sem fins lucrativos,Ens. Médio - 2ª série
+825,25802,2012,4,53.0,Privada conveniada sem fins lucrativos,Ens. Médio - 3ª série
+826,611,2012,4,54.0,Privada conveniada sem fins lucrativos,Ens. Médio - 4ª série
+827,46104,2012,4,61.0,Privada conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+828,3542,2012,4,62.0,Privada conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+829,3306,2012,4,63.0,Privada conveniada sem fins lucrativos,EJA - Ensino Médio
+830,24999,2012,4,71.0,Privada conveniada sem fins lucrativos,Educação Profissional
+831,2068,2012,5,11.0,Privada conveniada com fins lucrativos,Creche - Menor de 1 ano
+832,6657,2012,5,12.0,Privada conveniada com fins lucrativos,Creche - 1 ano
+833,16607,2012,5,13.0,Privada conveniada com fins lucrativos,Creche - 2 anos
+834,27967,2012,5,14.0,Privada conveniada com fins lucrativos,Creche - 3 anos
+835,33110,2012,5,21.0,Privada conveniada com fins lucrativos,Pré-escola - 4 anos
+836,35757,2012,5,22.0,Privada conveniada com fins lucrativos,Pré-escola - 5 anos
+837,26762,2012,5,31.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+838,33764,2012,5,32.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+839,33447,2012,5,33.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+840,31442,2012,5,34.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+841,30499,2012,5,35.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+842,30120,2012,5,41.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+843,30920,2012,5,42.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+844,29018,2012,5,43.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+845,28332,2012,5,44.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+846,30340,2012,5,51.0,Privada conveniada com fins lucrativos,Ens. Médio - 1ª série
+847,25908,2012,5,52.0,Privada conveniada com fins lucrativos,Ens. Médio - 2ª série
+848,23274,2012,5,53.0,Privada conveniada com fins lucrativos,Ens. Médio - 3ª série
+849,515,2012,5,54.0,Privada conveniada com fins lucrativos,Ens. Médio - 4ª série
+850,1718,2012,5,61.0,Privada conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+851,2241,2012,5,62.0,Privada conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+852,9251,2012,5,63.0,Privada conveniada com fins lucrativos,EJA - Ensino Médio
+853,110888,2012,5,71.0,Privada conveniada com fins lucrativos,Educação Profissional
+854,984,2012,6,11.0,Privada não conveniada sem fins lucrativos,Creche - Menor de 1 ano
+855,4129,2012,6,12.0,Privada não conveniada sem fins lucrativos,Creche - 1 ano
+856,12405,2012,6,13.0,Privada não conveniada sem fins lucrativos,Creche - 2 anos
+857,22205,2012,6,14.0,Privada não conveniada sem fins lucrativos,Creche - 3 anos
+858,27718,2012,6,21.0,Privada não conveniada sem fins lucrativos,Pré-escola - 4 anos
+859,33706,2012,6,22.0,Privada não conveniada sem fins lucrativos,Pré-escola - 5 anos
+860,28901,2012,6,31.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+861,38470,2012,6,32.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+862,39112,2012,6,33.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+863,38539,2012,6,34.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+864,38962,2012,6,35.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+865,38957,2012,6,41.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+866,44486,2012,6,42.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+867,43531,2012,6,43.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+868,41950,2012,6,44.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+869,41062,2012,6,51.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 1ª série
+870,34822,2012,6,52.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 2ª série
+871,30825,2012,6,53.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 3ª série
+872,53,2012,6,54.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 4ª série
+873,1705,2012,6,61.0,Privada não conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+874,2417,2012,6,62.0,Privada não conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+875,3841,2012,6,63.0,Privada não conveniada sem fins lucrativos,EJA - Ensino Médio
+876,12749,2012,6,71.0,Privada não conveniada sem fins lucrativos,Educação Profissional
+877,19986,2012,7,11.0,Privada não conveniada com fins lucrativos,Creche - Menor de 1 ano
+878,70370,2012,7,12.0,Privada não conveniada com fins lucrativos,Creche - 1 ano
+879,187720,2012,7,13.0,Privada não conveniada com fins lucrativos,Creche - 2 anos
+880,325546,2012,7,14.0,Privada não conveniada com fins lucrativos,Creche - 3 anos
+881,376505,2012,7,21.0,Privada não conveniada com fins lucrativos,Pré-escola - 4 anos
+882,405897,2012,7,22.0,Privada não conveniada com fins lucrativos,Pré-escola - 5 anos
+883,310562,2012,7,31.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+884,405755,2012,7,32.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+885,390183,2012,7,33.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+886,368896,2012,7,34.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+887,359311,2012,7,35.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+888,348730,2012,7,41.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+889,349557,2012,7,42.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+890,334939,2012,7,43.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+891,317916,2012,7,44.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+892,295711,2012,7,51.0,Privada não conveniada com fins lucrativos,Ens. Médio - 1ª série
+893,256935,2012,7,52.0,Privada não conveniada com fins lucrativos,Ens. Médio - 2ª série
+894,234560,2012,7,53.0,Privada não conveniada com fins lucrativos,Ens. Médio - 3ª série
+895,1298,2012,7,54.0,Privada não conveniada com fins lucrativos,Ens. Médio - 4ª série
+896,11847,2012,7,61.0,Privada não conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+897,19505,2012,7,62.0,Privada não conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+898,72031,2012,7,63.0,Privada não conveniada com fins lucrativos,EJA - Ensino Médio
+899,459175,2012,7,71.0,Privada não conveniada com fins lucrativos,Educação Profissional
+900,14511,2013,1,,Federal,Não classificada
+901,205,2013,1,11.0,Federal,Creche - Menor de 1 ano
+902,308,2013,1,12.0,Federal,Creche - 1 ano
+903,421,2013,1,13.0,Federal,Creche - 2 anos
+904,519,2013,1,14.0,Federal,Creche - 3 anos
+905,642,2013,1,21.0,Federal,Pré-escola - 4 anos
+906,585,2013,1,22.0,Federal,Pré-escola - 5 anos
+907,1319,2013,1,31.0,Federal,Ens. Fundamental - 1º Ano
+908,1445,2013,1,32.0,Federal,Ens. Fundamental - 1ª série/2º ano
+909,1514,2013,1,33.0,Federal,Ens. Fundamental - 2ª série/3º ano
+910,1542,2013,1,34.0,Federal,Ens. Fundamental - 3ª série/4º ano
+911,1634,2013,1,35.0,Federal,Ens. Fundamental - 4ª série/5º Ano
+912,3754,2013,1,41.0,Federal,Ens. Fundamental - 5ª série/6º ano
+913,4177,2013,1,42.0,Federal,Ens. Fundamental - 6ª série/7º ano
+914,4499,2013,1,43.0,Federal,Ens. Fundamental - 7ª série/8º ano
+915,4692,2013,1,44.0,Federal,Ens. Fundamental - 8ª serie/9º ano
+916,59765,2013,1,51.0,Federal,Ens. Médio - 1ª série
+917,37473,2013,1,52.0,Federal,Ens. Médio - 2ª série
+918,31075,2013,1,53.0,Federal,Ens. Médio - 3ª série
+919,10001,2013,1,54.0,Federal,Ens. Médio - 4ª série
+920,110715,2013,1,71.0,Federal,Educação Profissional
+921,1974302,2013,2,,Estadual,Não classificada
+922,385,2013,2,11.0,Estadual,Creche - Menor de 1 ano
+923,664,2013,2,12.0,Estadual,Creche - 1 ano
+924,1575,2013,2,13.0,Estadual,Creche - 2 anos
+925,3859,2013,2,14.0,Estadual,Creche - 3 anos
+926,19252,2013,2,21.0,Estadual,Pré-escola - 4 anos
+927,56898,2013,2,22.0,Estadual,Pré-escola - 5 anos
+928,363163,2013,2,31.0,Estadual,Ens. Fundamental - 1º Ano
+929,438785,2013,2,32.0,Estadual,Ens. Fundamental - 1ª série/2º ano
+930,523183,2013,2,33.0,Estadual,Ens. Fundamental - 2ª série/3º ano
+931,527255,2013,2,34.0,Estadual,Ens. Fundamental - 3ª série/4º ano
+932,549640,2013,2,35.0,Estadual,Ens. Fundamental - 4ª série/5º Ano
+933,1503098,2013,2,41.0,Estadual,Ens. Fundamental - 5ª série/6º ano
+934,1515457,2013,2,42.0,Estadual,Ens. Fundamental - 6ª série/7º ano
+935,1500042,2013,2,43.0,Estadual,Ens. Fundamental - 7ª série/8º ano
+936,1582325,2013,2,44.0,Estadual,Ens. Fundamental - 8ª serie/9º ano
+937,2939617,2013,2,51.0,Estadual,Ens. Médio - 1ª série
+938,2210542,2013,2,52.0,Estadual,Ens. Médio - 2ª série
+939,1846156,2013,2,53.0,Estadual,Ens. Médio - 3ª série
+940,51158,2013,2,54.0,Estadual,Ens. Médio - 4ª série
+941,11721,2013,2,61.0,Estadual,EJA - anos iniciais do Ens. Fundamental
+942,307491,2013,2,71.0,Estadual,Educação Profissional
+943,1600622,2013,3,,Municipal,Não classificada
+944,100052,2013,3,11.0,Municipal,Creche - Menor de 1 ano
+945,289429,2013,3,12.0,Municipal,Creche - 1 ano
+946,546167,2013,3,13.0,Municipal,Creche - 2 anos
+947,964490,2013,3,14.0,Municipal,Creche - 3 anos
+948,1706092,2013,3,21.0,Municipal,Pré-escola - 4 anos
+949,1902245,2013,3,22.0,Municipal,Pré-escola - 5 anos
+950,1806359,2013,3,31.0,Municipal,Ens. Fundamental - 1º Ano
+951,2068333,2013,3,32.0,Municipal,Ens. Fundamental - 1ª série/2º ano
+952,2336330,2013,3,33.0,Municipal,Ens. Fundamental - 2ª série/3º ano
+953,2249912,2013,3,34.0,Municipal,Ens. Fundamental - 3ª série/4º ano
+954,2139799,2013,3,35.0,Municipal,Ens. Fundamental - 4ª série/5º Ano
+955,1676135,2013,3,41.0,Municipal,Ens. Fundamental - 5ª série/6º ano
+956,1443354,2013,3,42.0,Municipal,Ens. Fundamental - 6ª série/7º ano
+957,1209002,2013,3,43.0,Municipal,Ens. Fundamental - 7ª série/8º ano
+958,1062890,2013,3,44.0,Municipal,Ens. Fundamental - 8ª serie/9º ano
+959,25150,2013,3,51.0,Municipal,Ens. Médio - 1ª série
+960,19373,2013,3,52.0,Municipal,Ens. Médio - 2ª série
+961,16619,2013,3,53.0,Municipal,Ens. Médio - 3ª série
+962,1687,2013,3,54.0,Municipal,Ens. Médio - 4ª série
+963,31584,2013,3,61.0,Municipal,EJA - anos iniciais do Ens. Fundamental
+964,19428,2013,3,71.0,Municipal,Educação Profissional
+965,53454,2013,4,,Privada conveniada sem fins lucrativos,Não classificada
+966,26801,2013,4,11.0,Privada conveniada sem fins lucrativos,Creche - Menor de 1 ano
+967,85350,2013,4,12.0,Privada conveniada sem fins lucrativos,Creche - 1 ano
+968,152812,2013,4,13.0,Privada conveniada sem fins lucrativos,Creche - 2 anos
+969,200041,2013,4,14.0,Privada conveniada sem fins lucrativos,Creche - 3 anos
+970,105747,2013,4,21.0,Privada conveniada sem fins lucrativos,Pré-escola - 4 anos
+971,83612,2013,4,22.0,Privada conveniada sem fins lucrativos,Pré-escola - 5 anos
+972,59770,2013,4,31.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+973,63766,2013,4,32.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+974,49181,2013,4,33.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+975,44905,2013,4,34.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+976,41207,2013,4,35.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+977,37035,2013,4,41.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+978,32261,2013,4,42.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+979,36803,2013,4,43.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+980,36070,2013,4,44.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+981,32283,2013,4,51.0,Privada conveniada sem fins lucrativos,Ens. Médio - 1ª série
+982,27912,2013,4,52.0,Privada conveniada sem fins lucrativos,Ens. Médio - 2ª série
+983,24694,2013,4,53.0,Privada conveniada sem fins lucrativos,Ens. Médio - 3ª série
+984,763,2013,4,54.0,Privada conveniada sem fins lucrativos,Ens. Médio - 4ª série
+985,22097,2013,4,71.0,Privada conveniada sem fins lucrativos,Educação Profissional
+986,15249,2013,5,,Privada conveniada com fins lucrativos,Não classificada
+987,2290,2013,5,11.0,Privada conveniada com fins lucrativos,Creche - Menor de 1 ano
+988,6867,2013,5,12.0,Privada conveniada com fins lucrativos,Creche - 1 ano
+989,15850,2013,5,13.0,Privada conveniada com fins lucrativos,Creche - 2 anos
+990,26500,2013,5,14.0,Privada conveniada com fins lucrativos,Creche - 3 anos
+991,31311,2013,5,21.0,Privada conveniada com fins lucrativos,Pré-escola - 4 anos
+992,30655,2013,5,22.0,Privada conveniada com fins lucrativos,Pré-escola - 5 anos
+993,24766,2013,5,31.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+994,27894,2013,5,32.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+995,27888,2013,5,33.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+996,26842,2013,5,34.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+997,25434,2013,5,35.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+998,23921,2013,5,41.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+999,22834,2013,5,42.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1000,22987,2013,5,43.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1001,22417,2013,5,44.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1002,22301,2013,5,51.0,Privada conveniada com fins lucrativos,Ens. Médio - 1ª série
+1003,20307,2013,5,52.0,Privada conveniada com fins lucrativos,Ens. Médio - 2ª série
+1004,17433,2013,5,53.0,Privada conveniada com fins lucrativos,Ens. Médio - 3ª série
+1005,449,2013,5,54.0,Privada conveniada com fins lucrativos,Ens. Médio - 4ª série
+1006,101,2013,5,61.0,Privada conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1007,119647,2013,5,71.0,Privada conveniada com fins lucrativos,Educação Profissional
+1008,8500,2013,6,,Privada não conveniada sem fins lucrativos,Não classificada
+1009,1115,2013,6,11.0,Privada não conveniada sem fins lucrativos,Creche - Menor de 1 ano
+1010,4244,2013,6,12.0,Privada não conveniada sem fins lucrativos,Creche - 1 ano
+1011,12552,2013,6,13.0,Privada não conveniada sem fins lucrativos,Creche - 2 anos
+1012,20742,2013,6,14.0,Privada não conveniada sem fins lucrativos,Creche - 3 anos
+1013,27549,2013,6,21.0,Privada não conveniada sem fins lucrativos,Pré-escola - 4 anos
+1014,33728,2013,6,22.0,Privada não conveniada sem fins lucrativos,Pré-escola - 5 anos
+1015,31067,2013,6,31.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+1016,38774,2013,6,32.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1017,40319,2013,6,33.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1018,40861,2013,6,34.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1019,40946,2013,6,35.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1020,43783,2013,6,41.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1021,40870,2013,6,42.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1022,44927,2013,6,43.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1023,43746,2013,6,44.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1024,40534,2013,6,51.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 1ª série
+1025,36734,2013,6,52.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 2ª série
+1026,32076,2013,6,53.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 3ª série
+1027,159,2013,6,54.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 4ª série
+1028,11520,2013,6,71.0,Privada não conveniada sem fins lucrativos,Educação Profissional
+1029,120157,2013,7,,Privada não conveniada com fins lucrativos,Não classificada
+1030,21919,2013,7,11.0,Privada não conveniada com fins lucrativos,Creche - Menor de 1 ano
+1031,77291,2013,7,12.0,Privada não conveniada com fins lucrativos,Creche - 1 ano
+1032,203071,2013,7,13.0,Privada não conveniada com fins lucrativos,Creche - 2 anos
+1033,335559,2013,7,14.0,Privada não conveniada com fins lucrativos,Creche - 3 anos
+1034,411529,2013,7,21.0,Privada não conveniada com fins lucrativos,Pré-escola - 4 anos
+1035,422392,2013,7,22.0,Privada não conveniada com fins lucrativos,Pré-escola - 5 anos
+1036,356199,2013,7,31.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+1037,418285,2013,7,32.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1038,412867,2013,7,33.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1039,396099,2013,7,34.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1040,374513,2013,7,35.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1041,362709,2013,7,41.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1042,348549,2013,7,42.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1043,346696,2013,7,43.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1044,335049,2013,7,44.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1045,297858,2013,7,51.0,Privada não conveniada com fins lucrativos,Ens. Médio - 1ª série
+1046,265739,2013,7,52.0,Privada não conveniada com fins lucrativos,Ens. Médio - 2ª série
+1047,245101,2013,7,53.0,Privada não conveniada com fins lucrativos,Ens. Médio - 3ª série
+1048,1086,2013,7,54.0,Privada não conveniada com fins lucrativos,Ens. Médio - 4ª série
+1049,512111,2013,7,71.0,Privada não conveniada com fins lucrativos,Educação Profissional
+1050,12998,2014,1,,Federal,Não classificada
+1051,170,2014,1,11.0,Federal,Creche - Menor de 1 ano
+1052,335,2014,1,12.0,Federal,Creche - 1 ano
+1053,433,2014,1,13.0,Federal,Creche - 2 anos
+1054,522,2014,1,14.0,Federal,Creche - 3 anos
+1055,649,2014,1,21.0,Federal,Pré-escola - 4 anos
+1056,560,2014,1,22.0,Federal,Pré-escola - 5 anos
+1057,1275,2014,1,31.0,Federal,Ens. Fundamental - 1º Ano
+1058,1351,2014,1,32.0,Federal,Ens. Fundamental - 1ª série/2º ano
+1059,1566,2014,1,33.0,Federal,Ens. Fundamental - 2ª série/3º ano
+1060,1406,2014,1,34.0,Federal,Ens. Fundamental - 3ª série/4º ano
+1061,1574,2014,1,35.0,Federal,Ens. Fundamental - 4ª série/5º Ano
+1062,3601,2014,1,41.0,Federal,Ens. Fundamental - 5ª série/6º ano
+1063,4066,2014,1,42.0,Federal,Ens. Fundamental - 6ª série/7º ano
+1064,4382,2014,1,43.0,Federal,Ens. Fundamental - 7ª série/8º ano
+1065,4568,2014,1,44.0,Federal,Ens. Fundamental - 8ª serie/9º ano
+1066,64516,2014,1,51.0,Federal,Ens. Médio - 1ª série
+1067,37547,2014,1,52.0,Federal,Ens. Médio - 2ª série
+1068,32135,2014,1,53.0,Federal,Ens. Médio - 3ª série
+1069,12535,2014,1,54.0,Federal,Ens. Médio - 4ª série
+1070,110556,2014,1,71.0,Federal,Educação Profissional
+1071,1850997,2014,2,,Estadual,Não classificada
+1072,342,2014,2,11.0,Estadual,Creche - Menor de 1 ano
+1073,657,2014,2,12.0,Estadual,Creche - 1 ano
+1074,1433,2014,2,13.0,Estadual,Creche - 2 anos
+1075,3671,2014,2,14.0,Estadual,Creche - 3 anos
+1076,19525,2014,2,21.0,Estadual,Pré-escola - 4 anos
+1077,71331,2014,2,22.0,Estadual,Pré-escola - 5 anos
+1078,335930,2014,2,31.0,Estadual,Ens. Fundamental - 1º Ano
+1079,425474,2014,2,32.0,Estadual,Ens. Fundamental - 1ª série/2º ano
+1080,478716,2014,2,33.0,Estadual,Ens. Fundamental - 2ª série/3º ano
+1081,510391,2014,2,34.0,Estadual,Ens. Fundamental - 3ª série/4º ano
+1082,539607,2014,2,35.0,Estadual,Ens. Fundamental - 4ª série/5º Ano
+1083,1354986,2014,2,41.0,Estadual,Ens. Fundamental - 5ª série/6º ano
+1084,1450577,2014,2,42.0,Estadual,Ens. Fundamental - 6ª série/7º ano
+1085,1420204,2014,2,43.0,Estadual,Ens. Fundamental - 7ª série/8º ano
+1086,1473486,2014,2,44.0,Estadual,Ens. Fundamental - 8ª serie/9º ano
+1087,2918913,2014,2,51.0,Estadual,Ens. Médio - 1ª série
+1088,2207817,2014,2,52.0,Estadual,Ens. Médio - 2ª série
+1089,1855940,2014,2,53.0,Estadual,Ens. Médio - 3ª série
+1090,44522,2014,2,54.0,Estadual,Ens. Médio - 4ª série
+1091,12357,2014,2,61.0,Estadual,EJA - anos iniciais do Ens. Fundamental
+1092,317481,2014,2,71.0,Estadual,Educação Profissional
+1093,1533344,2014,3,,Municipal,Não classificada
+1094,108202,2014,3,11.0,Municipal,Creche - Menor de 1 ano
+1095,314827,2014,3,12.0,Municipal,Creche - 1 ano
+1096,597726,2014,3,13.0,Municipal,Creche - 2 anos
+1097,1029136,2014,3,14.0,Municipal,Creche - 3 anos
+1098,1717864,2014,3,21.0,Municipal,Pré-escola - 4 anos
+1099,1950119,2014,3,22.0,Municipal,Pré-escola - 5 anos
+1100,1737538,2014,3,31.0,Municipal,Ens. Fundamental - 1º Ano
+1101,2037991,2014,3,32.0,Municipal,Ens. Fundamental - 1ª série/2º ano
+1102,2297108,2014,3,33.0,Municipal,Ens. Fundamental - 2ª série/3º ano
+1103,2212240,2014,3,34.0,Municipal,Ens. Fundamental - 3ª série/4º ano
+1104,2196557,2014,3,35.0,Municipal,Ens. Fundamental - 4ª série/5º Ano
+1105,1574585,2014,3,41.0,Municipal,Ens. Fundamental - 5ª série/6º ano
+1106,1424258,2014,3,42.0,Municipal,Ens. Fundamental - 6ª série/7º ano
+1107,1210069,2014,3,43.0,Municipal,Ens. Fundamental - 7ª série/8º ano
+1108,1035591,2014,3,44.0,Municipal,Ens. Fundamental - 8ª serie/9º ano
+1109,22369,2014,3,51.0,Municipal,Ens. Médio - 1ª série
+1110,17177,2014,3,52.0,Municipal,Ens. Médio - 2ª série
+1111,15284,2014,3,53.0,Municipal,Ens. Médio - 3ª série
+1112,1730,2014,3,54.0,Municipal,Ens. Médio - 4ª série
+1113,36633,2014,3,61.0,Municipal,EJA - anos iniciais do Ens. Fundamental
+1114,19140,2014,3,71.0,Municipal,Educação Profissional
+1115,54307,2014,4,,Privada conveniada sem fins lucrativos,Não classificada
+1116,28644,2014,4,11.0,Privada conveniada sem fins lucrativos,Creche - Menor de 1 ano
+1117,92525,2014,4,12.0,Privada conveniada sem fins lucrativos,Creche - 1 ano
+1118,162361,2014,4,13.0,Privada conveniada sem fins lucrativos,Creche - 2 anos
+1119,196570,2014,4,14.0,Privada conveniada sem fins lucrativos,Creche - 3 anos
+1120,102543,2014,4,21.0,Privada conveniada sem fins lucrativos,Pré-escola - 4 anos
+1121,82041,2014,4,22.0,Privada conveniada sem fins lucrativos,Pré-escola - 5 anos
+1122,62527,2014,4,31.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+1123,49982,2014,4,32.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1124,45999,2014,4,33.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1125,43024,2014,4,34.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1126,42329,2014,4,35.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1127,34503,2014,4,41.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1128,33116,2014,4,42.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1129,27745,2014,4,43.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1130,31793,2014,4,44.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1131,28779,2014,4,51.0,Privada conveniada sem fins lucrativos,Ens. Médio - 1ª série
+1132,24322,2014,4,52.0,Privada conveniada sem fins lucrativos,Ens. Médio - 2ª série
+1133,21909,2014,4,53.0,Privada conveniada sem fins lucrativos,Ens. Médio - 3ª série
+1134,867,2014,4,54.0,Privada conveniada sem fins lucrativos,Ens. Médio - 4ª série
+1135,16081,2014,4,71.0,Privada conveniada sem fins lucrativos,Educação Profissional
+1136,13632,2014,5,,Privada conveniada com fins lucrativos,Não classificada
+1137,2479,2014,5,11.0,Privada conveniada com fins lucrativos,Creche - Menor de 1 ano
+1138,7848,2014,5,12.0,Privada conveniada com fins lucrativos,Creche - 1 ano
+1139,18133,2014,5,13.0,Privada conveniada com fins lucrativos,Creche - 2 anos
+1140,28152,2014,5,14.0,Privada conveniada com fins lucrativos,Creche - 3 anos
+1141,32487,2014,5,21.0,Privada conveniada com fins lucrativos,Pré-escola - 4 anos
+1142,33105,2014,5,22.0,Privada conveniada com fins lucrativos,Pré-escola - 5 anos
+1143,26380,2014,5,31.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+1144,30112,2014,5,32.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1145,28024,2014,5,33.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1146,28040,2014,5,34.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1147,27068,2014,5,35.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1148,25507,2014,5,41.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1149,23851,2014,5,42.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1150,22238,2014,5,43.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1151,23053,2014,5,44.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1152,22045,2014,5,51.0,Privada conveniada com fins lucrativos,Ens. Médio - 1ª série
+1153,19322,2014,5,52.0,Privada conveniada com fins lucrativos,Ens. Médio - 2ª série
+1154,17737,2014,5,53.0,Privada conveniada com fins lucrativos,Ens. Médio - 3ª série
+1155,352,2014,5,54.0,Privada conveniada com fins lucrativos,Ens. Médio - 4ª série
+1156,154483,2014,5,71.0,Privada conveniada com fins lucrativos,Educação Profissional
+1157,7854,2014,6,,Privada não conveniada sem fins lucrativos,Não classificada
+1158,1043,2014,6,11.0,Privada não conveniada sem fins lucrativos,Creche - Menor de 1 ano
+1159,5023,2014,6,12.0,Privada não conveniada sem fins lucrativos,Creche - 1 ano
+1160,14402,2014,6,13.0,Privada não conveniada sem fins lucrativos,Creche - 2 anos
+1161,23786,2014,6,14.0,Privada não conveniada sem fins lucrativos,Creche - 3 anos
+1162,30156,2014,6,21.0,Privada não conveniada sem fins lucrativos,Pré-escola - 4 anos
+1163,37425,2014,6,22.0,Privada não conveniada sem fins lucrativos,Pré-escola - 5 anos
+1164,35324,2014,6,31.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+1165,43113,2014,6,32.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1166,42352,2014,6,33.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1167,43943,2014,6,34.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1168,44520,2014,6,35.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1169,47080,2014,6,41.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1170,46019,2014,6,42.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1171,42618,2014,6,43.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1172,46441,2014,6,44.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1173,43442,2014,6,51.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 1ª série
+1174,38000,2014,6,52.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 2ª série
+1175,34737,2014,6,53.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 3ª série
+1176,207,2014,6,54.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 4ª série
+1177,15819,2014,6,71.0,Privada não conveniada sem fins lucrativos,Educação Profissional
+1178,131403,2014,7,,Privada não conveniada com fins lucrativos,Não classificada
+1179,25111,2014,7,11.0,Privada não conveniada com fins lucrativos,Creche - Menor de 1 ano
+1180,84676,2014,7,12.0,Privada não conveniada com fins lucrativos,Creche - 1 ano
+1181,215718,2014,7,13.0,Privada não conveniada com fins lucrativos,Creche - 2 anos
+1182,349071,2014,7,14.0,Privada não conveniada com fins lucrativos,Creche - 3 anos
+1183,418338,2014,7,21.0,Privada não conveniada com fins lucrativos,Pré-escola - 4 anos
+1184,451531,2014,7,22.0,Privada não conveniada com fins lucrativos,Pré-escola - 5 anos
+1185,377306,2014,7,31.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+1186,444434,2014,7,32.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1187,415945,2014,7,33.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1188,410808,2014,7,34.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1189,394424,2014,7,35.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1190,369630,2014,7,41.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1191,356801,2014,7,42.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1192,337511,2014,7,43.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1193,338066,2014,7,44.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1194,306868,2014,7,51.0,Privada não conveniada com fins lucrativos,Ens. Médio - 1ª série
+1195,263650,2014,7,52.0,Privada não conveniada com fins lucrativos,Ens. Médio - 2ª série
+1196,247732,2014,7,53.0,Privada não conveniada com fins lucrativos,Ens. Médio - 3ª série
+1197,921,2014,7,54.0,Privada não conveniada com fins lucrativos,Ens. Médio - 4ª série
+1198,741518,2014,7,71.0,Privada não conveniada com fins lucrativos,Educação Profissional
+1199,176,2015,1,11.0,Federal,Creche - Menor de 1 ano
+1200,267,2015,1,12.0,Federal,Creche - 1 ano
+1201,439,2015,1,13.0,Federal,Creche - 2 anos
+1202,527,2015,1,14.0,Federal,Creche - 3 anos
+1203,622,2015,1,21.0,Federal,Pré-escola - 4 anos
+1204,652,2015,1,22.0,Federal,Pré-escola - 5 anos
+1205,1183,2015,1,31.0,Federal,Ens. Fundamental - 1º Ano
+1206,1417,2015,1,32.0,Federal,Ens. Fundamental - 1ª série/2º ano
+1207,1468,2015,1,33.0,Federal,Ens. Fundamental - 2ª série/3º ano
+1208,1514,2015,1,34.0,Federal,Ens. Fundamental - 3ª série/4º ano
+1209,1519,2015,1,35.0,Federal,Ens. Fundamental - 4ª série/5º Ano
+1210,3610,2015,1,41.0,Federal,Ens. Fundamental - 5ª série/6º ano
+1211,4104,2015,1,42.0,Federal,Ens. Fundamental - 6ª série/7º ano
+1212,4293,2015,1,43.0,Federal,Ens. Fundamental - 7ª série/8º ano
+1213,4394,2015,1,44.0,Federal,Ens. Fundamental - 8ª serie/9º ano
+1214,71690,2015,1,51.0,Federal,Ens. Médio - 1ª série
+1215,39979,2015,1,52.0,Federal,Ens. Médio - 2ª série
+1216,31452,2015,1,53.0,Federal,Ens. Médio - 3ª série
+1217,12804,2015,1,54.0,Federal,Ens. Médio - 4ª série
+1218,423,2015,1,61.0,Federal,EJA - anos iniciais do Ens. Fundamental
+1219,291,2015,1,62.0,Federal,EJA - anos finais do Ens. Fundamental
+1220,11178,2015,1,63.0,Federal,EJA - Ensino Médio
+1221,182228,2015,1,71.0,Federal,Educação Profissional
+1222,349,2015,2,11.0,Estadual,Creche - Menor de 1 ano
+1223,649,2015,2,12.0,Estadual,Creche - 1 ano
+1224,1454,2015,2,13.0,Estadual,Creche - 2 anos
+1225,3162,2015,2,14.0,Estadual,Creche - 3 anos
+1226,18670,2015,2,21.0,Estadual,Pré-escola - 4 anos
+1227,71071,2015,2,22.0,Estadual,Pré-escola - 5 anos
+1228,320928,2015,2,31.0,Estadual,Ens. Fundamental - 1º Ano
+1229,409697,2015,2,32.0,Estadual,Ens. Fundamental - 1ª série/2º ano
+1230,471602,2015,2,33.0,Estadual,Ens. Fundamental - 2ª série/3º ano
+1231,465770,2015,2,34.0,Estadual,Ens. Fundamental - 3ª série/4º ano
+1232,520440,2015,2,35.0,Estadual,Ens. Fundamental - 4ª série/5º Ano
+1233,1348957,2015,2,41.0,Estadual,Ens. Fundamental - 5ª série/6º ano
+1234,1302232,2015,2,42.0,Estadual,Ens. Fundamental - 6ª série/7º ano
+1235,1367446,2015,2,43.0,Estadual,Ens. Fundamental - 7ª série/8º ano
+1236,1373310,2015,2,44.0,Estadual,Ens. Fundamental - 8ª serie/9º ano
+1237,2755946,2015,2,51.0,Estadual,Ens. Médio - 1ª série
+1238,2208695,2015,2,52.0,Estadual,Ens. Médio - 2ª série
+1239,1813781,2015,2,53.0,Estadual,Ens. Médio - 3ª série
+1240,41006,2015,2,54.0,Estadual,Ens. Médio - 4ª série
+1241,103082,2015,2,61.0,Estadual,EJA - anos iniciais do Ens. Fundamental
+1242,538381,2015,2,62.0,Estadual,EJA - anos finais do Ens. Fundamental
+1243,1120406,2015,2,63.0,Estadual,EJA - Ensino Médio
+1244,291674,2015,2,71.0,Estadual,Educação Profissional
+1245,117097,2015,3,11.0,Municipal,Creche - Menor de 1 ano
+1246,342552,2015,3,12.0,Municipal,Creche - 1 ano
+1247,628887,2015,3,13.0,Municipal,Creche - 2 anos
+1248,1091369,2015,3,14.0,Municipal,Creche - 3 anos
+1249,1731725,2015,3,21.0,Municipal,Pré-escola - 4 anos
+1250,1897747,2015,3,22.0,Municipal,Pré-escola - 5 anos
+1251,1717101,2015,3,31.0,Municipal,Ens. Fundamental - 1º Ano
+1252,1997335,2015,3,32.0,Municipal,Ens. Fundamental - 1ª série/2º ano
+1253,2288232,2015,3,33.0,Municipal,Ens. Fundamental - 2ª série/3º ano
+1254,2164617,2015,3,34.0,Municipal,Ens. Fundamental - 3ª série/4º ano
+1255,2145226,2015,3,35.0,Municipal,Ens. Fundamental - 4ª série/5º Ano
+1256,1610773,2015,3,41.0,Municipal,Ens. Fundamental - 5ª série/6º ano
+1257,1340143,2015,3,42.0,Municipal,Ens. Fundamental - 6ª série/7º ano
+1258,1189546,2015,3,43.0,Municipal,Ens. Fundamental - 7ª série/8º ano
+1259,1021801,2015,3,44.0,Municipal,Ens. Fundamental - 8ª serie/9º ano
+1260,19784,2015,3,51.0,Municipal,Ens. Médio - 1ª série
+1261,15929,2015,3,52.0,Municipal,Ens. Médio - 2ª série
+1262,13979,2015,3,53.0,Municipal,Ens. Médio - 3ª série
+1263,1201,2015,3,54.0,Municipal,Ens. Médio - 4ª série
+1264,645448,2015,3,61.0,Municipal,EJA - anos iniciais do Ens. Fundamental
+1265,783883,2015,3,62.0,Municipal,EJA - anos finais do Ens. Fundamental
+1266,33683,2015,3,63.0,Municipal,EJA - Ensino Médio
+1267,15784,2015,3,71.0,Municipal,Educação Profissional
+1268,31083,2015,4,11.0,Privada conveniada sem fins lucrativos,Creche - Menor de 1 ano
+1269,106089,2015,4,12.0,Privada conveniada sem fins lucrativos,Creche - 1 ano
+1270,165254,2015,4,13.0,Privada conveniada sem fins lucrativos,Creche - 2 anos
+1271,195103,2015,4,14.0,Privada conveniada sem fins lucrativos,Creche - 3 anos
+1272,95727,2015,4,21.0,Privada conveniada sem fins lucrativos,Pré-escola - 4 anos
+1273,76185,2015,4,22.0,Privada conveniada sem fins lucrativos,Pré-escola - 5 anos
+1274,54366,2015,4,31.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+1275,42719,2015,4,32.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1276,39805,2015,4,33.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1277,36147,2015,4,34.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1278,35881,2015,4,35.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1279,30020,2015,4,41.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1280,27281,2015,4,42.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1281,25563,2015,4,43.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1282,23386,2015,4,44.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1283,22899,2015,4,51.0,Privada conveniada sem fins lucrativos,Ens. Médio - 1ª série
+1284,19775,2015,4,52.0,Privada conveniada sem fins lucrativos,Ens. Médio - 2ª série
+1285,17026,2015,4,53.0,Privada conveniada sem fins lucrativos,Ens. Médio - 3ª série
+1286,742,2015,4,54.0,Privada conveniada sem fins lucrativos,Ens. Médio - 4ª série
+1287,42815,2015,4,61.0,Privada conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1288,9169,2015,4,62.0,Privada conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+1289,2517,2015,4,63.0,Privada conveniada sem fins lucrativos,EJA - Ensino Médio
+1290,13796,2015,4,71.0,Privada conveniada sem fins lucrativos,Educação Profissional
+1291,2202,2015,5,11.0,Privada conveniada com fins lucrativos,Creche - Menor de 1 ano
+1292,6954,2015,5,12.0,Privada conveniada com fins lucrativos,Creche - 1 ano
+1293,14633,2015,5,13.0,Privada conveniada com fins lucrativos,Creche - 2 anos
+1294,23624,2015,5,14.0,Privada conveniada com fins lucrativos,Creche - 3 anos
+1295,27587,2015,5,21.0,Privada conveniada com fins lucrativos,Pré-escola - 4 anos
+1296,27373,2015,5,22.0,Privada conveniada com fins lucrativos,Pré-escola - 5 anos
+1297,22317,2015,5,31.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+1298,24170,2015,5,32.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1299,23607,2015,5,33.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1300,21952,2015,5,34.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1301,21965,2015,5,35.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1302,21467,2015,5,41.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1303,19870,2015,5,42.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1304,18352,2015,5,43.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1305,17568,2015,5,44.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1306,17259,2015,5,51.0,Privada conveniada com fins lucrativos,Ens. Médio - 1ª série
+1307,15549,2015,5,52.0,Privada conveniada com fins lucrativos,Ens. Médio - 2ª série
+1308,14263,2015,5,53.0,Privada conveniada com fins lucrativos,Ens. Médio - 3ª série
+1309,424,2015,5,54.0,Privada conveniada com fins lucrativos,Ens. Médio - 4ª série
+1310,823,2015,5,61.0,Privada conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1311,1603,2015,5,62.0,Privada conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+1312,7508,2015,5,63.0,Privada conveniada com fins lucrativos,EJA - Ensino Médio
+1313,88831,2015,5,71.0,Privada conveniada com fins lucrativos,Educação Profissional
+1314,1562,2015,6,11.0,Privada não conveniada sem fins lucrativos,Creche - Menor de 1 ano
+1315,6839,2015,6,12.0,Privada não conveniada sem fins lucrativos,Creche - 1 ano
+1316,17950,2015,6,13.0,Privada não conveniada sem fins lucrativos,Creche - 2 anos
+1317,29329,2015,6,14.0,Privada não conveniada sem fins lucrativos,Creche - 3 anos
+1318,37149,2015,6,21.0,Privada não conveniada sem fins lucrativos,Pré-escola - 4 anos
+1319,44677,2015,6,22.0,Privada não conveniada sem fins lucrativos,Pré-escola - 5 anos
+1320,44145,2015,6,31.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+1321,52986,2015,6,32.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1322,52646,2015,6,33.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1323,51255,2015,6,34.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1324,52638,2015,6,35.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1325,56590,2015,6,41.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1326,54020,2015,6,42.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1327,51814,2015,6,43.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1328,46666,2015,6,44.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1329,49270,2015,6,51.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 1ª série
+1330,43198,2015,6,52.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 2ª série
+1331,38504,2015,6,53.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 3ª série
+1332,311,2015,6,54.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 4ª série
+1333,1234,2015,6,61.0,Privada não conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1334,4046,2015,6,62.0,Privada não conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+1335,6201,2015,6,63.0,Privada não conveniada sem fins lucrativos,EJA - Ensino Médio
+1336,18314,2015,6,71.0,Privada não conveniada sem fins lucrativos,Educação Profissional
+1337,26140,2015,7,11.0,Privada não conveniada com fins lucrativos,Creche - Menor de 1 ano
+1338,87032,2015,7,12.0,Privada não conveniada com fins lucrativos,Creche - 1 ano
+1339,214895,2015,7,13.0,Privada não conveniada com fins lucrativos,Creche - 2 anos
+1340,352948,2015,7,14.0,Privada não conveniada com fins lucrativos,Creche - 3 anos
+1341,420281,2015,7,21.0,Privada não conveniada com fins lucrativos,Pré-escola - 4 anos
+1342,441959,2015,7,22.0,Privada não conveniada com fins lucrativos,Pré-escola - 5 anos
+1343,397788,2015,7,31.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+1344,455195,2015,7,32.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1345,432621,2015,7,33.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1346,405043,2015,7,34.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1347,399458,2015,7,35.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1348,383576,2015,7,41.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1349,356965,2015,7,42.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1350,340671,2015,7,43.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1351,324381,2015,7,44.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1352,297157,2015,7,51.0,Privada não conveniada com fins lucrativos,Ens. Médio - 1ª série
+1353,268406,2015,7,52.0,Privada não conveniada com fins lucrativos,Ens. Médio - 2ª série
+1354,244183,2015,7,53.0,Privada não conveniada com fins lucrativos,Ens. Médio - 3ª série
+1355,936,2015,7,54.0,Privada não conveniada com fins lucrativos,Ens. Médio - 4ª série
+1356,10298,2015,7,61.0,Privada não conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1357,41047,2015,7,62.0,Privada não conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+1358,127733,2015,7,63.0,Privada não conveniada com fins lucrativos,EJA - Ensino Médio
+1359,714426,2015,7,71.0,Privada não conveniada com fins lucrativos,Educação Profissional
+1360,209,2016,1,11.0,Federal,Creche - Menor de 1 ano
+1361,333,2016,1,12.0,Federal,Creche - 1 ano
+1362,459,2016,1,13.0,Federal,Creche - 2 anos
+1363,682,2016,1,14.0,Federal,Creche - 3 anos
+1364,752,2016,1,21.0,Federal,Pré-escola - 4 anos
+1365,614,2016,1,22.0,Federal,Pré-escola - 5 anos
+1366,1354,2016,1,31.0,Federal,Ens. Fundamental - 1º Ano
+1367,1336,2016,1,32.0,Federal,Ens. Fundamental - 1ª série/2º ano
+1368,1483,2016,1,33.0,Federal,Ens. Fundamental - 2ª série/3º ano
+1369,1518,2016,1,34.0,Federal,Ens. Fundamental - 3ª série/4º ano
+1370,1625,2016,1,35.0,Federal,Ens. Fundamental - 4ª série/5º Ano
+1371,3349,2016,1,41.0,Federal,Ens. Fundamental - 5ª série/6º ano
+1372,3714,2016,1,42.0,Federal,Ens. Fundamental - 6ª série/7º ano
+1373,4112,2016,1,43.0,Federal,Ens. Fundamental - 7ª série/8º ano
+1374,4222,2016,1,44.0,Federal,Ens. Fundamental - 8ª serie/9º ano
+1375,80192,2016,1,51.0,Federal,Ens. Médio - 1ª série
+1376,44817,2016,1,52.0,Federal,Ens. Médio - 2ª série
+1377,35033,2016,1,53.0,Federal,Ens. Médio - 3ª série
+1378,11524,2016,1,54.0,Federal,Ens. Médio - 4ª série
+1379,402,2016,1,61.0,Federal,EJA - anos iniciais do Ens. Fundamental
+1380,323,2016,1,62.0,Federal,EJA - anos finais do Ens. Fundamental
+1381,11088,2016,1,63.0,Federal,EJA - Ensino Médio
+1382,183424,2016,1,71.0,Federal,Educação Profissional
+1383,287,2016,2,11.0,Estadual,Creche - Menor de 1 ano
+1384,564,2016,2,12.0,Estadual,Creche - 1 ano
+1385,1246,2016,2,13.0,Estadual,Creche - 2 anos
+1386,2770,2016,2,14.0,Estadual,Creche - 3 anos
+1387,21460,2016,2,21.0,Estadual,Pré-escola - 4 anos
+1388,64571,2016,2,22.0,Estadual,Pré-escola - 5 anos
+1389,310023,2016,2,31.0,Estadual,Ens. Fundamental - 1º Ano
+1390,394425,2016,2,32.0,Estadual,Ens. Fundamental - 1ª série/2º ano
+1391,458920,2016,2,33.0,Estadual,Ens. Fundamental - 2ª série/3º ano
+1392,465690,2016,2,34.0,Estadual,Ens. Fundamental - 3ª série/4º ano
+1393,485148,2016,2,35.0,Estadual,Ens. Fundamental - 4ª série/5º Ano
+1394,1342289,2016,2,41.0,Estadual,Ens. Fundamental - 5ª série/6º ano
+1395,1322152,2016,2,42.0,Estadual,Ens. Fundamental - 6ª série/7º ano
+1396,1263413,2016,2,43.0,Estadual,Ens. Fundamental - 7ª série/8º ano
+1397,1350926,2016,2,44.0,Estadual,Ens. Fundamental - 8ª serie/9º ano
+1398,2762317,2016,2,51.0,Estadual,Ens. Médio - 1ª série
+1399,2175114,2016,2,52.0,Estadual,Ens. Médio - 2ª série
+1400,1902368,2016,2,53.0,Estadual,Ens. Médio - 3ª série
+1401,57344,2016,2,54.0,Estadual,Ens. Médio - 4ª série
+1402,148654,2016,2,61.0,Estadual,EJA - anos iniciais do Ens. Fundamental
+1403,553052,2016,2,62.0,Estadual,EJA - anos finais do Ens. Fundamental
+1404,1215514,2016,2,63.0,Estadual,EJA - Ensino Médio
+1405,297384,2016,2,71.0,Estadual,Educação Profissional
+1406,125090,2016,3,11.0,Municipal,Creche - Menor de 1 ano
+1407,366650,2016,3,12.0,Municipal,Creche - 1 ano
+1408,673954,2016,3,13.0,Municipal,Creche - 2 anos
+1409,1124839,2016,3,14.0,Municipal,Creche - 3 anos
+1410,1849432,2016,3,21.0,Municipal,Pré-escola - 4 anos
+1411,1932878,2016,3,22.0,Municipal,Pré-escola - 5 anos
+1412,1671476,2016,3,31.0,Municipal,Ens. Fundamental - 1º Ano
+1413,1990079,2016,3,32.0,Municipal,Ens. Fundamental - 1ª série/2º ano
+1414,2268455,2016,3,33.0,Municipal,Ens. Fundamental - 2ª série/3º ano
+1415,2175070,2016,3,34.0,Municipal,Ens. Fundamental - 3ª série/4º ano
+1416,2122106,2016,3,35.0,Municipal,Ens. Fundamental - 4ª série/5º Ano
+1417,1584951,2016,3,41.0,Municipal,Ens. Fundamental - 5ª série/6º ano
+1418,1384277,2016,3,42.0,Municipal,Ens. Fundamental - 6ª série/7º ano
+1419,1128279,2016,3,43.0,Municipal,Ens. Fundamental - 7ª série/8º ano
+1420,1038197,2016,3,44.0,Municipal,Ens. Fundamental - 8ª serie/9º ano
+1421,19099,2016,3,51.0,Municipal,Ens. Médio - 1ª série
+1422,15359,2016,3,52.0,Municipal,Ens. Médio - 2ª série
+1423,14115,2016,3,53.0,Municipal,Ens. Médio - 3ª série
+1424,1142,2016,3,54.0,Municipal,Ens. Médio - 4ª série
+1425,536523,2016,3,61.0,Municipal,EJA - anos iniciais do Ens. Fundamental
+1426,772661,2016,3,62.0,Municipal,EJA - anos finais do Ens. Fundamental
+1427,35222,2016,3,63.0,Municipal,EJA - Ensino Médio
+1428,16328,2016,3,71.0,Municipal,Educação Profissional
+1429,40410,2016,4,11.0,Privada conveniada sem fins lucrativos,Creche - Menor de 1 ano
+1430,109483,2016,4,12.0,Privada conveniada sem fins lucrativos,Creche - 1 ano
+1431,179440,2016,4,13.0,Privada conveniada sem fins lucrativos,Creche - 2 anos
+1432,205729,2016,4,14.0,Privada conveniada sem fins lucrativos,Creche - 3 anos
+1433,97199,2016,4,21.0,Privada conveniada sem fins lucrativos,Pré-escola - 4 anos
+1434,73542,2016,4,22.0,Privada conveniada sem fins lucrativos,Pré-escola - 5 anos
+1435,44838,2016,4,31.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+1436,45234,2016,4,32.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1437,38182,2016,4,33.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1438,34814,2016,4,34.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1439,34136,2016,4,35.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1440,26702,2016,4,41.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1441,26052,2016,4,42.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1442,23494,2016,4,43.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1443,22881,2016,4,44.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1444,18907,2016,4,51.0,Privada conveniada sem fins lucrativos,Ens. Médio - 1ª série
+1445,16773,2016,4,52.0,Privada conveniada sem fins lucrativos,Ens. Médio - 2ª série
+1446,15503,2016,4,53.0,Privada conveniada sem fins lucrativos,Ens. Médio - 3ª série
+1447,749,2016,4,54.0,Privada conveniada sem fins lucrativos,Ens. Médio - 4ª série
+1448,40122,2016,4,61.0,Privada conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1449,10120,2016,4,62.0,Privada conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+1450,1500,2016,4,63.0,Privada conveniada sem fins lucrativos,EJA - Ensino Médio
+1451,10010,2016,4,71.0,Privada conveniada sem fins lucrativos,Educação Profissional
+1452,1761,2016,5,11.0,Privada conveniada com fins lucrativos,Creche - Menor de 1 ano
+1453,6030,2016,5,12.0,Privada conveniada com fins lucrativos,Creche - 1 ano
+1454,13496,2016,5,13.0,Privada conveniada com fins lucrativos,Creche - 2 anos
+1455,20425,2016,5,14.0,Privada conveniada com fins lucrativos,Creche - 3 anos
+1456,24502,2016,5,21.0,Privada conveniada com fins lucrativos,Pré-escola - 4 anos
+1457,24751,2016,5,22.0,Privada conveniada com fins lucrativos,Pré-escola - 5 anos
+1458,20907,2016,5,31.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+1459,23522,2016,5,32.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1460,21795,2016,5,33.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1461,20796,2016,5,34.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1462,19676,2016,5,35.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1463,19567,2016,5,41.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1464,18935,2016,5,42.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1465,17163,2016,5,43.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1466,16105,2016,5,44.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1467,14114,2016,5,51.0,Privada conveniada com fins lucrativos,Ens. Médio - 1ª série
+1468,12924,2016,5,52.0,Privada conveniada com fins lucrativos,Ens. Médio - 2ª série
+1469,12466,2016,5,53.0,Privada conveniada com fins lucrativos,Ens. Médio - 3ª série
+1470,143,2016,5,54.0,Privada conveniada com fins lucrativos,Ens. Médio - 4ª série
+1471,2498,2016,5,61.0,Privada conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1472,1627,2016,5,62.0,Privada conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+1473,6579,2016,5,63.0,Privada conveniada com fins lucrativos,EJA - Ensino Médio
+1474,74153,2016,5,71.0,Privada conveniada com fins lucrativos,Educação Profissional
+1475,1506,2016,6,11.0,Privada não conveniada sem fins lucrativos,Creche - Menor de 1 ano
+1476,6483,2016,6,12.0,Privada não conveniada sem fins lucrativos,Creche - 1 ano
+1477,16565,2016,6,13.0,Privada não conveniada sem fins lucrativos,Creche - 2 anos
+1478,27256,2016,6,14.0,Privada não conveniada sem fins lucrativos,Creche - 3 anos
+1479,34312,2016,6,21.0,Privada não conveniada sem fins lucrativos,Pré-escola - 4 anos
+1480,42301,2016,6,22.0,Privada não conveniada sem fins lucrativos,Pré-escola - 5 anos
+1481,40916,2016,6,31.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+1482,49698,2016,6,32.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1483,49359,2016,6,33.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1484,49045,2016,6,34.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1485,47934,2016,6,35.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1486,50832,2016,6,41.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1487,51083,2016,6,42.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1488,48540,2016,6,43.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1489,46794,2016,6,44.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1490,40536,2016,6,51.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 1ª série
+1491,40062,2016,6,52.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 2ª série
+1492,36180,2016,6,53.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 3ª série
+1493,312,2016,6,54.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 4ª série
+1494,948,2016,6,61.0,Privada não conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1495,3775,2016,6,62.0,Privada não conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+1496,6631,2016,6,63.0,Privada não conveniada sem fins lucrativos,EJA - Ensino Médio
+1497,13961,2016,6,71.0,Privada não conveniada sem fins lucrativos,Educação Profissional
+1498,25779,2016,7,11.0,Privada não conveniada com fins lucrativos,Creche - Menor de 1 ano
+1499,86900,2016,7,12.0,Privada não conveniada com fins lucrativos,Creche - 1 ano
+1500,215724,2016,7,13.0,Privada não conveniada com fins lucrativos,Creche - 2 anos
+1501,351976,2016,7,14.0,Privada não conveniada com fins lucrativos,Creche - 3 anos
+1502,428675,2016,7,21.0,Privada não conveniada com fins lucrativos,Pré-escola - 4 anos
+1503,454361,2016,7,22.0,Privada não conveniada com fins lucrativos,Pré-escola - 5 anos
+1504,405371,2016,7,31.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+1505,479550,2016,7,32.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1506,454370,2016,7,33.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1507,432535,2016,7,34.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1508,404369,2016,7,35.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1509,393478,2016,7,41.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1510,376115,2016,7,42.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1511,346085,2016,7,43.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1512,335726,2016,7,44.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1513,281630,2016,7,51.0,Privada não conveniada com fins lucrativos,Ens. Médio - 1ª série
+1514,267889,2016,7,52.0,Privada não conveniada com fins lucrativos,Ens. Médio - 2ª série
+1515,255508,2016,7,53.0,Privada não conveniada com fins lucrativos,Ens. Médio - 3ª série
+1516,918,2016,7,54.0,Privada não conveniada com fins lucrativos,Ens. Médio - 4ª série
+1517,9291,2016,7,61.0,Privada não conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1518,25539,2016,7,62.0,Privada não conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+1519,100105,2016,7,63.0,Privada não conveniada com fins lucrativos,EJA - Ensino Médio
+1520,636423,2016,7,71.0,Privada não conveniada com fins lucrativos,Educação Profissional
+1521,144,2017,1,11.0,Federal,Creche - Menor de 1 ano
+1522,341,2017,1,12.0,Federal,Creche - 1 ano
+1523,465,2017,1,13.0,Federal,Creche - 2 anos
+1524,576,2017,1,14.0,Federal,Creche - 3 anos
+1525,825,2017,1,21.0,Federal,Pré-escola - 4 anos
+1526,706,2017,1,22.0,Federal,Pré-escola - 5 anos
+1527,1281,2017,1,31.0,Federal,Ens. Fundamental - 1º Ano
+1528,1474,2017,1,32.0,Federal,Ens. Fundamental - 1ª série/2º ano
+1529,1394,2017,1,33.0,Federal,Ens. Fundamental - 2ª série/3º ano
+1530,1493,2017,1,34.0,Federal,Ens. Fundamental - 3ª série/4º ano
+1531,1583,2017,1,35.0,Federal,Ens. Fundamental - 4ª série/5º Ano
+1532,3046,2017,1,41.0,Federal,Ens. Fundamental - 5ª série/6º ano
+1533,3808,2017,1,42.0,Federal,Ens. Fundamental - 6ª série/7º ano
+1534,3834,2017,1,43.0,Federal,Ens. Fundamental - 7ª série/8º ano
+1535,4114,2017,1,44.0,Federal,Ens. Fundamental - 8ª serie/9º ano
+1536,84986,2017,1,51.0,Federal,Ens. Médio - 1ª série
+1537,52477,2017,1,52.0,Federal,Ens. Médio - 2ª série
+1538,40311,2017,1,53.0,Federal,Ens. Médio - 3ª série
+1539,13749,2017,1,54.0,Federal,Ens. Médio - 4ª série
+1540,329,2017,1,61.0,Federal,EJA - anos iniciais do Ens. Fundamental
+1541,289,2017,1,62.0,Federal,EJA - anos finais do Ens. Fundamental
+1542,11993,2017,1,63.0,Federal,EJA - Ensino Médio
+1543,167264,2017,1,71.0,Federal,Educação Profissional
+1544,405,2017,2,11.0,Estadual,Creche - Menor de 1 ano
+1545,647,2017,2,12.0,Estadual,Creche - 1 ano
+1546,1412,2017,2,13.0,Estadual,Creche - 2 anos
+1547,3093,2017,2,14.0,Estadual,Creche - 3 anos
+1548,22884,2017,2,21.0,Estadual,Pré-escola - 4 anos
+1549,63570,2017,2,22.0,Estadual,Pré-escola - 5 anos
+1550,308865,2017,2,31.0,Estadual,Ens. Fundamental - 1º Ano
+1551,374208,2017,2,32.0,Estadual,Ens. Fundamental - 1ª série/2º ano
+1552,441094,2017,2,33.0,Estadual,Ens. Fundamental - 2ª série/3º ano
+1553,447847,2017,2,34.0,Estadual,Ens. Fundamental - 3ª série/4º ano
+1554,477729,2017,2,35.0,Estadual,Ens. Fundamental - 4ª série/5º Ano
+1555,1294645,2017,2,41.0,Estadual,Ens. Fundamental - 5ª série/6º ano
+1556,1293840,2017,2,42.0,Estadual,Ens. Fundamental - 6ª série/7º ano
+1557,1250018,2017,2,43.0,Estadual,Ens. Fundamental - 7ª série/8º ano
+1558,1241590,2017,2,44.0,Estadual,Ens. Fundamental - 8ª serie/9º ano
+1559,2691913,2017,2,51.0,Estadual,Ens. Médio - 1ª série
+1560,2133498,2017,2,52.0,Estadual,Ens. Médio - 2ª série
+1561,1843056,2017,2,53.0,Estadual,Ens. Médio - 3ª série
+1562,52713,2017,2,54.0,Estadual,Ens. Médio - 4ª série
+1563,174872,2017,2,61.0,Estadual,EJA - anos iniciais do Ens. Fundamental
+1564,548468,2017,2,62.0,Estadual,EJA - anos finais do Ens. Fundamental
+1565,1247621,2017,2,63.0,Estadual,EJA - Ensino Médio
+1566,308826,2017,2,71.0,Estadual,Educação Profissional
+1567,125549,2017,3,11.0,Municipal,Creche - Menor de 1 ano
+1568,392544,2017,3,12.0,Municipal,Creche - 1 ano
+1569,744350,2017,3,13.0,Municipal,Creche - 2 anos
+1570,1191089,2017,3,14.0,Municipal,Creche - 3 anos
+1571,1874894,2017,3,21.0,Municipal,Pré-escola - 4 anos
+1572,2001031,2017,3,22.0,Municipal,Pré-escola - 5 anos
+1573,1682323,2017,3,31.0,Municipal,Ens. Fundamental - 1º Ano
+1574,1935529,2017,3,32.0,Municipal,Ens. Fundamental - 1ª série/2º ano
+1575,2265210,2017,3,33.0,Municipal,Ens. Fundamental - 2ª série/3º ano
+1576,2160574,2017,3,34.0,Municipal,Ens. Fundamental - 3ª série/4º ano
+1577,2135990,2017,3,35.0,Municipal,Ens. Fundamental - 4ª série/5º Ano
+1578,1569474,2017,3,41.0,Municipal,Ens. Fundamental - 5ª série/6º ano
+1579,1385475,2017,3,42.0,Municipal,Ens. Fundamental - 6ª série/7º ano
+1580,1189746,2017,3,43.0,Municipal,Ens. Fundamental - 7ª série/8º ano
+1581,987414,2017,3,44.0,Municipal,Ens. Fundamental - 8ª serie/9º ano
+1582,18205,2017,3,51.0,Municipal,Ens. Médio - 1ª série
+1583,15140,2017,3,52.0,Municipal,Ens. Médio - 2ª série
+1584,13245,2017,3,53.0,Municipal,Ens. Médio - 3ª série
+1585,778,2017,3,54.0,Municipal,Ens. Médio - 4ª série
+1586,565162,2017,3,61.0,Municipal,EJA - anos iniciais do Ens. Fundamental
+1587,795058,2017,3,62.0,Municipal,EJA - anos finais do Ens. Fundamental
+1588,36216,2017,3,63.0,Municipal,EJA - Ensino Médio
+1589,16740,2017,3,71.0,Municipal,Educação Profissional
+1590,40014,2017,4,11.0,Privada conveniada sem fins lucrativos,Creche - Menor de 1 ano
+1591,111800,2017,4,12.0,Privada conveniada sem fins lucrativos,Creche - 1 ano
+1592,186729,2017,4,13.0,Privada conveniada sem fins lucrativos,Creche - 2 anos
+1593,214527,2017,4,14.0,Privada conveniada sem fins lucrativos,Creche - 3 anos
+1594,92832,2017,4,21.0,Privada conveniada sem fins lucrativos,Pré-escola - 4 anos
+1595,71534,2017,4,22.0,Privada conveniada sem fins lucrativos,Pré-escola - 5 anos
+1596,42438,2017,4,31.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+1597,44164,2017,4,32.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1598,37470,2017,4,33.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1599,33585,2017,4,34.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1600,34000,2017,4,35.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1601,24379,2017,4,41.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1602,23934,2017,4,42.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1603,23142,2017,4,43.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1604,21176,2017,4,44.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1605,18064,2017,4,51.0,Privada conveniada sem fins lucrativos,Ens. Médio - 1ª série
+1606,14968,2017,4,52.0,Privada conveniada sem fins lucrativos,Ens. Médio - 2ª série
+1607,14104,2017,4,53.0,Privada conveniada sem fins lucrativos,Ens. Médio - 3ª série
+1608,744,2017,4,54.0,Privada conveniada sem fins lucrativos,Ens. Médio - 4ª série
+1609,39657,2017,4,61.0,Privada conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1610,9247,2017,4,62.0,Privada conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+1611,1849,2017,4,63.0,Privada conveniada sem fins lucrativos,EJA - Ensino Médio
+1612,9865,2017,4,71.0,Privada conveniada sem fins lucrativos,Educação Profissional
+1613,1467,2017,5,11.0,Privada conveniada com fins lucrativos,Creche - Menor de 1 ano
+1614,5035,2017,5,12.0,Privada conveniada com fins lucrativos,Creche - 1 ano
+1615,11405,2017,5,13.0,Privada conveniada com fins lucrativos,Creche - 2 anos
+1616,17266,2017,5,14.0,Privada conveniada com fins lucrativos,Creche - 3 anos
+1617,18742,2017,5,21.0,Privada conveniada com fins lucrativos,Pré-escola - 4 anos
+1618,19178,2017,5,22.0,Privada conveniada com fins lucrativos,Pré-escola - 5 anos
+1619,15985,2017,5,31.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+1620,18095,2017,5,32.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1621,17419,2017,5,33.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1622,16676,2017,5,34.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1623,15943,2017,5,35.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1624,15520,2017,5,41.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1625,15292,2017,5,42.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1626,14403,2017,5,43.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1627,13565,2017,5,44.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1628,11344,2017,5,51.0,Privada conveniada com fins lucrativos,Ens. Médio - 1ª série
+1629,9780,2017,5,52.0,Privada conveniada com fins lucrativos,Ens. Médio - 2ª série
+1630,9886,2017,5,53.0,Privada conveniada com fins lucrativos,Ens. Médio - 3ª série
+1631,170,2017,5,54.0,Privada conveniada com fins lucrativos,Ens. Médio - 4ª série
+1632,514,2017,5,61.0,Privada conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1633,1130,2017,5,62.0,Privada conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+1634,5437,2017,5,63.0,Privada conveniada com fins lucrativos,EJA - Ensino Médio
+1635,58240,2017,5,71.0,Privada conveniada com fins lucrativos,Educação Profissional
+1636,1062,2017,6,11.0,Privada não conveniada sem fins lucrativos,Creche - Menor de 1 ano
+1637,5452,2017,6,12.0,Privada não conveniada sem fins lucrativos,Creche - 1 ano
+1638,15906,2017,6,13.0,Privada não conveniada sem fins lucrativos,Creche - 2 anos
+1639,25967,2017,6,14.0,Privada não conveniada sem fins lucrativos,Creche - 3 anos
+1640,34056,2017,6,21.0,Privada não conveniada sem fins lucrativos,Pré-escola - 4 anos
+1641,41637,2017,6,22.0,Privada não conveniada sem fins lucrativos,Pré-escola - 5 anos
+1642,40800,2017,6,31.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+1643,49985,2017,6,32.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1644,50685,2017,6,33.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1645,49877,2017,6,34.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1646,49670,2017,6,35.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1647,50257,2017,6,41.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1648,50394,2017,6,42.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1649,50078,2017,6,43.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1650,46886,2017,6,44.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1651,41655,2017,6,51.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 1ª série
+1652,35398,2017,6,52.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 2ª série
+1653,35685,2017,6,53.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 3ª série
+1654,246,2017,6,54.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 4ª série
+1655,1014,2017,6,61.0,Privada não conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1656,3664,2017,6,62.0,Privada não conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+1657,6374,2017,6,63.0,Privada não conveniada sem fins lucrativos,EJA - Ensino Médio
+1658,10533,2017,6,71.0,Privada não conveniada sem fins lucrativos,Educação Profissional
+1659,24217,2017,7,11.0,Privada não conveniada com fins lucrativos,Creche - Menor de 1 ano
+1660,88587,2017,7,12.0,Privada não conveniada com fins lucrativos,Creche - 1 ano
+1661,221384,2017,7,13.0,Privada não conveniada com fins lucrativos,Creche - 2 anos
+1662,349403,2017,7,14.0,Privada não conveniada com fins lucrativos,Creche - 3 anos
+1663,418962,2017,7,21.0,Privada não conveniada com fins lucrativos,Pré-escola - 4 anos
+1664,451369,2017,7,22.0,Privada não conveniada com fins lucrativos,Pré-escola - 5 anos
+1665,401957,2017,7,31.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+1666,474747,2017,7,32.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1667,462440,2017,7,33.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1668,436942,2017,7,34.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1669,414747,2017,7,35.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1670,382516,2017,7,41.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1671,373403,2017,7,42.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1672,353641,2017,7,43.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1673,333947,2017,7,44.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1674,279373,2017,7,51.0,Privada não conveniada com fins lucrativos,Ens. Médio - 1ª série
+1675,248459,2017,7,52.0,Privada não conveniada com fins lucrativos,Ens. Médio - 2ª série
+1676,249387,2017,7,53.0,Privada não conveniada com fins lucrativos,Ens. Médio - 3ª série
+1677,1049,2017,7,54.0,Privada não conveniada com fins lucrativos,Ens. Médio - 4ª série
+1678,8460,2017,7,61.0,Privada não conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1679,25040,2017,7,62.0,Privada não conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+1680,116322,2017,7,63.0,Privada não conveniada com fins lucrativos,EJA - Ensino Médio
+1681,650714,2017,7,71.0,Privada não conveniada com fins lucrativos,Educação Profissional
+1682,142,2018,1,11.0,Federal,Creche - Menor de 1 ano
+1683,237,2018,1,12.0,Federal,Creche - 1 ano
+1684,412,2018,1,13.0,Federal,Creche - 2 anos
+1685,594,2018,1,14.0,Federal,Creche - 3 anos
+1686,674,2018,1,21.0,Federal,Pré-escola - 4 anos
+1687,766,2018,1,22.0,Federal,Pré-escola - 5 anos
+1688,1169,2018,1,31.0,Federal,Ens. Fundamental - 1º Ano
+1689,1467,2018,1,32.0,Federal,Ens. Fundamental - 1ª série/2º ano
+1690,1547,2018,1,33.0,Federal,Ens. Fundamental - 2ª série/3º ano
+1691,1418,2018,1,34.0,Federal,Ens. Fundamental - 3ª série/4º ano
+1692,1592,2018,1,35.0,Federal,Ens. Fundamental - 4ª série/5º Ano
+1693,3455,2018,1,41.0,Federal,Ens. Fundamental - 5ª série/6º ano
+1694,3580,2018,1,42.0,Federal,Ens. Fundamental - 6ª série/7º ano
+1695,3997,2018,1,43.0,Federal,Ens. Fundamental - 7ª série/8º ano
+1696,4038,2018,1,44.0,Federal,Ens. Fundamental - 8ª serie/9º ano
+1697,91110,2018,1,51.0,Federal,Ens. Médio - 1ª série
+1698,57406,2018,1,52.0,Federal,Ens. Médio - 2ª série
+1699,47202,2018,1,53.0,Federal,Ens. Médio - 3ª série
+1700,13640,2018,1,54.0,Federal,Ens. Médio - 4ª série
+1701,434,2018,1,61.0,Federal,EJA - anos iniciais do Ens. Fundamental
+1702,333,2018,1,62.0,Federal,EJA - anos finais do Ens. Fundamental
+1703,12256,2018,1,63.0,Federal,EJA - Ensino Médio
+1704,163609,2018,1,71.0,Federal,Educação Profissional
+1705,313,2018,2,11.0,Estadual,Creche - Menor de 1 ano
+1706,648,2018,2,12.0,Estadual,Creche - 1 ano
+1707,1146,2018,2,13.0,Estadual,Creche - 2 anos
+1708,2926,2018,2,14.0,Estadual,Creche - 3 anos
+1709,23851,2018,2,21.0,Estadual,Pré-escola - 4 anos
+1710,59872,2018,2,22.0,Estadual,Pré-escola - 5 anos
+1711,317680,2018,2,31.0,Estadual,Ens. Fundamental - 1º Ano
+1712,368750,2018,2,32.0,Estadual,Ens. Fundamental - 1ª série/2º ano
+1713,417125,2018,2,33.0,Estadual,Ens. Fundamental - 2ª série/3º ano
+1714,431434,2018,2,34.0,Estadual,Ens. Fundamental - 3ª série/4º ano
+1715,463447,2018,2,35.0,Estadual,Ens. Fundamental - 4ª série/5º Ano
+1716,1281861,2018,2,41.0,Estadual,Ens. Fundamental - 5ª série/6º ano
+1717,1270873,2018,2,42.0,Estadual,Ens. Fundamental - 6ª série/7º ano
+1718,1242326,2018,2,43.0,Estadual,Ens. Fundamental - 7ª série/8º ano
+1719,1236366,2018,2,44.0,Estadual,Ens. Fundamental - 8ª serie/9º ano
+1720,2540290,2018,2,51.0,Estadual,Ens. Médio - 1ª série
+1721,2110810,2018,2,52.0,Estadual,Ens. Médio - 2ª série
+1722,1835260,2018,2,53.0,Estadual,Ens. Médio - 3ª série
+1723,40714,2018,2,54.0,Estadual,Ens. Médio - 4ª série
+1724,179716,2018,2,61.0,Estadual,EJA - anos iniciais do Ens. Fundamental
+1725,517132,2018,2,62.0,Estadual,EJA - anos finais do Ens. Fundamental
+1726,1259772,2018,2,63.0,Estadual,EJA - Ensino Médio
+1727,344104,2018,2,71.0,Estadual,Educação Profissional
+1728,132409,2018,3,11.0,Municipal,Creche - Menor de 1 ano
+1729,394337,2018,3,12.0,Municipal,Creche - 1 ano
+1730,785309,2018,3,13.0,Municipal,Creche - 2 anos
+1731,1267101,2018,3,14.0,Municipal,Creche - 3 anos
+1732,1913687,2018,3,21.0,Municipal,Pré-escola - 4 anos
+1733,1993465,2018,3,22.0,Municipal,Pré-escola - 5 anos
+1734,1691889,2018,3,31.0,Municipal,Ens. Fundamental - 1º Ano
+1735,1924562,2018,3,32.0,Municipal,Ens. Fundamental - 1ª série/2º ano
+1736,2180444,2018,3,33.0,Municipal,Ens. Fundamental - 2ª série/3º ano
+1737,2145606,2018,3,34.0,Municipal,Ens. Fundamental - 3ª série/4º ano
+1738,2118116,2018,3,35.0,Municipal,Ens. Fundamental - 4ª série/5º Ano
+1739,1554619,2018,3,41.0,Municipal,Ens. Fundamental - 5ª série/6º ano
+1740,1366362,2018,3,42.0,Municipal,Ens. Fundamental - 6ª série/7º ano
+1741,1182094,2018,3,43.0,Municipal,Ens. Fundamental - 7ª série/8º ano
+1742,1040085,2018,3,44.0,Municipal,Ens. Fundamental - 8ª serie/9º ano
+1743,14640,2018,3,51.0,Municipal,Ens. Médio - 1ª série
+1744,13416,2018,3,52.0,Municipal,Ens. Médio - 2ª série
+1745,12535,2018,3,53.0,Municipal,Ens. Médio - 3ª série
+1746,869,2018,3,54.0,Municipal,Ens. Médio - 4ª série
+1747,550338,2018,3,61.0,Municipal,EJA - anos iniciais do Ens. Fundamental
+1748,772355,2018,3,62.0,Municipal,EJA - anos finais do Ens. Fundamental
+1749,32019,2018,3,63.0,Municipal,EJA - Ensino Médio
+1750,16867,2018,3,71.0,Municipal,Educação Profissional
+1751,43067,2018,4,11.0,Privada conveniada sem fins lucrativos,Creche - Menor de 1 ano
+1752,118480,2018,4,12.0,Privada conveniada sem fins lucrativos,Creche - 1 ano
+1753,198933,2018,4,13.0,Privada conveniada sem fins lucrativos,Creche - 2 anos
+1754,224910,2018,4,14.0,Privada conveniada sem fins lucrativos,Creche - 3 anos
+1755,86052,2018,4,21.0,Privada conveniada sem fins lucrativos,Pré-escola - 4 anos
+1756,66477,2018,4,22.0,Privada conveniada sem fins lucrativos,Pré-escola - 5 anos
+1757,38172,2018,4,31.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+1758,35166,2018,4,32.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1759,28448,2018,4,33.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1760,25882,2018,4,34.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1761,26014,2018,4,35.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1762,17261,2018,4,41.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1763,16325,2018,4,42.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1764,15713,2018,4,43.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1765,15277,2018,4,44.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1766,12820,2018,4,51.0,Privada conveniada sem fins lucrativos,Ens. Médio - 1ª série
+1767,10786,2018,4,52.0,Privada conveniada sem fins lucrativos,Ens. Médio - 2ª série
+1768,9008,2018,4,53.0,Privada conveniada sem fins lucrativos,Ens. Médio - 3ª série
+1769,731,2018,4,54.0,Privada conveniada sem fins lucrativos,Ens. Médio - 4ª série
+1770,40059,2018,4,61.0,Privada conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1771,8373,2018,4,62.0,Privada conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+1772,901,2018,4,63.0,Privada conveniada sem fins lucrativos,EJA - Ensino Médio
+1773,6078,2018,4,71.0,Privada conveniada sem fins lucrativos,Educação Profissional
+1774,1336,2018,5,11.0,Privada conveniada com fins lucrativos,Creche - Menor de 1 ano
+1775,3916,2018,5,12.0,Privada conveniada com fins lucrativos,Creche - 1 ano
+1776,8769,2018,5,13.0,Privada conveniada com fins lucrativos,Creche - 2 anos
+1777,12754,2018,5,14.0,Privada conveniada com fins lucrativos,Creche - 3 anos
+1778,12617,2018,5,21.0,Privada conveniada com fins lucrativos,Pré-escola - 4 anos
+1779,12740,2018,5,22.0,Privada conveniada com fins lucrativos,Pré-escola - 5 anos
+1780,11661,2018,5,31.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+1781,13049,2018,5,32.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1782,12754,2018,5,33.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1783,12487,2018,5,34.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1784,11797,2018,5,35.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1785,12547,2018,5,41.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1786,11909,2018,5,42.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1787,11523,2018,5,43.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1788,10663,2018,5,44.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1789,7710,2018,5,51.0,Privada conveniada com fins lucrativos,Ens. Médio - 1ª série
+1790,6806,2018,5,52.0,Privada conveniada com fins lucrativos,Ens. Médio - 2ª série
+1791,6312,2018,5,53.0,Privada conveniada com fins lucrativos,Ens. Médio - 3ª série
+1792,63,2018,5,54.0,Privada conveniada com fins lucrativos,Ens. Médio - 4ª série
+1793,348,2018,5,61.0,Privada conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1794,642,2018,5,62.0,Privada conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+1795,2287,2018,5,63.0,Privada conveniada com fins lucrativos,EJA - Ensino Médio
+1796,40303,2018,5,71.0,Privada conveniada com fins lucrativos,Educação Profissional
+1797,1254,2018,6,11.0,Privada não conveniada sem fins lucrativos,Creche - Menor de 1 ano
+1798,5856,2018,6,12.0,Privada não conveniada sem fins lucrativos,Creche - 1 ano
+1799,17965,2018,6,13.0,Privada não conveniada sem fins lucrativos,Creche - 2 anos
+1800,30338,2018,6,14.0,Privada não conveniada sem fins lucrativos,Creche - 3 anos
+1801,38722,2018,6,21.0,Privada não conveniada sem fins lucrativos,Pré-escola - 4 anos
+1802,47286,2018,6,22.0,Privada não conveniada sem fins lucrativos,Pré-escola - 5 anos
+1803,46739,2018,6,31.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+1804,57877,2018,6,32.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1805,57590,2018,6,33.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1806,58184,2018,6,34.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1807,57009,2018,6,35.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1808,57908,2018,6,41.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1809,54975,2018,6,42.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1810,54394,2018,6,43.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1811,53614,2018,6,44.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1812,44421,2018,6,51.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 1ª série
+1813,39561,2018,6,52.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 2ª série
+1814,34529,2018,6,53.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 3ª série
+1815,242,2018,6,54.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 4ª série
+1816,777,2018,6,61.0,Privada não conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1817,3502,2018,6,62.0,Privada não conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+1818,6256,2018,6,63.0,Privada não conveniada sem fins lucrativos,EJA - Ensino Médio
+1819,13699,2018,6,71.0,Privada não conveniada sem fins lucrativos,Educação Profissional
+1820,26209,2018,7,11.0,Privada não conveniada com fins lucrativos,Creche - Menor de 1 ano
+1821,87088,2018,7,12.0,Privada não conveniada com fins lucrativos,Creche - 1 ano
+1822,228829,2018,7,13.0,Privada não conveniada com fins lucrativos,Creche - 2 anos
+1823,364327,2018,7,14.0,Privada não conveniada com fins lucrativos,Creche - 3 anos
+1824,429560,2018,7,21.0,Privada não conveniada com fins lucrativos,Pré-escola - 4 anos
+1825,454583,2018,7,22.0,Privada não conveniada com fins lucrativos,Pré-escola - 5 anos
+1826,414298,2018,7,31.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+1827,486520,2018,7,32.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1828,473604,2018,7,33.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1829,457293,2018,7,34.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1830,430860,2018,7,35.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1831,406076,2018,7,41.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1832,371349,2018,7,42.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1833,360448,2018,7,43.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1834,347911,2018,7,44.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1835,274935,2018,7,51.0,Privada não conveniada com fins lucrativos,Ens. Médio - 1ª série
+1836,250712,2018,7,52.0,Privada não conveniada com fins lucrativos,Ens. Médio - 2ª série
+1837,232399,2018,7,53.0,Privada não conveniada com fins lucrativos,Ens. Médio - 3ª série
+1838,1002,2018,7,54.0,Privada não conveniada com fins lucrativos,Ens. Médio - 4ª série
+1839,9516,2018,7,61.0,Privada não conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1840,24630,2018,7,62.0,Privada não conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+1841,124340,2018,7,63.0,Privada não conveniada com fins lucrativos,EJA - Ensino Médio
+1842,686136,2018,7,71.0,Privada não conveniada com fins lucrativos,Educação Profissional
+1843,119,2019,1,11.0,Federal,Creche - Menor de 1 ano
+1844,239,2019,1,12.0,Federal,Creche - 1 ano
+1845,379,2019,1,13.0,Federal,Creche - 2 anos
+1846,583,2019,1,14.0,Federal,Creche - 3 anos
+1847,759,2019,1,21.0,Federal,Pré-escola - 4 anos
+1848,631,2019,1,22.0,Federal,Pré-escola - 5 anos
+1849,1166,2019,1,31.0,Federal,Ens. Fundamental - 1º Ano
+1850,1366,2019,1,32.0,Federal,Ens. Fundamental - 1ª série/2º ano
+1851,1566,2019,1,33.0,Federal,Ens. Fundamental - 2ª série/3º ano
+1852,1605,2019,1,34.0,Federal,Ens. Fundamental - 3ª série/4º ano
+1853,1549,2019,1,35.0,Federal,Ens. Fundamental - 4ª série/5º Ano
+1854,3344,2019,1,41.0,Federal,Ens. Fundamental - 5ª série/6º ano
+1855,3818,2019,1,42.0,Federal,Ens. Fundamental - 6ª série/7º ano
+1856,3991,2019,1,43.0,Federal,Ens. Fundamental - 7ª série/8º ano
+1857,4684,2019,1,44.0,Federal,Ens. Fundamental - 8ª serie/9º ano
+1858,94417,2019,1,51.0,Federal,Ens. Médio - 1ª série
+1859,62751,2019,1,52.0,Federal,Ens. Médio - 2ª série
+1860,51946,2019,1,53.0,Federal,Ens. Médio - 3ª série
+1861,14999,2019,1,54.0,Federal,Ens. Médio - 4ª série
+1862,362,2019,1,61.0,Federal,EJA - anos iniciais do Ens. Fundamental
+1863,332,2019,1,62.0,Federal,EJA - anos finais do Ens. Fundamental
+1864,13627,2019,1,63.0,Federal,EJA - Ensino Médio
+1865,140574,2019,1,71.0,Federal,Educação Profissional
+1866,297,2019,2,11.0,Estadual,Creche - Menor de 1 ano
+1867,573,2019,2,12.0,Estadual,Creche - 1 ano
+1868,1083,2019,2,13.0,Estadual,Creche - 2 anos
+1869,2788,2019,2,14.0,Estadual,Creche - 3 anos
+1870,24892,2019,2,21.0,Estadual,Pré-escola - 4 anos
+1871,56622,2019,2,22.0,Estadual,Pré-escola - 5 anos
+1872,308314,2019,2,31.0,Estadual,Ens. Fundamental - 1º Ano
+1873,369163,2019,2,32.0,Estadual,Ens. Fundamental - 1ª série/2º ano
+1874,409373,2019,2,33.0,Estadual,Ens. Fundamental - 2ª série/3º ano
+1875,411483,2019,2,34.0,Estadual,Ens. Fundamental - 3ª série/4º ano
+1876,446739,2019,2,35.0,Estadual,Ens. Fundamental - 4ª série/5º Ano
+1877,1259752,2019,2,41.0,Estadual,Ens. Fundamental - 5ª série/6º ano
+1878,1259862,2019,2,42.0,Estadual,Ens. Fundamental - 6ª série/7º ano
+1879,1211104,2019,2,43.0,Estadual,Ens. Fundamental - 7ª série/8º ano
+1880,1218719,2019,2,44.0,Estadual,Ens. Fundamental - 8ª serie/9º ano
+1881,2511831,2019,2,51.0,Estadual,Ens. Médio - 1ª série
+1882,1958680,2019,2,52.0,Estadual,Ens. Médio - 2ª série
+1883,1768677,2019,2,53.0,Estadual,Ens. Médio - 3ª série
+1884,27632,2019,2,54.0,Estadual,Ens. Médio - 4ª série
+1885,108479,2019,2,61.0,Estadual,EJA - anos iniciais do Ens. Fundamental
+1886,471142,2019,2,62.0,Estadual,EJA - anos finais do Ens. Fundamental
+1887,1164906,2019,2,63.0,Estadual,EJA - Ensino Médio
+1888,314922,2019,2,71.0,Estadual,Educação Profissional
+1889,133927,2019,3,11.0,Municipal,Creche - Menor de 1 ano
+1890,420763,2019,3,12.0,Municipal,Creche - 1 ano
+1891,778986,2019,3,13.0,Municipal,Creche - 2 anos
+1892,1262279,2019,3,14.0,Municipal,Creche - 3 anos
+1893,1986133,2019,3,21.0,Municipal,Pré-escola - 4 anos
+1894,2019921,2019,3,22.0,Municipal,Pré-escola - 5 anos
+1895,1700196,2019,3,31.0,Municipal,Ens. Fundamental - 1º Ano
+1896,1920435,2019,3,32.0,Municipal,Ens. Fundamental - 1ª série/2º ano
+1897,2153486,2019,3,33.0,Municipal,Ens. Fundamental - 2ª série/3º ano
+1898,2088349,2019,3,34.0,Municipal,Ens. Fundamental - 3ª série/4º ano
+1899,2100515,2019,3,35.0,Municipal,Ens. Fundamental - 4ª série/5º Ano
+1900,1524116,2019,3,41.0,Municipal,Ens. Fundamental - 5ª série/6º ano
+1901,1372371,2019,3,42.0,Municipal,Ens. Fundamental - 6ª série/7º ano
+1902,1183808,2019,3,43.0,Municipal,Ens. Fundamental - 7ª série/8º ano
+1903,1021717,2019,3,44.0,Municipal,Ens. Fundamental - 8ª serie/9º ano
+1904,15695,2019,3,51.0,Municipal,Ens. Médio - 1ª série
+1905,12100,2019,3,52.0,Municipal,Ens. Médio - 2ª série
+1906,11914,2019,3,53.0,Municipal,Ens. Médio - 3ª série
+1907,856,2019,3,54.0,Municipal,Ens. Médio - 4ª série
+1908,526431,2019,3,61.0,Municipal,EJA - anos iniciais do Ens. Fundamental
+1909,749448,2019,3,62.0,Municipal,EJA - anos finais do Ens. Fundamental
+1910,28696,2019,3,63.0,Municipal,EJA - Ensino Médio
+1911,15479,2019,3,71.0,Municipal,Educação Profissional
+1912,45822,2019,4,11.0,Privada conveniada sem fins lucrativos,Creche - Menor de 1 ano
+1913,132144,2019,4,12.0,Privada conveniada sem fins lucrativos,Creche - 1 ano
+1914,191172,2019,4,13.0,Privada conveniada sem fins lucrativos,Creche - 2 anos
+1915,217705,2019,4,14.0,Privada conveniada sem fins lucrativos,Creche - 3 anos
+1916,78017,2019,4,21.0,Privada conveniada sem fins lucrativos,Pré-escola - 4 anos
+1917,54537,2019,4,22.0,Privada conveniada sem fins lucrativos,Pré-escola - 5 anos
+1918,24970,2019,4,31.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+1919,23806,2019,4,32.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1920,17303,2019,4,33.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1921,14650,2019,4,34.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1922,15980,2019,4,35.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1923,7498,2019,4,41.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1924,7001,2019,4,42.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1925,6738,2019,4,43.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1926,6336,2019,4,44.0,Privada conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1927,6263,2019,4,51.0,Privada conveniada sem fins lucrativos,Ens. Médio - 1ª série
+1928,4901,2019,4,52.0,Privada conveniada sem fins lucrativos,Ens. Médio - 2ª série
+1929,4277,2019,4,53.0,Privada conveniada sem fins lucrativos,Ens. Médio - 3ª série
+1930,631,2019,4,54.0,Privada conveniada sem fins lucrativos,Ens. Médio - 4ª série
+1931,32234,2019,4,61.0,Privada conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1932,6692,2019,4,62.0,Privada conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+1933,515,2019,4,63.0,Privada conveniada sem fins lucrativos,EJA - Ensino Médio
+1934,3460,2019,4,71.0,Privada conveniada sem fins lucrativos,Educação Profissional
+1935,865,2019,5,11.0,Privada conveniada com fins lucrativos,Creche - Menor de 1 ano
+1936,2466,2019,5,12.0,Privada conveniada com fins lucrativos,Creche - 1 ano
+1937,3611,2019,5,13.0,Privada conveniada com fins lucrativos,Creche - 2 anos
+1938,4416,2019,5,14.0,Privada conveniada com fins lucrativos,Creche - 3 anos
+1939,3287,2019,5,21.0,Privada conveniada com fins lucrativos,Pré-escola - 4 anos
+1940,2943,2019,5,22.0,Privada conveniada com fins lucrativos,Pré-escola - 5 anos
+1941,2726,2019,5,31.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+1942,3054,2019,5,32.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1943,2688,2019,5,33.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1944,2462,2019,5,34.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1945,2584,2019,5,35.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1946,3585,2019,5,41.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1947,3412,2019,5,42.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1948,3352,2019,5,43.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1949,3308,2019,5,44.0,Privada conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1950,2356,2019,5,51.0,Privada conveniada com fins lucrativos,Ens. Médio - 1ª série
+1951,1807,2019,5,52.0,Privada conveniada com fins lucrativos,Ens. Médio - 2ª série
+1952,1723,2019,5,53.0,Privada conveniada com fins lucrativos,Ens. Médio - 3ª série
+1953,1759,2019,5,61.0,Privada conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1954,572,2019,5,62.0,Privada conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+1955,1172,2019,5,63.0,Privada conveniada com fins lucrativos,EJA - Ensino Médio
+1956,4377,2019,5,71.0,Privada conveniada com fins lucrativos,Educação Profissional
+1957,2672,2019,6,11.0,Privada não conveniada sem fins lucrativos,Creche - Menor de 1 ano
+1958,11883,2019,6,12.0,Privada não conveniada sem fins lucrativos,Creche - 1 ano
+1959,28717,2019,6,13.0,Privada não conveniada sem fins lucrativos,Creche - 2 anos
+1960,47829,2019,6,14.0,Privada não conveniada sem fins lucrativos,Creche - 3 anos
+1961,57398,2019,6,21.0,Privada não conveniada sem fins lucrativos,Pré-escola - 4 anos
+1962,63493,2019,6,22.0,Privada não conveniada sem fins lucrativos,Pré-escola - 5 anos
+1963,61323,2019,6,31.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1º Ano
+1964,71526,2019,6,32.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1965,73234,2019,6,33.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1966,72844,2019,6,34.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1967,73613,2019,6,35.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1968,72822,2019,6,41.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1969,69623,2019,6,42.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1970,65599,2019,6,43.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1971,64551,2019,6,44.0,Privada não conveniada sem fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1972,54529,2019,6,51.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 1ª série
+1973,47622,2019,6,52.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 2ª série
+1974,43738,2019,6,53.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 3ª série
+1975,232,2019,6,54.0,Privada não conveniada sem fins lucrativos,Ens. Médio - 4ª série
+1976,6751,2019,6,61.0,Privada não conveniada sem fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+1977,4191,2019,6,62.0,Privada não conveniada sem fins lucrativos,EJA - anos finais do Ens. Fundamental
+1978,6588,2019,6,63.0,Privada não conveniada sem fins lucrativos,EJA - Ensino Médio
+1979,17685,2019,6,71.0,Privada não conveniada sem fins lucrativos,Educação Profissional
+1980,28432,2019,7,11.0,Privada não conveniada com fins lucrativos,Creche - Menor de 1 ano
+1981,98979,2019,7,12.0,Privada não conveniada com fins lucrativos,Creche - 1 ano
+1982,222300,2019,7,13.0,Privada não conveniada com fins lucrativos,Creche - 2 anos
+1983,378064,2019,7,14.0,Privada não conveniada com fins lucrativos,Creche - 3 anos
+1984,453838,2019,7,21.0,Privada não conveniada com fins lucrativos,Pré-escola - 4 anos
+1985,468250,2019,7,22.0,Privada não conveniada com fins lucrativos,Pré-escola - 5 anos
+1986,428252,2019,7,31.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1º Ano
+1987,493240,2019,7,32.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 1ª série/2º ano
+1988,483959,2019,7,33.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 2ª série/3º ano
+1989,467077,2019,7,34.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 3ª série/4º ano
+1990,450866,2019,7,35.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 4ª série/5º Ano
+1991,419929,2019,7,41.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 5ª série/6º ano
+1992,393477,2019,7,42.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 6ª série/7º ano
+1993,359762,2019,7,43.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 7ª série/8º ano
+1994,350953,2019,7,44.0,Privada não conveniada com fins lucrativos,Ens. Fundamental - 8ª serie/9º ano
+1995,283814,2019,7,51.0,Privada não conveniada com fins lucrativos,Ens. Médio - 1ª série
+1996,246463,2019,7,52.0,Privada não conveniada com fins lucrativos,Ens. Médio - 2ª série
+1997,234991,2019,7,53.0,Privada não conveniada com fins lucrativos,Ens. Médio - 3ª série
+1998,1046,2019,7,54.0,Privada não conveniada com fins lucrativos,Ens. Médio - 4ª série
+1999,7592,2019,7,61.0,Privada não conveniada com fins lucrativos,EJA - anos iniciais do Ens. Fundamental
+2000,21598,2019,7,62.0,Privada não conveniada com fins lucrativos,EJA - anos finais do Ens. Fundamental
+2001,120581,2019,7,63.0,Privada não conveniada com fins lucrativos,EJA - Ensino Médio
+2002,741682,2019,7,71.0,Privada não conveniada com fins lucrativos,Educação Profissional
