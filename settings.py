@@ -73,7 +73,29 @@ SIMCAQ_ROUTE_LIST = [
 	['count','adm_dependency:[\"1\",\"2\",\"3\"],school_building:\"true\"&dims=location'],
 	['count','adm_dependency:[\"1\",\"2\",\"3\"],school_building:\"false\"'],
 	['school_infrastructure','adm_dependency:[\"1\",\"2\",\"3\"]&dims=location'],
-	['cub','min_month:\"10\",max_month\"10\"']
+	['cub','min_month:\"10\",max_month\"10\"'],
+	#### Segundo Relatorio
+	['population', '&dims=state'],
+	['pib_per_capita', '&dims=state'],
+	['school/count', '&dims=adm_dependency_detailed,location'],
+	['enrollment', '&dims=adm_dependency_detailed,location'],
+	['class','adm_dependency:[\"1\",\"2\",\"3\"]'],
+	['auxiliar','adm_dependency:[\"1\",\"2\",\"3\"],education_level_mod:[\"1\",\"2\",\"4\",\"5\",\"6\",\"8\",\"9\"]'],
+	['classroom',',adm_dependency:[\"1\",\"2\",\"3\"]'],
+	['school/count','adm_dependency:[1,2,3],school_building:true&dims=location'],
+	['school/count','adm_dependency:[1,2,3],school_building:true'],
+	['school/count','adm_dependency:[1,2,3],school_building:false'],
+	['cub','min_month:\"10\",max_month\"\10\"&dims=state'],
+	['employees','adm_dependency:[\"1\",\"2\",\"3\"]'],
+	['enrollment','&dims=school_year'],
+	['enrollment','&dims=school_year,adm_dependency_detailed'],
+	['enrollment','&dims=school_year,location'],
+	['enrollment_projection',''],
+	['financial','sphere_adm:[\"1\",\"2\"],financial_data:[\"1\",\"3\"]'],
+	['school_infrastructure','adm_dependency:[1,2,3]&dims=location'],
+	['school_infrastructure',',adm_dependency:[1,2,3]&dims=state,location'],
+	['teacher',',adm_dependency:[\"1\",\"2\",\"3\"],education_type:[\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]&dims=education_type'],
+	['teacher',',adm_dependency:[\"1\",\"2\",\"3\"]']
 
 ]
 
