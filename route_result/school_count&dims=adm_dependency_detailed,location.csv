@@ -1,0 +1,17 @@
+﻿,total,name,year,location_id,adm_dependency_detailed_id,location_name,adm_dependency_detailed_name
+0,605,Brasil,2019,1,1,Urbana,Federal
+1,24827,Brasil,2019,1,2,Urbana,Estadual
+2,59051,Brasil,2019,1,3,Urbana,Municipal
+3,6672,Brasil,2019,1,4,Urbana,Privada conveniada sem fins lucrativos
+4,366,Brasil,2019,1,5,Urbana,Privada conveniada com fins lucrativos
+5,2405,Brasil,2019,1,6,Urbana,Privada não conveniada sem fins lucrativos
+6,31339,Brasil,2019,1,7,Urbana,Privada não conveniada com fins lucrativos
+7,31968,Brasil,2007,1,8,Urbana,Privada sem detalhamento
+8,93,Brasil,2019,2,1,Rural,Federal
+9,5333,Brasil,2019,2,2,Rural,Estadual
+10,49267,Brasil,2019,2,3,Rural,Municipal
+11,301,Brasil,2019,2,4,Rural,Privada conveniada sem fins lucrativos
+12,3,Brasil,2019,2,5,Rural,Privada conveniada com fins lucrativos
+13,108,Brasil,2019,2,6,Rural,Privada não conveniada sem fins lucrativos
+14,240,Brasil,2019,2,7,Rural,Privada não conveniada com fins lucrativos
+15,626,Brasil,2007,2,8,Rural,Privada sem detalhamento
