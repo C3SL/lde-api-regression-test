@@ -1,14 +1,131 @@
-﻿,total,name,year
-0,1878284,Brasil,2007
-1,1983130,Brasil,2008
-2,1795217,Brasil,2009
-3,1999518,Brasil,2010
-4,2039261,Brasil,2011
-5,2095013,Brasil,2012
-6,2141676,Brasil,2013
-7,2184267,Brasil,2014
-8,2187154,Brasil,2015
-9,2196397,Brasil,2016
-10,2192224,Brasil,2017
-11,2226423,Brasil,2018
-12,2212018,Brasil,2019
+﻿,total,name,year,education_type_id,education_type_name
+0,80667,Brasil,2007,3,Ensino Médio
+1,404899,Brasil,2007,4,Ensino Médio na modalidade normal
+2,70287,Brasil,2007,5,Superior bacharelado ou tecnólogo
+3,715535,Brasil,2007,6,Superior licenciatura ou complementação pedagógica
+4,19366,Brasil,2007,7,Especialização com bacharelado ou tecnólogo
+5,250931,Brasil,2007,8,Especialização com licenciatura
+6,2046,Brasil,2007,9,Mestrado com bacharelado ou tecnólogo
+7,10481,Brasil,2007,10,Mestrado com licenciatura
+8,490,Brasil,2007,11,Doutorado com bacharelado ou tecnólogo
+9,1486,Brasil,2007,12,Doutorado com licenciatura
+10,91436,Brasil,2008,3,Ensino Médio
+11,418859,Brasil,2008,4,Ensino Médio na modalidade normal
+12,23753,Brasil,2008,5,Superior bacharelado ou tecnólogo
+13,669131,Brasil,2008,6,Superior licenciatura ou complementação pedagógica
+14,9124,Brasil,2008,7,Especialização com bacharelado ou tecnólogo
+15,389512,Brasil,2008,8,Especialização com licenciatura
+16,2195,Brasil,2008,9,Mestrado com bacharelado ou tecnólogo
+17,15778,Brasil,2008,10,Mestrado com licenciatura
+18,669,Brasil,2008,11,Doutorado com bacharelado ou tecnólogo
+19,2088,Brasil,2008,12,Doutorado com licenciatura
+20,89215,Brasil,2009,3,Ensino Médio
+21,371694,Brasil,2009,4,Ensino Médio na modalidade normal
+22,28146,Brasil,2009,5,Superior bacharelado ou tecnólogo
+23,624139,Brasil,2009,6,Superior licenciatura ou complementação pedagógica
+24,8935,Brasil,2009,7,Especialização com bacharelado ou tecnólogo
+25,326964,Brasil,2009,8,Especialização com licenciatura
+26,2002,Brasil,2009,9,Mestrado com bacharelado ou tecnólogo
+27,12815,Brasil,2009,10,Mestrado com licenciatura
+28,647,Brasil,2009,11,Doutorado com bacharelado ou tecnólogo
+29,1738,Brasil,2009,12,Doutorado com licenciatura
+30,114801,Brasil,2010,3,Ensino Médio
+31,358103,Brasil,2010,4,Ensino Médio na modalidade normal
+32,31073,Brasil,2010,5,Superior bacharelado ou tecnólogo
+33,704996,Brasil,2010,6,Superior licenciatura ou complementação pedagógica
+34,9918,Brasil,2010,7,Especialização com bacharelado ou tecnólogo
+35,387749,Brasil,2010,8,Especialização com licenciatura
+36,2829,Brasil,2010,9,Mestrado com bacharelado ou tecnólogo
+37,15230,Brasil,2010,10,Mestrado com licenciatura
+38,898,Brasil,2010,11,Doutorado com bacharelado ou tecnólogo
+39,2058,Brasil,2010,12,Doutorado com licenciatura
+40,140356,Brasil,2011,3,Ensino Médio
+41,296060,Brasil,2011,4,Ensino Médio na modalidade normal
+42,28807,Brasil,2011,5,Superior bacharelado ou tecnólogo
+43,712384,Brasil,2011,6,Superior licenciatura ou complementação pedagógica
+44,11190,Brasil,2011,7,Especialização com bacharelado ou tecnólogo
+45,433210,Brasil,2011,8,Especialização com licenciatura
+46,3131,Brasil,2011,9,Mestrado com bacharelado ou tecnólogo
+47,17689,Brasil,2011,10,Mestrado com licenciatura
+48,943,Brasil,2011,11,Doutorado com bacharelado ou tecnólogo
+49,2457,Brasil,2011,12,Doutorado com licenciatura
+50,159178,Brasil,2012,3,Ensino Médio
+51,246866,Brasil,2012,4,Ensino Médio na modalidade normal
+52,45792,Brasil,2012,5,Superior bacharelado ou tecnólogo
+53,719543,Brasil,2012,6,Superior licenciatura ou complementação pedagógica
+54,21141,Brasil,2012,7,Especialização com bacharelado ou tecnólogo
+55,463162,Brasil,2012,8,Especialização com licenciatura
+56,4218,Brasil,2012,9,Mestrado com bacharelado ou tecnólogo
+57,19949,Brasil,2012,10,Mestrado com licenciatura
+58,1125,Brasil,2012,11,Doutorado com bacharelado ou tecnólogo
+59,2850,Brasil,2012,12,Doutorado com licenciatura
+60,170894,Brasil,2013,3,Ensino Médio
+61,213903,Brasil,2013,4,Ensino Médio na modalidade normal
+62,45472,Brasil,2013,5,Superior bacharelado ou tecnólogo
+63,730214,Brasil,2013,6,Superior licenciatura ou complementação pedagógica
+64,20303,Brasil,2013,7,Especialização com bacharelado ou tecnólogo
+65,506399,Brasil,2013,8,Especialização com licenciatura
+66,4559,Brasil,2013,9,Mestrado com bacharelado ou tecnólogo
+67,21903,Brasil,2013,10,Mestrado com licenciatura
+68,1232,Brasil,2013,11,Doutorado com bacharelado ou tecnólogo
+69,3186,Brasil,2013,12,Doutorado com licenciatura
+70,175673,Brasil,2014,3,Ensino Médio
+71,188273,Brasil,2014,4,Ensino Médio na modalidade normal
+72,38419,Brasil,2014,5,Superior bacharelado ou tecnólogo
+73,750101,Brasil,2014,6,Superior licenciatura ou complementação pedagógica
+74,17581,Brasil,2014,7,Especialização com bacharelado ou tecnólogo
+75,538483,Brasil,2014,8,Especialização com licenciatura
+76,4565,Brasil,2014,9,Mestrado com bacharelado ou tecnólogo
+77,23589,Brasil,2014,10,Mestrado com licenciatura
+78,1339,Brasil,2014,11,Doutorado com bacharelado ou tecnólogo
+79,3694,Brasil,2014,12,Doutorado com licenciatura
+80,173413,Brasil,2015,3,Ensino Médio
+81,181359,Brasil,2015,4,Ensino Médio na modalidade normal
+82,37397,Brasil,2015,5,Superior bacharelado ou tecnólogo
+83,721340,Brasil,2015,6,Superior licenciatura ou complementação pedagógica
+84,19131,Brasil,2015,7,Especialização com bacharelado ou tecnólogo
+85,566248,Brasil,2015,8,Especialização com licenciatura
+86,5307,Brasil,2015,9,Mestrado com bacharelado ou tecnólogo
+87,26424,Brasil,2015,10,Mestrado com licenciatura
+88,1581,Brasil,2015,11,Doutorado com bacharelado ou tecnólogo
+89,4212,Brasil,2015,12,Doutorado com licenciatura
+90,168149,Brasil,2016,3,Ensino Médio
+91,165316,Brasil,2016,4,Ensino Médio na modalidade normal
+92,36536,Brasil,2016,5,Superior bacharelado ou tecnólogo
+93,707568,Brasil,2016,6,Superior licenciatura ou complementação pedagógica
+94,19619,Brasil,2016,7,Especialização com bacharelado ou tecnólogo
+95,600974,Brasil,2016,8,Especialização com licenciatura
+96,5997,Brasil,2016,9,Mestrado com bacharelado ou tecnólogo
+97,30119,Brasil,2016,10,Mestrado com licenciatura
+98,1921,Brasil,2016,11,Doutorado com bacharelado ou tecnólogo
+99,5127,Brasil,2016,12,Doutorado com licenciatura
+100,163507,Brasil,2017,3,Ensino Médio
+101,153685,Brasil,2017,4,Ensino Médio na modalidade normal
+102,33842,Brasil,2017,5,Superior bacharelado ou tecnólogo
+103,688226,Brasil,2017,6,Superior licenciatura ou complementação pedagógica
+104,18495,Brasil,2017,7,Especialização com bacharelado ou tecnólogo
+105,628328,Brasil,2017,8,Especialização com licenciatura
+106,6512,Brasil,2017,9,Mestrado com bacharelado ou tecnólogo
+107,33482,Brasil,2017,10,Mestrado com licenciatura
+108,2368,Brasil,2017,11,Doutorado com bacharelado ou tecnólogo
+109,6093,Brasil,2017,12,Doutorado com licenciatura
+110,158034,Brasil,2018,3,Ensino Médio
+111,130200,Brasil,2018,4,Ensino Médio na modalidade normal
+112,24867,Brasil,2018,5,Superior bacharelado ou tecnólogo
+113,708573,Brasil,2018,6,Superior licenciatura ou complementação pedagógica
+114,15168,Brasil,2018,7,Especialização com bacharelado ou tecnólogo
+115,657652,Brasil,2018,8,Especialização com licenciatura
+116,6883,Brasil,2018,9,Mestrado com bacharelado ou tecnólogo
+117,36848,Brasil,2018,10,Mestrado com licenciatura
+118,2751,Brasil,2018,11,Doutorado com bacharelado ou tecnólogo
+119,7193,Brasil,2018,12,Doutorado com licenciatura
+120,75559,Brasil,2019,3,Ensino Médio
+121,128245,Brasil,2019,4,Ensino Médio na modalidade normal
+122,43752,Brasil,2019,5,Superior bacharelado ou tecnólogo
+123,682028,Brasil,2019,6,Superior licenciatura ou complementação pedagógica
+124,35886,Brasil,2019,7,Especialização com bacharelado ou tecnólogo
+125,697926,Brasil,2019,8,Especialização com licenciatura
+126,10827,Brasil,2019,9,Mestrado com bacharelado ou tecnólogo
+127,40765,Brasil,2019,10,Mestrado com licenciatura
+128,4363,Brasil,2019,11,Doutorado com bacharelado ou tecnólogo
+129,7596,Brasil,2019,12,Doutorado com licenciatura

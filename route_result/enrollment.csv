@@ -1,14 +1,597 @@
-﻿,total,year
-0,53028928,2007
-1,53232868,2008
-2,52580452,2009
-3,51549889,2010
-4,50972619,2011
-5,50545050,2012
-6,50042448,2013
-7,49771371,2014
-8,48796512,2015
-9,48817479,2016
-10,48608093,2017
-11,48455867,2018
-12,47874246,2019
+﻿,total,year,school_year_id,location_id,school_year_name,location_name
+0,4410278,2007,,1,Não classificada,Urbana
+1,574556,2007,,2,Não classificada,Rural
+2,96718,2007,11.0,1,Creche - Menor de 1 ano,Urbana
+3,3104,2007,11.0,2,Creche - Menor de 1 ano,Rural
+4,266859,2007,12.0,1,Creche - 1 ano,Urbana
+5,10993,2007,12.0,2,Creche - 1 ano,Rural
+6,555729,2007,13.0,1,Creche - 2 anos,Urbana
+7,40311,2007,13.0,2,Creche - 2 anos,Rural
+8,1034628,2007,14.0,1,Creche - 3 anos,Urbana
+9,134778,2007,14.0,2,Creche - 3 anos,Rural
+10,1630921,2007,21.0,1,Pré-escola - 4 anos,Urbana
+11,290123,2007,21.0,2,Pré-escola - 4 anos,Rural
+12,2095595,2007,22.0,1,Pré-escola - 5 anos,Urbana
+13,416630,2007,22.0,2,Pré-escola - 5 anos,Rural
+14,1696767,2007,31.0,1,Ens. Fundamental - 1º Ano,Urbana
+15,373485,2007,31.0,2,Ens. Fundamental - 1º Ano,Rural
+16,3153882,2007,32.0,1,Ens. Fundamental - 1ª série/2º ano,Urbana
+17,921105,2007,32.0,2,Ens. Fundamental - 1ª série/2º ano,Rural
+18,3271356,2007,33.0,1,Ens. Fundamental - 2ª série/3º ano,Urbana
+19,864781,2007,33.0,2,Ens. Fundamental - 2ª série/3º ano,Rural
+20,3084153,2007,34.0,1,Ens. Fundamental - 3ª série/4º ano,Urbana
+21,784858,2007,34.0,2,Ens. Fundamental - 3ª série/4º ano,Rural
+22,3130433,2007,35.0,1,Ens. Fundamental - 4ª série/5º Ano,Urbana
+23,715675,2007,35.0,2,Ens. Fundamental - 4ª série/5º Ano,Rural
+24,3750523,2007,41.0,1,Ens. Fundamental - 5ª série/6º ano,Urbana
+25,530054,2007,41.0,2,Ens. Fundamental - 5ª série/6º ano,Rural
+26,3342269,2007,42.0,1,Ens. Fundamental - 6ª série/7º ano,Urbana
+27,429630,2007,42.0,2,Ens. Fundamental - 6ª série/7º ano,Rural
+28,2931502,2007,43.0,1,Ens. Fundamental - 7ª série/8º ano,Urbana
+29,348585,2007,43.0,2,Ens. Fundamental - 7ª série/8º ano,Rural
+30,2739607,2007,44.0,1,Ens. Fundamental - 8ª serie/9º ano,Urbana
+31,277064,2007,44.0,2,Ens. Fundamental - 8ª serie/9º ano,Rural
+32,3373430,2007,51.0,1,Ens. Médio - 1ª série,Urbana
+33,107862,2007,51.0,2,Ens. Médio - 1ª série,Rural
+34,2552218,2007,52.0,1,Ens. Médio - 2ª série,Urbana
+35,77350,2007,52.0,2,Ens. Médio - 2ª série,Rural
+36,2152113,2007,53.0,1,Ens. Médio - 3ª série,Urbana
+37,60155,2007,53.0,2,Ens. Médio - 3ª série,Rural
+38,46618,2007,54.0,1,Ens. Médio - 4ª série,Urbana
+39,2163,2007,54.0,2,Ens. Médio - 4ª série,Rural
+40,45969,2007,61.0,1,EJA - anos iniciais do Ens. Fundamental,Urbana
+41,633,2007,61.0,2,EJA - anos iniciais do Ens. Fundamental,Rural
+42,1445,2007,62.0,1,EJA - anos finais do Ens. Fundamental,Urbana
+43,29,2007,62.0,2,EJA - anos finais do Ens. Fundamental,Rural
+44,878,2007,63.0,1,EJA - Ensino Médio,Urbana
+45,667718,2007,71.0,1,Educação Profissional,Urbana
+46,33395,2007,71.0,2,Educação Profissional,Rural
+47,4410795,2008,,1,Não classificada,Urbana
+48,535018,2008,,2,Não classificada,Rural
+49,103741,2008,11.0,1,Creche - Menor de 1 ano,Urbana
+50,2881,2008,11.0,2,Creche - Menor de 1 ano,Rural
+51,302258,2008,12.0,1,Creche - 1 ano,Urbana
+52,11103,2008,12.0,2,Creche - 1 ano,Rural
+53,638826,2008,13.0,1,Creche - 2 anos,Urbana
+54,45508,2008,13.0,2,Creche - 2 anos,Rural
+55,1139512,2008,14.0,1,Creche - 3 anos,Urbana
+56,144913,2008,14.0,2,Creche - 3 anos,Rural
+57,1741395,2008,21.0,1,Pré-escola - 4 anos,Urbana
+58,297152,2008,21.0,2,Pré-escola - 4 anos,Rural
+59,2122177,2008,22.0,1,Pré-escola - 5 anos,Urbana
+60,416713,2008,22.0,2,Pré-escola - 5 anos,Rural
+61,1780426,2008,31.0,1,Ens. Fundamental - 1º Ano,Urbana
+62,409252,2008,31.0,2,Ens. Fundamental - 1º Ano,Rural
+63,2970852,2008,32.0,1,Ens. Fundamental - 1ª série/2º ano,Urbana
+64,826132,2008,32.0,2,Ens. Fundamental - 1ª série/2º ano,Rural
+65,3125144,2008,33.0,1,Ens. Fundamental - 2ª série/3º ano,Urbana
+66,795877,2008,33.0,2,Ens. Fundamental - 2ª série/3º ano,Rural
+67,3130920,2008,34.0,1,Ens. Fundamental - 3ª série/4º ano,Urbana
+68,764668,2008,34.0,2,Ens. Fundamental - 3ª série/4º ano,Rural
+69,3135051,2008,35.0,1,Ens. Fundamental - 4ª série/5º Ano,Urbana
+70,696099,2008,35.0,2,Ens. Fundamental - 4ª série/5º Ano,Rural
+71,3715505,2008,41.0,1,Ens. Fundamental - 5ª série/6º ano,Urbana
+72,518637,2008,41.0,2,Ens. Fundamental - 5ª série/6º ano,Rural
+73,3337837,2008,42.0,1,Ens. Fundamental - 6ª série/7º ano,Urbana
+74,424777,2008,42.0,2,Ens. Fundamental - 6ª série/7º ano,Rural
+75,3013824,2008,43.0,1,Ens. Fundamental - 7ª série/8º ano,Urbana
+76,353574,2008,43.0,2,Ens. Fundamental - 7ª série/8º ano,Rural
+77,2818722,2008,44.0,1,Ens. Fundamental - 8ª serie/9º ano,Urbana
+78,291782,2008,44.0,2,Ens. Fundamental - 8ª serie/9º ano,Rural
+79,3343703,2008,51.0,1,Ens. Médio - 1ª série,Urbana
+80,110096,2008,51.0,2,Ens. Médio - 1ª série,Rural
+81,2537496,2008,52.0,1,Ens. Médio - 2ª série,Urbana
+82,78672,2008,52.0,2,Ens. Médio - 2ª série,Rural
+83,2183086,2008,53.0,1,Ens. Médio - 3ª série,Urbana
+84,61553,2008,53.0,2,Ens. Médio - 3ª série,Rural
+85,51530,2008,54.0,1,Ens. Médio - 4ª série,Urbana
+86,2372,2008,54.0,2,Ens. Médio - 4ª série,Rural
+87,39148,2008,61.0,1,EJA - anos iniciais do Ens. Fundamental,Urbana
+88,568,2008,61.0,2,EJA - anos iniciais do Ens. Fundamental,Rural
+89,2125,2008,62.0,1,EJA - anos finais do Ens. Fundamental,Urbana
+90,19,2008,62.0,2,EJA - anos finais do Ens. Fundamental,Rural
+91,1043,2008,63.0,1,EJA - Ensino Médio,Urbana
+92,767708,2008,71.0,1,Educação Profissional,Urbana
+93,32678,2008,71.0,2,Educação Profissional,Rural
+94,107062,2009,11.0,1,Creche - Menor de 1 ano,Urbana
+95,2919,2009,11.0,2,Creche - Menor de 1 ano,Rural
+96,316792,2009,12.0,1,Creche - 1 ano,Urbana
+97,11124,2009,12.0,2,Creche - 1 ano,Rural
+98,686075,2009,13.0,1,Creche - 2 anos,Urbana
+99,48703,2009,13.0,2,Creche - 2 anos,Rural
+100,1212016,2009,14.0,1,Creche - 3 anos,Urbana
+101,160443,2009,14.0,2,Creche - 3 anos,Rural
+102,1798868,2009,21.0,1,Pré-escola - 4 anos,Urbana
+103,312995,2009,21.0,2,Pré-escola - 4 anos,Rural
+104,2147028,2009,22.0,1,Pré-escola - 5 anos,Urbana
+105,408759,2009,22.0,2,Pré-escola - 5 anos,Rural
+106,1791185,2009,31.0,1,Ens. Fundamental - 1º Ano,Urbana
+107,420306,2009,31.0,2,Ens. Fundamental - 1º Ano,Rural
+108,2873564,2009,32.0,1,Ens. Fundamental - 1ª série/2º ano,Urbana
+109,749839,2009,32.0,2,Ens. Fundamental - 1ª série/2º ano,Rural
+110,2974592,2009,33.0,1,Ens. Fundamental - 2ª série/3º ano,Urbana
+111,748099,2009,33.0,2,Ens. Fundamental - 2ª série/3º ano,Rural
+112,2961573,2009,34.0,1,Ens. Fundamental - 3ª série/4º ano,Urbana
+113,707958,2009,34.0,2,Ens. Fundamental - 3ª série/4º ano,Rural
+114,3143332,2009,35.0,1,Ens. Fundamental - 4ª série/5º Ano,Urbana
+115,681093,2009,35.0,2,Ens. Fundamental - 4ª série/5º Ano,Rural
+116,3682934,2009,41.0,1,Ens. Fundamental - 5ª série/6º ano,Urbana
+117,517739,2009,41.0,2,Ens. Fundamental - 5ª série/6º ano,Rural
+118,3286223,2009,42.0,1,Ens. Fundamental - 6ª série/7º ano,Urbana
+119,418828,2009,42.0,2,Ens. Fundamental - 6ª série/7º ano,Rural
+120,3004329,2009,43.0,1,Ens. Fundamental - 7ª série/8º ano,Urbana
+121,350795,2009,43.0,2,Ens. Fundamental - 7ª série/8º ano,Rural
+122,2854283,2009,44.0,1,Ens. Fundamental - 8ª serie/9º ano,Urbana
+123,299178,2009,44.0,2,Ens. Fundamental - 8ª serie/9º ano,Rural
+124,3370642,2009,51.0,1,Ens. Médio - 1ª série,Urbana
+125,118449,2009,51.0,2,Ens. Médio - 1ª série,Rural
+126,2489483,2009,52.0,1,Ens. Médio - 2ª série,Urbana
+127,84988,2009,52.0,2,Ens. Médio - 2ª série,Rural
+128,2148714,2009,53.0,1,Ens. Médio - 3ª série,Urbana
+129,70401,2009,53.0,2,Ens. Médio - 3ª série,Rural
+130,53200,2009,54.0,1,Ens. Médio - 4ª série,Urbana
+131,2523,2009,54.0,2,Ens. Médio - 4ª série,Rural
+132,765381,2009,61.0,1,EJA - anos iniciais do Ens. Fundamental,Urbana
+133,311393,2009,61.0,2,EJA - anos iniciais do Ens. Fundamental,Rural
+134,1862280,2009,62.0,1,EJA - anos finais do Ens. Fundamental,Urbana
+135,194850,2009,62.0,2,EJA - anos finais do Ens. Fundamental,Rural
+136,1540155,2009,63.0,1,EJA - Ensino Médio,Urbana
+137,27129,2009,63.0,2,EJA - Ensino Médio,Rural
+138,830366,2009,71.0,1,Educação Profissional,Urbana
+139,31864,2009,71.0,2,Educação Profissional,Rural
+140,115987,2010,11.0,1,Creche - Menor de 1 ano,Urbana
+141,3120,2010,11.0,2,Creche - Menor de 1 ano,Rural
+142,348298,2010,12.0,1,Creche - 1 ano,Urbana
+143,11987,2010,12.0,2,Creche - 1 ano,Rural
+144,705138,2010,13.0,1,Creche - 2 anos,Urbana
+145,47320,2010,13.0,2,Creche - 2 anos,Rural
+146,1236578,2010,14.0,1,Creche - 3 anos,Urbana
+147,153891,2010,14.0,2,Creche - 3 anos,Rural
+148,1841607,2010,21.0,1,Pré-escola - 4 anos,Urbana
+149,324384,2010,21.0,2,Pré-escola - 4 anos,Rural
+150,2145824,2010,22.0,1,Pré-escola - 5 anos,Urbana
+151,402468,2010,22.0,2,Pré-escola - 5 anos,Rural
+152,1957447,2010,31.0,1,Ens. Fundamental - 1º Ano,Urbana
+153,447375,2010,31.0,2,Ens. Fundamental - 1º Ano,Rural
+154,2622132,2010,32.0,1,Ens. Fundamental - 1ª série/2º ano,Urbana
+155,637794,2010,32.0,2,Ens. Fundamental - 1ª série/2º ano,Rural
+156,2901515,2010,33.0,1,Ens. Fundamental - 2ª série/3º ano,Urbana
+157,703316,2010,33.0,2,Ens. Fundamental - 2ª série/3º ano,Rural
+158,2827554,2010,34.0,1,Ens. Fundamental - 3ª série/4º ano,Urbana
+159,669728,2010,34.0,2,Ens. Fundamental - 3ª série/4º ano,Rural
+160,2952250,2010,35.0,1,Ens. Fundamental - 4ª série/5º Ano,Urbana
+161,632596,2010,35.0,2,Ens. Fundamental - 4ª série/5º Ano,Rural
+162,3640114,2010,41.0,1,Ens. Fundamental - 5ª série/6º ano,Urbana
+163,511360,2010,41.0,2,Ens. Fundamental - 5ª série/6º ano,Rural
+164,3256939,2010,42.0,1,Ens. Fundamental - 6ª série/7º ano,Urbana
+165,419109,2010,42.0,2,Ens. Fundamental - 6ª série/7º ano,Rural
+166,2985090,2010,43.0,1,Ens. Fundamental - 7ª série/8º ano,Urbana
+167,348718,2010,43.0,2,Ens. Fundamental - 7ª série/8º ano,Rural
+168,2794144,2010,44.0,1,Ens. Fundamental - 8ª serie/9º ano,Urbana
+169,297531,2010,44.0,2,Ens. Fundamental - 8ª serie/9º ano,Rural
+170,3398418,2010,51.0,1,Ens. Médio - 1ª série,Urbana
+171,124407,2010,51.0,2,Ens. Médio - 1ª série,Rural
+172,2489404,2010,52.0,1,Ens. Médio - 2ª série,Urbana
+173,89630,2010,52.0,2,Ens. Médio - 2ª série,Rural
+174,2125340,2010,53.0,1,Ens. Médio - 3ª série,Urbana
+175,72482,2010,53.0,2,Ens. Médio - 3ª série,Rural
+176,55828,2010,54.0,1,Ens. Médio - 4ª série,Urbana
+177,2568,2010,54.0,2,Ens. Médio - 4ª série,Rural
+178,684593,2010,61.0,1,EJA - anos iniciais do Ens. Fundamental,Urbana
+179,288684,2010,61.0,2,EJA - anos iniciais do Ens. Fundamental,Rural
+180,1735951,2010,62.0,1,EJA - anos finais do Ens. Fundamental,Urbana
+181,188653,2010,62.0,2,EJA - anos finais do Ens. Fundamental,Rural
+182,1401246,2010,63.0,1,EJA - Ensino Médio,Urbana
+183,26051,2010,63.0,2,EJA - Ensino Médio,Rural
+184,890534,2010,71.0,1,Educação Profissional,Urbana
+185,34786,2010,71.0,2,Educação Profissional,Rural
+186,120386,2011,11.0,1,Creche - Menor de 1 ano,Urbana
+187,2811,2011,11.0,2,Creche - Menor de 1 ano,Rural
+188,368223,2011,12.0,1,Creche - 1 ano,Urbana
+189,11374,2011,12.0,2,Creche - 1 ano,Rural
+190,765493,2011,13.0,1,Creche - 2 anos,Urbana
+191,46018,2011,13.0,2,Creche - 2 anos,Rural
+192,1250047,2011,14.0,1,Creche - 3 anos,Urbana
+193,144157,2011,14.0,2,Creche - 3 anos,Rural
+194,1876623,2011,21.0,1,Pré-escola - 4 anos,Urbana
+195,320495,2011,21.0,2,Pré-escola - 4 anos,Rural
+196,2182514,2011,22.0,1,Pré-escola - 5 anos,Urbana
+197,405437,2011,22.0,2,Pré-escola - 5 anos,Rural
+198,2022179,2011,31.0,1,Ens. Fundamental - 1º Ano,Urbana
+199,440810,2011,31.0,2,Ens. Fundamental - 1º Ano,Rural
+200,2688914,2011,32.0,1,Ens. Fundamental - 1ª série/2º ano,Urbana
+201,600201,2011,32.0,2,Ens. Fundamental - 1ª série/2º ano,Rural
+202,2716671,2011,33.0,1,Ens. Fundamental - 2ª série/3º ano,Urbana
+203,649658,2011,33.0,2,Ens. Fundamental - 2ª série/3º ano,Rural
+204,2776542,2011,34.0,1,Ens. Fundamental - 3ª série/4º ano,Urbana
+205,642641,2011,34.0,2,Ens. Fundamental - 3ª série/4º ano,Rural
+206,2842326,2011,35.0,1,Ens. Fundamental - 4ª série/5º Ano,Urbana
+207,617202,2011,35.0,2,Ens. Fundamental - 4ª série/5º Ano,Rural
+208,3422118,2011,41.0,1,Ens. Fundamental - 5ª série/6º ano,Urbana
+209,490519,2011,41.0,2,Ens. Fundamental - 5ª série/6º ano,Rural
+210,3291063,2011,42.0,1,Ens. Fundamental - 6ª série/7º ano,Urbana
+211,426291,2011,42.0,2,Ens. Fundamental - 6ª série/7º ano,Rural
+212,2955369,2011,43.0,1,Ens. Fundamental - 7ª série/8º ano,Urbana
+213,351469,2011,43.0,2,Ens. Fundamental - 7ª série/8º ano,Rural
+214,2771342,2011,44.0,1,Ens. Fundamental - 8ª serie/9º ano,Urbana
+215,295385,2011,44.0,2,Ens. Fundamental - 8ª serie/9º ano,Rural
+216,3346515,2011,51.0,1,Ens. Médio - 1ª série,Urbana
+217,134561,2011,51.0,2,Ens. Médio - 1ª série,Rural
+218,2536511,2011,52.0,1,Ens. Médio - 2ª série,Urbana
+219,98394,2011,52.0,2,Ens. Médio - 2ª série,Rural
+220,2133749,2011,53.0,1,Ens. Médio - 3ª série,Urbana
+221,80039,2011,53.0,2,Ens. Médio - 3ª série,Rural
+222,69991,2011,54.0,1,Ens. Médio - 4ª série,Urbana
+223,2069,2011,54.0,2,Ens. Médio - 4ª série,Rural
+224,696495,2011,61.0,1,EJA - anos iniciais do Ens. Fundamental,Urbana
+225,296970,2011,61.0,2,EJA - anos iniciais do Ens. Fundamental,Rural
+226,1550315,2011,62.0,1,EJA - anos finais do Ens. Fundamental,Urbana
+227,174180,2011,62.0,2,EJA - anos finais do Ens. Fundamental,Rural
+228,1335807,2011,63.0,1,EJA - Ensino Médio,Urbana
+229,28761,2011,63.0,2,EJA - Ensino Médio,Rural
+230,959541,2011,71.0,1,Educação Profissional,Urbana
+231,34443,2011,71.0,2,Educação Profissional,Rural
+232,136969,2012,11.0,1,Creche - Menor de 1 ano,Urbana
+233,3279,2012,11.0,2,Creche - Menor de 1 ano,Rural
+234,406632,2012,12.0,1,Creche - 1 ano,Urbana
+235,11418,2012,12.0,2,Creche - 1 ano,Rural
+236,815437,2012,13.0,1,Creche - 2 anos,Urbana
+237,43009,2012,13.0,2,Creche - 2 anos,Rural
+238,1347905,2012,14.0,1,Creche - 3 anos,Urbana
+239,143154,2012,14.0,2,Creche - 3 anos,Rural
+240,1876516,2012,21.0,1,Pré-escola - 4 anos,Urbana
+241,310867,2012,21.0,2,Pré-escola - 4 anos,Rural
+242,2186609,2012,22.0,1,Pré-escola - 5 anos,Urbana
+243,391096,2012,22.0,2,Pré-escola - 5 anos,Rural
+244,2124282,2012,31.0,1,Ens. Fundamental - 1º Ano,Urbana
+245,439839,2012,31.0,2,Ens. Fundamental - 1º Ano,Rural
+246,2610119,2012,32.0,1,Ens. Fundamental - 1ª série/2º ano,Urbana
+247,549753,2012,32.0,2,Ens. Fundamental - 1ª série/2º ano,Rural
+248,2825650,2012,33.0,1,Ens. Fundamental - 2ª série/3º ano,Urbana
+249,627504,2012,33.0,2,Ens. Fundamental - 2ª série/3º ano,Rural
+250,2611157,2012,34.0,1,Ens. Fundamental - 3ª série/4º ano,Urbana
+251,599510,2012,34.0,2,Ens. Fundamental - 3ª série/4º ano,Rural
+252,2793087,2012,35.0,1,Ens. Fundamental - 4ª série/5º Ano,Urbana
+253,595406,2012,35.0,2,Ens. Fundamental - 4ª série/5º Ano,Rural
+254,3292495,2012,41.0,1,Ens. Fundamental - 5ª série/6º ano,Urbana
+255,479090,2012,41.0,2,Ens. Fundamental - 5ª série/6º ano,Rural
+256,3110785,2012,42.0,1,Ens. Fundamental - 6ª série/7º ano,Urbana
+257,406290,2012,42.0,2,Ens. Fundamental - 6ª série/7º ano,Rural
+258,2982161,2012,43.0,1,Ens. Fundamental - 7ª série/8º ano,Urbana
+259,352982,2012,43.0,2,Ens. Fundamental - 7ª série/8º ano,Rural
+260,2771141,2012,44.0,1,Ens. Fundamental - 8ª serie/9º ano,Urbana
+261,296764,2012,44.0,2,Ens. Fundamental - 8ª serie/9º ano,Rural
+262,3336695,2012,51.0,1,Ens. Médio - 1ª série,Urbana
+263,137299,2012,51.0,2,Ens. Médio - 1ª série,Rural
+264,2511119,2012,52.0,1,Ens. Médio - 2ª série,Urbana
+265,100297,2012,52.0,2,Ens. Médio - 2ª série,Rural
+266,2143164,2012,53.0,1,Ens. Médio - 3ª série,Urbana
+267,82767,2012,53.0,2,Ens. Médio - 3ª série,Rural
+268,64370,2012,54.0,1,Ens. Médio - 4ª série,Urbana
+269,2117,2012,54.0,2,Ens. Médio - 4ª série,Rural
+270,714769,2012,61.0,1,EJA - anos iniciais do Ens. Fundamental,Urbana
+271,279384,2012,61.0,2,EJA - anos iniciais do Ens. Fundamental,Rural
+272,1456971,2012,62.0,1,EJA - anos finais do Ens. Fundamental,Urbana
+273,164585,2012,62.0,2,EJA - anos finais do Ens. Fundamental,Rural
+274,1318389,2012,63.0,1,EJA - Ensino Médio,Urbana
+275,27826,2012,63.0,2,EJA - Ensino Médio,Rural
+276,1029799,2012,71.0,1,Educação Profissional,Urbana
+277,34593,2012,71.0,2,Educação Profissional,Rural
+278,3301593,2013,,1,Não classificada,Urbana
+279,485202,2013,,2,Não classificada,Rural
+280,148957,2013,11.0,1,Creche - Menor de 1 ano,Urbana
+281,3810,2013,11.0,2,Creche - Menor de 1 ano,Rural
+282,449705,2013,12.0,1,Creche - 1 ano,Urbana
+283,14448,2013,12.0,2,Creche - 1 ano,Rural
+284,883742,2013,13.0,1,Creche - 2 anos,Urbana
+285,48706,2013,13.0,2,Creche - 2 anos,Rural
+286,1404148,2013,14.0,1,Creche - 3 anos,Urbana
+287,147562,2013,14.0,2,Creche - 3 anos,Rural
+288,1978094,2013,21.0,1,Pré-escola - 4 anos,Urbana
+289,324028,2013,21.0,2,Pré-escola - 4 anos,Rural
+290,2151341,2013,22.0,1,Pré-escola - 5 anos,Urbana
+291,378774,2013,22.0,2,Pré-escola - 5 anos,Rural
+292,2206186,2013,31.0,1,Ens. Fundamental - 1º Ano,Urbana
+293,436457,2013,31.0,2,Ens. Fundamental - 1º Ano,Rural
+294,2544811,2013,32.0,1,Ens. Fundamental - 1ª série/2º ano,Urbana
+295,512471,2013,32.0,2,Ens. Fundamental - 1ª série/2º ano,Rural
+296,2795583,2013,33.0,1,Ens. Fundamental - 2ª série/3º ano,Urbana
+297,595699,2013,33.0,2,Ens. Fundamental - 2ª série/3º ano,Rural
+298,2706287,2013,34.0,1,Ens. Fundamental - 3ª série/4º ano,Urbana
+299,581129,2013,34.0,2,Ens. Fundamental - 3ª série/4º ano,Rural
+300,2613059,2013,35.0,1,Ens. Fundamental - 4ª série/5º Ano,Urbana
+301,560114,2013,35.0,2,Ens. Fundamental - 4ª série/5º Ano,Rural
+302,3179458,2013,41.0,1,Ens. Fundamental - 5ª série/6º ano,Urbana
+303,470977,2013,41.0,2,Ens. Fundamental - 5ª série/6º ano,Rural
+304,3002726,2013,42.0,1,Ens. Fundamental - 6ª série/7º ano,Urbana
+305,404776,2013,42.0,2,Ens. Fundamental - 6ª série/7º ano,Rural
+306,2823851,2013,43.0,1,Ens. Fundamental - 7ª série/8º ano,Urbana
+307,341105,2013,43.0,2,Ens. Fundamental - 7ª série/8º ano,Rural
+308,2783836,2013,44.0,1,Ens. Fundamental - 8ª serie/9º ano,Urbana
+309,303353,2013,44.0,2,Ens. Fundamental - 8ª serie/9º ano,Rural
+310,3276633,2013,51.0,1,Ens. Médio - 1ª série,Urbana
+311,140875,2013,51.0,2,Ens. Médio - 1ª série,Rural
+312,2515321,2013,52.0,1,Ens. Médio - 2ª série,Urbana
+313,102759,2013,52.0,2,Ens. Médio - 2ª série,Rural
+314,2128635,2013,53.0,1,Ens. Médio - 3ª série,Urbana
+315,84519,2013,53.0,2,Ens. Médio - 3ª série,Rural
+316,63257,2013,54.0,1,Ens. Médio - 4ª série,Urbana
+317,2046,2013,54.0,2,Ens. Médio - 4ª série,Rural
+318,42880,2013,61.0,1,EJA - anos iniciais do Ens. Fundamental,Urbana
+319,526,2013,61.0,2,EJA - anos iniciais do Ens. Fundamental,Rural
+320,1071804,2013,71.0,1,Educação Profissional,Urbana
+321,31205,2013,71.0,2,Educação Profissional,Rural
+322,3138605,2014,,1,Não classificada,Urbana
+323,465930,2014,,2,Não classificada,Rural
+324,162061,2014,11.0,1,Creche - Menor de 1 ano,Urbana
+325,3930,2014,11.0,2,Creche - Menor de 1 ano,Rural
+326,490726,2014,12.0,1,Creche - 1 ano,Urbana
+327,15165,2014,12.0,2,Creche - 1 ano,Rural
+328,955137,2014,13.0,1,Creche - 2 anos,Urbana
+329,55069,2014,13.0,2,Creche - 2 anos,Rural
+330,1474389,2014,14.0,1,Creche - 3 anos,Urbana
+331,156519,2014,14.0,2,Creche - 3 anos,Rural
+332,2002387,2014,21.0,1,Pré-escola - 4 anos,Urbana
+333,319175,2014,21.0,2,Pré-escola - 4 anos,Rural
+334,2237561,2014,22.0,1,Pré-escola - 5 anos,Urbana
+335,388551,2014,22.0,2,Pré-escola - 5 anos,Rural
+336,2168098,2014,31.0,1,Ens. Fundamental - 1º Ano,Urbana
+337,408182,2014,31.0,2,Ens. Fundamental - 1º Ano,Rural
+338,2544230,2014,32.0,1,Ens. Fundamental - 1ª série/2º ano,Urbana
+339,488227,2014,32.0,2,Ens. Fundamental - 1ª série/2º ano,Rural
+340,2733608,2014,33.0,1,Ens. Fundamental - 2ª série/3º ano,Urbana
+341,576102,2014,33.0,2,Ens. Fundamental - 2ª série/3º ano,Rural
+342,2683781,2014,34.0,1,Ens. Fundamental - 3ª série/4º ano,Urbana
+343,566071,2014,34.0,2,Ens. Fundamental - 3ª série/4º ano,Rural
+344,2695528,2014,35.0,1,Ens. Fundamental - 4ª série/5º Ano,Urbana
+345,550551,2014,35.0,2,Ens. Fundamental - 4ª série/5º Ano,Rural
+346,2959317,2014,41.0,1,Ens. Fundamental - 5ª série/6º ano,Urbana
+347,450575,2014,41.0,2,Ens. Fundamental - 5ª série/6º ano,Rural
+348,2941575,2014,42.0,1,Ens. Fundamental - 6ª série/7º ano,Urbana
+349,397113,2014,42.0,2,Ens. Fundamental - 6ª série/7º ano,Rural
+350,2722582,2014,43.0,1,Ens. Fundamental - 7ª série/8º ano,Urbana
+351,342185,2014,43.0,2,Ens. Fundamental - 7ª série/8º ano,Rural
+352,2657604,2014,44.0,1,Ens. Fundamental - 8ª serie/9º ano,Urbana
+353,295394,2014,44.0,2,Ens. Fundamental - 8ª serie/9º ano,Rural
+354,3262937,2014,51.0,1,Ens. Médio - 1ª série,Urbana
+355,143995,2014,51.0,2,Ens. Médio - 1ª série,Rural
+356,2503285,2014,52.0,1,Ens. Médio - 2ª série,Urbana
+357,104550,2014,52.0,2,Ens. Médio - 2ª série,Rural
+358,2139674,2014,53.0,1,Ens. Médio - 3ª série,Urbana
+359,85800,2014,53.0,2,Ens. Médio - 3ª série,Rural
+360,58683,2014,54.0,1,Ens. Médio - 4ª série,Urbana
+361,2451,2014,54.0,2,Ens. Médio - 4ª série,Rural
+362,48049,2014,61.0,1,EJA - anos iniciais do Ens. Fundamental,Urbana
+363,941,2014,61.0,2,EJA - anos iniciais do Ens. Fundamental,Rural
+364,1345114,2014,71.0,1,Educação Profissional,Urbana
+365,29964,2014,71.0,2,Educação Profissional,Rural
+366,174355,2015,11.0,1,Creche - Menor de 1 ano,Urbana
+367,4254,2015,11.0,2,Creche - Menor de 1 ano,Rural
+368,534329,2015,12.0,1,Creche - 1 ano,Urbana
+369,16053,2015,12.0,2,Creche - 1 ano,Rural
+370,989046,2015,13.0,1,Creche - 2 anos,Urbana
+371,54466,2015,13.0,2,Creche - 2 anos,Rural
+372,1530902,2015,14.0,1,Creche - 3 anos,Urbana
+373,165160,2015,14.0,2,Creche - 3 anos,Rural
+374,2015717,2015,21.0,1,Pré-escola - 4 anos,Urbana
+375,316044,2015,21.0,2,Pré-escola - 4 anos,Rural
+376,2193442,2015,22.0,1,Pré-escola - 5 anos,Urbana
+377,366222,2015,22.0,2,Pré-escola - 5 anos,Rural
+378,2163282,2015,31.0,1,Ens. Fundamental - 1º Ano,Urbana
+379,394546,2015,31.0,2,Ens. Fundamental - 1º Ano,Rural
+380,2516983,2015,32.0,1,Ens. Fundamental - 1ª série/2º ano,Urbana
+381,466536,2015,32.0,2,Ens. Fundamental - 1ª série/2º ano,Rural
+382,2752346,2015,33.0,1,Ens. Fundamental - 2ª série/3º ano,Urbana
+383,557635,2015,33.0,2,Ens. Fundamental - 2ª série/3º ano,Rural
+384,2603384,2015,34.0,1,Ens. Fundamental - 3ª série/4º ano,Urbana
+385,542914,2015,34.0,2,Ens. Fundamental - 3ª série/4º ano,Rural
+386,2642148,2015,35.0,1,Ens. Fundamental - 4ª série/5º Ano,Urbana
+387,534979,2015,35.0,2,Ens. Fundamental - 4ª série/5º Ano,Rural
+388,3012511,2015,41.0,1,Ens. Fundamental - 5ª série/6º ano,Urbana
+389,442482,2015,41.0,2,Ens. Fundamental - 5ª série/6º ano,Rural
+390,2720840,2015,42.0,1,Ens. Fundamental - 6ª série/7º ano,Urbana
+391,383775,2015,42.0,2,Ens. Fundamental - 6ª série/7º ano,Rural
+392,2659134,2015,43.0,1,Ens. Fundamental - 7ª série/8º ano,Urbana
+393,338551,2015,43.0,2,Ens. Fundamental - 7ª série/8º ano,Rural
+394,2515713,2015,44.0,1,Ens. Fundamental - 8ª serie/9º ano,Urbana
+395,295793,2015,44.0,2,Ens. Fundamental - 8ª serie/9º ano,Rural
+396,3091061,2015,51.0,1,Ens. Médio - 1ª série,Urbana
+397,142944,2015,51.0,2,Ens. Médio - 1ª série,Rural
+398,2501716,2015,52.0,1,Ens. Médio - 2ª série,Urbana
+399,109815,2015,52.0,2,Ens. Médio - 2ª série,Rural
+400,2083118,2015,53.0,1,Ens. Médio - 3ª série,Urbana
+401,90070,2015,53.0,2,Ens. Médio - 3ª série,Rural
+402,55194,2015,54.0,1,Ens. Médio - 4ª série,Urbana
+403,2230,2015,54.0,2,Ens. Médio - 4ª série,Rural
+404,558523,2015,61.0,1,EJA - anos iniciais do Ens. Fundamental,Urbana
+405,245600,2015,61.0,2,EJA - anos iniciais do Ens. Fundamental,Rural
+406,1215288,2015,62.0,1,EJA - anos finais do Ens. Fundamental,Urbana
+407,163132,2015,62.0,2,EJA - anos finais do Ens. Fundamental,Rural
+408,1273304,2015,63.0,1,EJA - Ensino Médio,Urbana
+409,35922,2015,63.0,2,EJA - Ensino Médio,Rural
+410,1275704,2015,71.0,1,Educação Profissional,Urbana
+411,49349,2015,71.0,2,Educação Profissional,Rural
+412,190566,2016,11.0,1,Creche - Menor de 1 ano,Urbana
+413,4476,2016,11.0,2,Creche - Menor de 1 ano,Rural
+414,559353,2016,12.0,1,Creche - 1 ano,Urbana
+415,17090,2016,12.0,2,Creche - 1 ano,Rural
+416,1042971,2016,13.0,1,Creche - 2 anos,Urbana
+417,57913,2016,13.0,2,Creche - 2 anos,Rural
+418,1572161,2016,14.0,1,Creche - 3 anos,Urbana
+419,161516,2016,14.0,2,Creche - 3 anos,Rural
+420,2124406,2016,21.0,1,Pré-escola - 4 anos,Urbana
+421,331926,2016,21.0,2,Pré-escola - 4 anos,Rural
+422,2229387,2016,22.0,1,Pré-escola - 5 anos,Urbana
+423,363631,2016,22.0,2,Pré-escola - 5 anos,Rural
+424,2121473,2016,31.0,1,Ens. Fundamental - 1º Ano,Urbana
+425,373412,2016,31.0,2,Ens. Fundamental - 1º Ano,Rural
+426,2535510,2016,32.0,1,Ens. Fundamental - 1ª série/2º ano,Urbana
+427,448334,2016,32.0,2,Ens. Fundamental - 1ª série/2º ano,Rural
+428,2752866,2016,33.0,1,Ens. Fundamental - 2ª série/3º ano,Urbana
+429,539698,2016,33.0,2,Ens. Fundamental - 2ª série/3º ano,Rural
+430,2650117,2016,34.0,1,Ens. Fundamental - 3ª série/4º ano,Urbana
+431,529351,2016,34.0,2,Ens. Fundamental - 3ª série/4º ano,Rural
+432,2594828,2016,35.0,1,Ens. Fundamental - 4ª série/5º Ano,Urbana
+433,520166,2016,35.0,2,Ens. Fundamental - 4ª série/5º Ano,Rural
+434,2982227,2016,41.0,1,Ens. Fundamental - 5ª série/6º ano,Urbana
+435,438941,2016,41.0,2,Ens. Fundamental - 5ª série/6º ano,Rural
+436,2801980,2016,42.0,1,Ens. Fundamental - 6ª série/7º ano,Urbana
+437,380348,2016,42.0,2,Ens. Fundamental - 6ª série/7º ano,Rural
+438,2500061,2016,43.0,1,Ens. Fundamental - 7ª série/8º ano,Urbana
+439,331025,2016,43.0,2,Ens. Fundamental - 7ª série/8º ano,Rural
+440,2514616,2016,44.0,1,Ens. Fundamental - 8ª serie/9º ano,Urbana
+441,300235,2016,44.0,2,Ens. Fundamental - 8ª serie/9º ano,Rural
+442,3067646,2016,51.0,1,Ens. Médio - 1ª série,Urbana
+443,149149,2016,51.0,2,Ens. Médio - 1ª série,Rural
+444,2462964,2016,52.0,1,Ens. Médio - 2ª série,Urbana
+445,109974,2016,52.0,2,Ens. Médio - 2ª série,Rural
+446,2175816,2016,53.0,1,Ens. Médio - 3ª série,Urbana
+447,95357,2016,53.0,2,Ens. Médio - 3ª série,Rural
+448,69674,2016,54.0,1,Ens. Médio - 4ª série,Urbana
+449,2458,2016,54.0,2,Ens. Médio - 4ª série,Rural
+450,545507,2016,61.0,1,EJA - anos iniciais do Ens. Fundamental,Urbana
+451,192931,2016,61.0,2,EJA - anos iniciais do Ens. Fundamental,Rural
+452,1221812,2016,62.0,1,EJA - anos finais do Ens. Fundamental,Urbana
+453,145285,2016,62.0,2,EJA - anos finais do Ens. Fundamental,Rural
+454,1339248,2016,63.0,1,EJA - Ensino Médio,Urbana
+455,37391,2016,63.0,2,EJA - Ensino Médio,Rural
+456,1181269,2016,71.0,1,Educação Profissional,Urbana
+457,50414,2016,71.0,2,Educação Profissional,Rural
+458,187709,2017,11.0,1,Creche - Menor de 1 ano,Urbana
+459,5149,2017,11.0,2,Creche - Menor de 1 ano,Rural
+460,583364,2017,12.0,1,Creche - 1 ano,Urbana
+461,21042,2017,12.0,2,Creche - 1 ano,Rural
+462,1110867,2017,13.0,1,Creche - 2 anos,Urbana
+463,70784,2017,13.0,2,Creche - 2 anos,Rural
+464,1627847,2017,14.0,1,Creche - 3 anos,Urbana
+465,174074,2017,14.0,2,Creche - 3 anos,Rural
+466,2136491,2017,21.0,1,Pré-escola - 4 anos,Urbana
+467,326704,2017,21.0,2,Pré-escola - 4 anos,Rural
+468,2276722,2017,22.0,1,Pré-escola - 5 anos,Urbana
+469,372303,2017,22.0,2,Pré-escola - 5 anos,Rural
+470,2119532,2017,31.0,1,Ens. Fundamental - 1º Ano,Urbana
+471,374117,2017,31.0,2,Ens. Fundamental - 1º Ano,Rural
+472,2475897,2017,32.0,1,Ens. Fundamental - 1ª série/2º ano,Urbana
+473,422305,2017,32.0,2,Ens. Fundamental - 1ª série/2º ano,Rural
+474,2751911,2017,33.0,1,Ens. Fundamental - 2ª série/3º ano,Urbana
+475,523801,2017,33.0,2,Ens. Fundamental - 2ª série/3º ano,Rural
+476,2634675,2017,34.0,1,Ens. Fundamental - 3ª série/4º ano,Urbana
+477,512319,2017,34.0,2,Ens. Fundamental - 3ª série/4º ano,Rural
+478,2621381,2017,35.0,1,Ens. Fundamental - 4ª série/5º Ano,Urbana
+479,508281,2017,35.0,2,Ens. Fundamental - 4ª série/5º Ano,Rural
+480,2909336,2017,41.0,1,Ens. Fundamental - 5ª série/6º ano,Urbana
+481,430501,2017,41.0,2,Ens. Fundamental - 5ª série/6º ano,Rural
+482,2767795,2017,42.0,1,Ens. Fundamental - 6ª série/7º ano,Urbana
+483,378351,2017,42.0,2,Ens. Fundamental - 6ª série/7º ano,Rural
+484,2554294,2017,43.0,1,Ens. Fundamental - 7ª série/8º ano,Urbana
+485,330568,2017,43.0,2,Ens. Fundamental - 7ª série/8º ano,Rural
+486,2356856,2017,44.0,1,Ens. Fundamental - 8ª serie/9º ano,Urbana
+487,291836,2017,44.0,2,Ens. Fundamental - 8ª serie/9º ano,Rural
+488,2995860,2017,51.0,1,Ens. Médio - 1ª série,Urbana
+489,149680,2017,51.0,2,Ens. Médio - 1ª série,Rural
+490,2395895,2017,52.0,1,Ens. Médio - 2ª série,Urbana
+491,113825,2017,52.0,2,Ens. Médio - 2ª série,Rural
+492,2112470,2017,53.0,1,Ens. Médio - 3ª série,Urbana
+493,93204,2017,53.0,2,Ens. Médio - 3ª série,Rural
+494,66805,2017,54.0,1,Ens. Médio - 4ª série,Urbana
+495,2644,2017,54.0,2,Ens. Médio - 4ª série,Rural
+496,554262,2017,61.0,1,EJA - anos iniciais do Ens. Fundamental,Urbana
+497,235746,2017,61.0,2,EJA - anos iniciais do Ens. Fundamental,Rural
+498,1232212,2017,62.0,1,EJA - anos finais do Ens. Fundamental,Urbana
+499,150684,2017,62.0,2,EJA - anos finais do Ens. Fundamental,Rural
+500,1386473,2017,63.0,1,EJA - Ensino Médio,Urbana
+501,39339,2017,63.0,2,EJA - Ensino Médio,Rural
+502,1176054,2017,71.0,1,Educação Profissional,Urbana
+503,46128,2017,71.0,2,Educação Profissional,Rural
+504,199270,2018,11.0,1,Creche - Menor de 1 ano,Urbana
+505,5460,2018,11.0,2,Creche - Menor de 1 ano,Rural
+506,589131,2018,12.0,1,Creche - 1 ano,Urbana
+507,21431,2018,12.0,2,Creche - 1 ano,Rural
+508,1164878,2018,13.0,1,Creche - 2 anos,Urbana
+509,76485,2018,13.0,2,Creche - 2 anos,Rural
+510,1715671,2018,14.0,1,Creche - 3 anos,Urbana
+511,187279,2018,14.0,2,Creche - 3 anos,Rural
+512,2177579,2018,21.0,1,Pré-escola - 4 anos,Urbana
+513,327584,2018,21.0,2,Pré-escola - 4 anos,Rural
+514,2277408,2018,22.0,1,Pré-escola - 5 anos,Urbana
+515,357781,2018,22.0,2,Pré-escola - 5 anos,Rural
+516,2153139,2018,31.0,1,Ens. Fundamental - 1º Ano,Urbana
+517,368469,2018,31.0,2,Ens. Fundamental - 1º Ano,Rural
+518,2474313,2018,32.0,1,Ens. Fundamental - 1ª série/2º ano,Urbana
+519,413078,2018,32.0,2,Ens. Fundamental - 1ª série/2º ano,Rural
+520,2684498,2018,33.0,1,Ens. Fundamental - 2ª série/3º ano,Urbana
+521,487014,2018,33.0,2,Ens. Fundamental - 2ª série/3º ano,Rural
+522,2638608,2018,34.0,1,Ens. Fundamental - 3ª série/4º ano,Urbana
+523,493696,2018,34.0,2,Ens. Fundamental - 3ª série/4º ano,Rural
+524,2618388,2018,35.0,1,Ens. Fundamental - 4ª série/5º Ano,Urbana
+525,490447,2018,35.0,2,Ens. Fundamental - 4ª série/5º Ano,Rural
+526,2913309,2018,41.0,1,Ens. Fundamental - 5ª série/6º ano,Urbana
+527,420418,2018,41.0,2,Ens. Fundamental - 5ª série/6º ano,Rural
+528,2722132,2018,42.0,1,Ens. Fundamental - 6ª série/7º ano,Urbana
+529,373241,2018,42.0,2,Ens. Fundamental - 6ª série/7º ano,Rural
+530,2544352,2018,43.0,1,Ens. Fundamental - 7ª série/8º ano,Urbana
+531,326143,2018,43.0,2,Ens. Fundamental - 7ª série/8º ano,Rural
+532,2416655,2018,44.0,1,Ens. Fundamental - 8ª serie/9º ano,Urbana
+533,291299,2018,44.0,2,Ens. Fundamental - 8ª serie/9º ano,Rural
+534,2837289,2018,51.0,1,Ens. Médio - 1ª série,Urbana
+535,148637,2018,51.0,2,Ens. Médio - 1ª série,Rural
+536,2374465,2018,52.0,1,Ens. Médio - 2ª série,Urbana
+537,115032,2018,52.0,2,Ens. Médio - 2ª série,Rural
+538,2077389,2018,53.0,1,Ens. Médio - 3ª série,Urbana
+539,99856,2018,53.0,2,Ens. Médio - 3ª série,Rural
+540,54645,2018,54.0,1,Ens. Médio - 4ª série,Urbana
+541,2616,2018,54.0,2,Ens. Médio - 4ª série,Rural
+542,544788,2018,61.0,1,EJA - anos iniciais do Ens. Fundamental,Urbana
+543,236400,2018,61.0,2,EJA - anos iniciais do Ens. Fundamental,Rural
+544,1177742,2018,62.0,1,EJA - anos finais do Ens. Fundamental,Urbana
+545,149225,2018,62.0,2,EJA - anos finais do Ens. Fundamental,Rural
+546,1397150,2018,63.0,1,EJA - Ensino Médio,Urbana
+547,40681,2018,63.0,2,EJA - Ensino Médio,Rural
+548,1229480,2018,71.0,1,Educação Profissional,Urbana
+549,41316,2018,71.0,2,Educação Profissional,Rural
+550,206274,2019,11.0,1,Creche - Menor de 1 ano,Urbana
+551,5860,2019,11.0,2,Creche - Menor de 1 ano,Rural
+552,643730,2019,12.0,1,Creche - 1 ano,Urbana
+553,23317,2019,12.0,2,Creche - 1 ano,Rural
+554,1152173,2019,13.0,1,Creche - 2 anos,Urbana
+555,74075,2019,13.0,2,Creche - 2 anos,Rural
+556,1732891,2019,14.0,1,Creche - 3 anos,Urbana
+557,180773,2019,14.0,2,Creche - 3 anos,Rural
+558,2266764,2019,21.0,1,Pré-escola - 4 anos,Urbana
+559,337560,2019,21.0,2,Pré-escola - 4 anos,Rural
+560,2313106,2019,22.0,1,Pré-escola - 5 anos,Urbana
+561,353291,2019,22.0,2,Pré-escola - 5 anos,Rural
+562,2174769,2019,31.0,1,Ens. Fundamental - 1º Ano,Urbana
+563,352178,2019,31.0,2,Ens. Fundamental - 1º Ano,Rural
+564,2479743,2019,32.0,1,Ens. Fundamental - 1ª série/2º ano,Urbana
+565,402847,2019,32.0,2,Ens. Fundamental - 1ª série/2º ano,Rural
+566,2669510,2019,33.0,1,Ens. Fundamental - 2ª série/3º ano,Urbana
+567,472099,2019,33.0,2,Ens. Fundamental - 2ª série/3º ano,Rural
+568,2595400,2019,34.0,1,Ens. Fundamental - 3ª série/4º ano,Urbana
+569,463070,2019,34.0,2,Ens. Fundamental - 3ª série/4º ano,Rural
+570,2620948,2019,35.0,1,Ens. Fundamental - 4ª série/5º Ano,Urbana
+571,470898,2019,35.0,2,Ens. Fundamental - 4ª série/5º Ano,Rural
+572,2883490,2019,41.0,1,Ens. Fundamental - 5ª série/6º ano,Urbana
+573,407556,2019,41.0,2,Ens. Fundamental - 5ª série/6º ano,Rural
+574,2742545,2019,42.0,1,Ens. Fundamental - 6ª série/7º ano,Urbana
+575,367019,2019,42.0,2,Ens. Fundamental - 6ª série/7º ano,Rural
+576,2512885,2019,43.0,1,Ens. Fundamental - 7ª série/8º ano,Urbana
+577,321469,2019,43.0,2,Ens. Fundamental - 7ª série/8º ano,Rural
+578,2387830,2019,44.0,1,Ens. Fundamental - 8ª serie/9º ano,Urbana
+579,282438,2019,44.0,2,Ens. Fundamental - 8ª serie/9º ano,Rural
+580,2813777,2019,51.0,1,Ens. Médio - 1ª série,Urbana
+581,155128,2019,51.0,2,Ens. Médio - 1ª série,Rural
+582,2216272,2019,52.0,1,Ens. Médio - 2ª série,Urbana
+583,118052,2019,52.0,2,Ens. Médio - 2ª série,Rural
+584,2016899,2019,53.0,1,Ens. Médio - 3ª série,Urbana
+585,100367,2019,53.0,2,Ens. Médio - 3ª série,Rural
+586,43181,2019,54.0,1,Ens. Médio - 4ª série,Urbana
+587,2215,2019,54.0,2,Ens. Médio - 4ª série,Rural
+588,467159,2019,61.0,1,EJA - anos iniciais do Ens. Fundamental,Urbana
+589,216449,2019,61.0,2,EJA - anos iniciais do Ens. Fundamental,Rural
+590,1107895,2019,62.0,1,EJA - anos finais do Ens. Fundamental,Urbana
+591,146080,2019,62.0,2,EJA - anos finais do Ens. Fundamental,Rural
+592,1292976,2019,63.0,1,EJA - Ensino Médio,Urbana
+593,43109,2019,63.0,2,EJA - Ensino Médio,Rural
+594,1205211,2019,71.0,1,Educação Profissional,Urbana
+595,32968,2019,71.0,2,Educação Profissional,Rural

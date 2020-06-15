@@ -85,7 +85,7 @@ SIMCAQ_ROUTE_LIST = [
 	['school/count','adm_dependency:[1,2,3],school_building:true&dims=location'],
 	['school/count','adm_dependency:[1,2,3],school_building:true'],
 	['school/count','adm_dependency:[1,2,3],school_building:false'],
-	['cub','min_month:\"10\",max_month\"\10\"&dims=state'],
+	['cub','min_month:\"10\",max_month:\"10\"&dims=state'],
 	['employees','adm_dependency:[\"1\",\"2\",\"3\"]'],
 	['enrollment','&dims=school_year'],
 	['enrollment','&dims=school_year,adm_dependency_detailed'],
