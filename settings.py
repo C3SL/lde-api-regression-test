@@ -92,7 +92,7 @@ SIMCAQ_ROUTE_LIST = [
 	['enrollment','&dims=school_year,location'],
 	['enrollment_projection',''],
 	['financial','sphere_adm:[\"1\",\"2\"],financial_data:[\"1\",\"3\"]'],
-	['school_infrastructure','adm_dependency:[1,2,3]&dims=location'],
+	#['school_infrastructure','adm_dependency:[1,2,3]&dims=location'],
 	['teacher',',adm_dependency:[\"1\",\"2\",\"3\"],education_type:[\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]&dims=education_type'],
 	['teacher',',adm_dependency:[\"1\",\"2\",\"3\"]']
 
